@@ -1,0 +1,11 @@
+{
+  "id": "obsidian-family-tree",
+  "name": "Family Tree & Lineage Graph",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Dynamic, high-performance Bases-native N-generation radial fan chart and pedigree graph visualization for Obsidian",
+  "author": "Jose Luis Pino",
+  "authorUrl": "https://github.com/joseluispino",
+  "fundingUrl": "https://github.com/sponsors/joseluispino",
+  "isDesktopOnly": false
+}

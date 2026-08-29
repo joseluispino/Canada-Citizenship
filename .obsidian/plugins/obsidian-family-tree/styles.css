@@ -1,0 +1,486 @@
+/* obsidian-family-tree responsive & print styles */
+
+.family-tree-container {
+  margin: 1.2rem 0;
+  padding: 1rem 1.1rem;
+  border-radius: 12px;
+  background: var(--background-secondary, #1e1e2e);
+  border: 1px solid var(--background-modifier-border, #313244);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12);
+  font-family: var(--font-interface, 'Inter', system-ui, -apple-system, sans-serif);
+  width: 100%;
+  max-width: 100%;
+  box-sizing: border-box;
+  overflow-x: hidden;
+}
+
+/* Toolbar Header */
+.family-tree-toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.6rem;
+  margin-bottom: 0.85rem;
+  padding-bottom: 0.65rem;
+  border-bottom: 1px solid var(--background-modifier-border, #313244);
+}
+
+.family-tree-title {
+  font-size: clamp(0.85rem, 1.2vw, 0.95rem);
+  font-weight: 700;
+  color: var(--text-normal, #cdd6f4);
+  display: flex;
+  align-items: center;
+  gap: 0.45rem;
+  letter-spacing: -0.01em;
+}
+
+.family-tree-controls {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+/* Button Groups */
+.family-tree-btn-group {
+  display: inline-flex;
+  align-items: center;
+  background: var(--background-primary, #181825);
+  border: 1px solid var(--background-modifier-border, #45475a);
+  border-radius: 8px;
+  padding: 2px;
+  gap: 2px;
+}
+
+/* Pill Buttons */
+.family-tree-pill-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.3rem;
+  background: transparent;
+  border: none;
+  color: var(--text-muted, #a6adc8);
+  padding: 0.25rem 0.6rem;
+  border-radius: 6px;
+  font-size: clamp(0.72rem, 1vw, 0.78rem);
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.15s ease-in-out;
+  user-select: none;
+  min-height: 26px;
+  box-sizing: border-box;
+}
+
+.family-tree-pill-btn:hover {
+  background: var(--background-modifier-hover, #313244);
+  color: var(--text-normal, #cdd6f4);
+}
+
+.family-tree-pill-btn.active {
+  background: var(--interactive-accent, #89b4fa) !important;
+  color: var(--text-on-accent, #11111b) !important;
+  font-weight: 700 !important;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+}
+
+/* Stepper Controls */
+.family-tree-stepper-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 26px;
+  height: 26px;
+  background: transparent;
+  border: none;
+  color: var(--text-normal, #cdd6f4);
+  font-size: 0.95rem;
+  font-weight: 700;
+  cursor: pointer;
+  border-radius: 5px;
+  transition: all 0.15s ease;
+  user-select: none;
+}
+
+.family-tree-stepper-btn:hover {
+  background: var(--background-modifier-hover, #313244);
+  color: var(--interactive-accent, #89b4fa);
+}
+
+.family-tree-depth-badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 3.6rem;
+  padding: 0.15rem 0.4rem;
+  font-weight: 600;
+  font-size: 0.76rem;
+  color: var(--text-accent, #89b4fa);
+  user-select: none;
+}
+
+/* Zoom & Pan Controls */
+.family-tree-zoom-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.2rem 0.45rem;
+  background: transparent;
+  border: none;
+  color: var(--text-muted, #a6adc8);
+  font-size: 0.76rem;
+  font-weight: 600;
+  cursor: pointer;
+  border-radius: 5px;
+  transition: all 0.15s ease;
+  user-select: none;
+}
+
+.family-tree-zoom-btn:hover {
+  background: var(--background-modifier-hover, #313244);
+  color: var(--text-normal, #cdd6f4);
+}
+
+/* Standalone Tool Button */
+.family-tree-tool-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  background: var(--background-primary, #181825);
+  border: 1px solid var(--background-modifier-border, #45475a);
+  color: var(--text-muted, #a6adc8);
+  padding: 0.25rem 0.55rem;
+  border-radius: 7px;
+  font-size: 0.74rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+
+.family-tree-tool-btn:hover {
+  background: var(--background-modifier-hover, #313244);
+  color: var(--text-normal, #cdd6f4);
+  border-color: var(--interactive-accent, #89b4fa);
+}
+
+/* Graph Wrapper */
+.family-tree-graph-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  max-width: 100%;
+  overflow-x: auto;
+  padding: 0.35rem 0;
+  box-sizing: border-box;
+}
+
+.family-tree-graph-wrapper svg {
+  max-width: 100% !important;
+  height: auto !important;
+  display: block;
+  margin: 0 auto;
+}
+
+/* Dedicated Flow Mode Pannable Viewport */
+.family-tree-graph-wrapper.flow-mode {
+  min-height: 480px;
+  max-height: 680px;
+  overflow: auto;
+  cursor: grab;
+  border: 1px solid var(--background-modifier-border, #313244);
+  border-radius: 8px;
+  background: var(--background-primary, #181825);
+  padding: 1.25rem;
+  display: block;
+  box-sizing: border-box;
+}
+
+.family-tree-graph-wrapper.flow-mode.expanded {
+  max-height: 950px;
+  min-height: 720px;
+}
+
+.family-tree-graph-wrapper.flow-mode.grabbing {
+  cursor: grabbing;
+}
+
+.family-tree-graph-wrapper.flow-mode svg {
+  max-width: none !important;
+  width: auto !important;
+  min-width: 100%;
+  height: auto !important;
+  display: block;
+  margin: 0 auto;
+  transform-origin: top center;
+  transition: transform 0.15s ease-out;
+}
+
+/* Gramps Pedigree Bracket Styles */
+.pedigree-bracket-container {
+  display: flex;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: space-between;
+  gap: clamp(0.5rem, 1.5vw, 1.25rem);
+  padding: 0.5rem 0;
+  width: 100%;
+  max-width: 100%;
+  box-sizing: border-box;
+}
+
+.pedigree-col {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  gap: 0.5rem;
+  flex: 1 1 0;
+  min-width: 0;
+}
+
+.pedigree-card {
+  background: var(--background-primary, #181825);
+  border: 1px solid var(--background-modifier-border, #45475a);
+  border-radius: 8px;
+  padding: clamp(0.35rem, 0.8vw, 0.6rem) clamp(0.45rem, 1vw, 0.75rem);
+  cursor: pointer;
+  transition: all 0.15s ease;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+  overflow: hidden;
+}
+
+.pedigree-card:hover {
+  border-color: var(--interactive-accent, #89b4fa);
+  transform: translateY(-1px);
+}
+
+.pedigree-card.self {
+  border: 2px solid #f97316;
+  background: rgba(249, 115, 22, 0.08);
+}
+
+.pedigree-card.father-branch {
+  border-left: 3.5px solid #3b82f6;
+}
+
+.pedigree-card.mother-branch {
+  border-left: 3.5px solid #eab308;
+}
+
+.pedigree-card.non-binary-branch {
+  border-left: 3.5px solid #8b5cf6;
+}
+
+.pedigree-card.unknown-branch {
+  border-left: 3.5px solid #64748b;
+}
+
+.pedigree-card-name {
+  font-size: clamp(0.75rem, 1.1vw, 0.86rem);
+  font-weight: 600;
+  color: var(--text-normal, #cdd6f4);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.pedigree-card-sub {
+  font-size: clamp(0.68rem, 0.9vw, 0.74rem);
+  color: var(--text-muted, #a6adc8);
+  margin-top: 0.1rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* Hierarchical Descendants Family Units */
+.pedigree-descendants-section {
+  margin-top: 1.1rem;
+  padding-top: 0.85rem;
+  border-top: 1px dashed var(--background-modifier-border, #45475a);
+}
+
+.pedigree-descendants-title {
+  font-size: 0.82rem;
+  font-weight: 700;
+  color: var(--text-normal, #cdd6f4);
+  margin-bottom: 0.65rem;
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.pedigree-branches-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 0.75rem;
+}
+
+.pedigree-branch-card {
+  background: var(--background-primary, #181825);
+  border: 1px solid var(--background-modifier-border, #45475a);
+  border-radius: 8px;
+  padding: 0.6rem 0.75rem;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: column;
+  gap: 0.45rem;
+}
+
+.pedigree-branch-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-bottom: 0.35rem;
+  border-bottom: 1px solid var(--background-modifier-border, #313244);
+  font-weight: 600;
+  font-size: 0.82rem;
+  color: var(--text-normal, #cdd6f4);
+  cursor: pointer;
+}
+
+.pedigree-branch-header:hover {
+  color: var(--interactive-accent, #89b4fa);
+}
+
+.pedigree-branch-children {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  padding-left: 0.5rem;
+  border-left: 2.5px solid #8b5cf6;
+}
+
+.pedigree-descendant-chip {
+  background: var(--background-secondary, #1e1e2e);
+  border: 1px solid var(--background-modifier-border, #45475a);
+  padding: 0.25rem 0.55rem;
+  border-radius: 6px;
+  font-size: clamp(0.72rem, 0.9vw, 0.78rem);
+  color: var(--text-normal, #cdd6f4);
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+
+.pedigree-descendant-chip:hover {
+  border-color: #8b5cf6;
+  background: rgba(139, 92, 246, 0.15);
+  transform: translateY(-1px);
+}
+
+/* Path Tracing Highlights & Dimming */
+.fan-slice.path-active {
+  stroke: #fbbf24 !important;
+  stroke-width: 3.5px !important;
+}
+
+.fan-slice.path-dimmed {
+  opacity: 0.22 !important;
+  filter: grayscale(60%) !important;
+}
+
+.pedigree-card.path-active {
+  border: 2px solid #fbbf24 !important;
+  box-shadow: 0 0 10px rgba(251, 191, 36, 0.45) !important;
+}
+
+.pedigree-card.path-dimmed {
+  opacity: 0.25 !important;
+  filter: grayscale(50%) !important;
+}
+
+/* Toolbar Dropdowns & Breadcrumbs */
+.family-tree-select {
+  background: var(--background-secondary, #1e1e2e);
+  border: 1px solid var(--background-modifier-border, #45475a);
+  border-radius: 6px;
+  color: var(--text-normal, #cdd6f4);
+  font-size: 0.78rem;
+  padding: 0.25rem 0.5rem;
+  cursor: pointer;
+  outline: none;
+  transition: all 0.15s ease;
+}
+
+.family-tree-select:hover {
+  border-color: var(--interactive-accent, #89b4fa);
+}
+
+.family-tree-breadcrumb {
+  background: rgba(59, 130, 246, 0.15);
+  border: 1px solid #3b82f6;
+  border-radius: 6px;
+  color: #60a5fa;
+  font-size: 0.78rem;
+  padding: 0.25rem 0.6rem;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  transition: all 0.15s ease;
+}
+
+.family-tree-breadcrumb:hover {
+  background: rgba(59, 130, 246, 0.25);
+  transform: translateY(-1px);
+}
+
+.family-tree-stats {
+  font-size: 0.72rem;
+  color: var(--text-faint, #6c7086);
+  margin-top: 0.4rem;
+  text-align: right;
+}
+
+/* Tablet & Mobile Adaptations */
+@media (max-width: 768px) {
+  .pedigree-bracket-container {
+    gap: 0.4rem;
+  }
+  .pedigree-card {
+    padding: 0.35rem 0.45rem;
+  }
+  .family-tree-toolbar {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .pedigree-branches-container {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Print & PDF Export Engine */
+@media print {
+  .family-tree-toolbar {
+    display: none !important;
+  }
+  .family-tree-container {
+    background: transparent !important;
+    border: none !important;
+    box-shadow: none !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    page-break-inside: avoid;
+    break-inside: avoid;
+  }
+  .family-tree-graph-wrapper {
+    padding: 0 !important;
+    margin: 0 auto !important;
+  }
+  .family-tree-graph-wrapper svg {
+    max-width: 100% !important;
+    height: auto !important;
+    page-break-inside: avoid;
+    break-inside: avoid;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+  .pedigree-bracket-container {
+    page-break-inside: avoid;
+    break-inside: avoid;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+}
