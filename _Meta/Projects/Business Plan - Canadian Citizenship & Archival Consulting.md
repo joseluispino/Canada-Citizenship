@@ -137,3 +137,59 @@ graph TD
 * **The Traditional Dead End:** Standard genealogical research heuristics assumed that Irish surname ancestors (*Whalen / Whalin*) in Atlantic Canada were invariably Roman Catholic. Consequently, searches spent years fruitlessly querying Catholic Diocesan archives (Drouin collection, Saint John Roman Catholic Diocese) with zero results.
 * **The DIEM-v2 Resolution:** By normalizing regional pedestal shifts and recovering Column 8 (*Religious Profession*) as **"Ch of England" (Anglican)**, the engine completely redirected the archival hunt to the **Anglican Diocese of Fredericton** and PANB Reels F-1096 / F-1110 (All Saints St. Andrews / West Isles Anglican Mission).
 * **The Strategic Moat:** This illustrates the core value proposition of our AI consulting service: **we don't just transcribe documents; we rectify historical research hypotheses that prevent applicants from claiming their citizenship.**
+
+---
+
+## 7. Intellectual Property, Legal Governance & Archival Compliance Strategy
+
+```mermaid
+graph TD
+    classDef secret fill:#2e7d32,stroke:#1b5e20,color:#fff;
+    classDef pub fill:#1565c0,stroke:#0d47a1,color:#fff;
+    classDef comp fill:#6a1b9a,stroke:#4a148c,color:#fff;
+
+    IP["<b>IP & Legal Governance Framework</b>"]
+    
+    IP --> S1["<b>Proprietary Trade Secret Moat</b><br/>• Decoupled Two-Layer Engine<br/>• DIEM-v2 Closed-Loop Judge<br/>• Zero Public Patent Disclosure"]:::secret
+    
+    IP --> S2["<b>Public Domain Crown Clearance</b><br/>• 19th-Century Sovereign Records<br/>• Bridgeman v. Corel Doctrine<br/>• CCH Canadian Copyright Precedent"]:::pub
+    
+    IP --> S3["<b>Ancestry TOS & Professional Compliance</b><br/>• Professional Fair-Use Scope<br/>• Commercialize Service, Not Scans<br/>• Canonical LAC/PANB Citation"]:::comp
+```
+
+### 7.1 Trade Secret Protection over Public Patent Filing
+Rather than filing expensive ($15k–$30k) and slow (2–3 yr) patent applications that require full public disclosure of our morphological line-healing kernels and Vision Judge prompts:
+* **The "Black Box" Backend Advantage:** The Archival Vision Engine and DIEM-v2 metric operate strictly as confidential, private trade secrets under the **Defend Trade Secrets Act (DTSA)** and state Uniform Trade Secrets Acts (UTSA).
+* **Zero Reverse-Engineerability:** Clients and IRCC adjudicators receive pristine, enhanced 2x PDF facsimiles and certified statutory briefs. It is impossible for competitors to determine whether the restoration was achieved via two-layer Sauvola morphology, custom U-Nets, or diffusion models.
+
+### 7.2 Public Domain Doctrine & Copyright Immunity
+* **Underlying Crown Records are Public Domain (*Jus Publicum*):** Pre-1900 Canadian and British North American colonial records (census returns, parish registers, civil deeds) have zero copyright restrictions.
+* **Non-Copyrightability of Exact Facsimiles:** Under landmark US and Canadian legal doctrines (*Bridgeman Art Library v. Corel Corp.* and *CCH Canadian Ltd. v. Law Society of Upper Canada*), exact digital facsimiles of two-dimensional public domain documents do not create a new copyright because they lack independent creative authorship.
+
+### 7.3 Ancestry Terms of Service Compliance Protocol
+To maintain 100% legal immunity, zero platform friction, and maximum IRCC credibility:
+1. **Canonical Sovereign Citation:** In all client dossiers, application briefs, and IRCC submissions, NEVER cite vendor search portals like "Ancestry.com". Always cite the official Crown repository:
+   $$\text{"Library and Archives Canada (LAC), Microfilm Reel C-1001, West Isles Parish, Charlotte County, Schedule A, Page 13"}$$
+2. **Direct Open-Access Ingestion:** Wherever possible, master scans are ingested from open public repositories (LAC Open Data, FamilySearch Digital Library, PANB VISSE, BAnQ).
+3. **Commercialize High-Value Legal Synthesis, Not Scans:** Client invoices explicitly bill for:
+   * *Bill C-3 / S-245 Multi-Generational Lineage Proof Synthesis*
+   * *DIEM-v2 Archival Microfilm Reconstruction & Paleographic Analysis*
+   * *Turnkey IRCC Statutory Evidentiary Brief Compilation*
+
+---
+
+## 8. High-Velocity Asymmetric Economics (The High-Margin Engine)
+
+### 🚀 The Unfair Operational Advantage:
+* **Execution Velocity:** While traditional immigration law firms take **4 to 8 weeks** of billable associate hours to manually parse genealogies and transcribe faded microfilms, our automated local stack executes the entire end-to-end pipeline in **$< 15\text{ minutes}$ of compute time**.
+* **Zero Marginal Cost of Compute:** Local Ollama acceleration (`qwen2.5-coder:32b`, `mistral-nemo:12b`) on the `kern` workstation delivers **$0.00 API inference cost**.
+* **Extreme Client ROI:** A client investing **$2,495 – $4,995** unlocks lifelong Canadian citizenship, universal healthcare, subsidized Canadian university tuition, and G7 passports for their entire multi-generational family under Bill C-3.
+* **Gross Margin Profile:** **$>99\%$ Gross Margin** on Tier 2 engagements.
+
+---
+
+## 9. Next Operational Action Items
+
+1. **Client Intake Funnel:** Deploy a lightweight web intake form (collecting birth dates/places of parents and grandparents) connected to the instant `parallel_genealogy_discovery_engine.py`.
+2. **Standardized IRCC Dossier Output:** Automate the one-click generation of the complete IRCC evidence binder (including cover brief, dynamic SVG lineage graph, 2x enhanced microfilm cards, and pre-filled CIT 0001 application).
+3. **Targeted Geo-Marketing:** Focus customer acquisition in high-density Canadian heritage corridors: New England (Maine, Massachusetts, New Hampshire), New York, Michigan, Washington State, and California.
