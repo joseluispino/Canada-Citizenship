@@ -4,9 +4,9 @@ adr_id: ADR-021
 status: "Active / Enforced"
 date: 2026-08-29
 authors:
-  - "[[Jose Luis Pino]]"
+  - "Jose Luis Pino"
 deciders:
-  - "[[Jose Luis Pino]]"
+  - "Jose Luis Pino"
 tags:
   - type/adr
   - topic/architecture

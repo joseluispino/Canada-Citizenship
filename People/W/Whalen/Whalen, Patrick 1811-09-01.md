@@ -23,8 +23,8 @@ spouse:
   - "[[Leslie, Eliza 1824]]"
 children:
   - "[[Whalen, John Warren 1860-08-12]]"
-  - "[[Whalen, William H. 1845]]"
-  - "[[Whalen, Thomas E. 1848]]"
+  - "[[Whalen, William H 1845]]"
+  - "[[Whalen, Thomas E 1848]]"
 citizenship_status: us_citizen_maritime_lineage
 citizenship_project_lineage:
   - Chain A

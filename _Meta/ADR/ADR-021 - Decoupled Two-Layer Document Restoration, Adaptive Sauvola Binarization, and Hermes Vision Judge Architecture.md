@@ -90,7 +90,7 @@ All parameter tuning must operate within an autonomous closed-loop evaluation cy
 ## 📊 Dual-Asset Microfilm Retention & Citation
 Every ingested primary record must maintain two synchronized assets in `Sources/Microfilms/`:
 1. `*-Master.jpg`: Raw archival scan preserving camera optical baseline.
-2. `*-Enhanced.jpg`: Certified 2x restored facsimile passing DIEM-v2 criteria.
+2. `*-Display.jpg`: Certified 2x restored facsimile passing DIEM-v2 criteria.
 3. Companion `.md`: Containing YAML metadata, external archival URLs, transcription tables, and statutory analysis.
 
 ---

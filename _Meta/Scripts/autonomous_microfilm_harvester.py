@@ -21,7 +21,7 @@ from pathlib import Path
 from PIL import Image
 import numpy as np
 
-VAULT_ROOT = Path("/home/jpino/Obsidian/Genealogy")
+VAULT_ROOT = Path(__file__).resolve().parents[2]
 SOURCES_DIR = VAULT_ROOT / "Sources"
 
 class ArchivalHarvester:

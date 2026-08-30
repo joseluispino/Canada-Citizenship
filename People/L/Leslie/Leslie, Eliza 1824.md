@@ -19,8 +19,8 @@ spouse:
   - "[[Whalen, Patrick 1811-09-01]]"
 children:
   - "[[Whalen, John Warren 1860-08-12]]"
-  - "[[Whalen, William H. 1845]]"
-  - "[[Whalen, Thomas E. 1848]]"
+  - "[[Whalen, William H 1845]]"
+  - "[[Whalen, Thomas E 1848]]"
 citizenship_status: canadian_born_soil_root
 citizenship_project_lineage:
   - Chain A

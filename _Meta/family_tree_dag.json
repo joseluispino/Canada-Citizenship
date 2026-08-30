@@ -1,4 +1,46 @@
 {
+  "Whalen, Thomas E 1848": {
+    "name": "Thomas E. Whalen",
+    "sex": "M",
+    "birth_date": "1848",
+    "death_date": "1914-01-29",
+    "birth_place": "West Isles, Charlotte County, New Brunswick, British North America",
+    "death_place": "Eastport, Washington County, Maine, USA",
+    "locations_lived": [],
+    "citizenship_status": "british_subject_canadian_born",
+    "path": "People/W/Whalen/Whalen, Thomas E 1848.md",
+    "parents": [
+      "Leslie, Eliza 1824",
+      "Whalen, Patrick 1811-09-01"
+    ],
+    "spouse": [],
+    "children": [],
+    "siblings": [
+      "Whalen, John Warren 1860-08-12",
+      "Whalen, William H 1845"
+    ]
+  },
+  "Whalen, William H 1845": {
+    "name": "William H. Whalen",
+    "sex": "M",
+    "birth_date": "1845",
+    "death_date": "1903-02-28",
+    "birth_place": "West Isles, Charlotte County, New Brunswick, British North America",
+    "death_place": "Eastport, Washington County, Maine, USA",
+    "locations_lived": [],
+    "citizenship_status": "british_subject_canadian_born",
+    "path": "People/W/Whalen/Whalen, William H 1845.md",
+    "parents": [
+      "Leslie, Eliza 1824",
+      "Whalen, Patrick 1811-09-01"
+    ],
+    "spouse": [],
+    "children": [],
+    "siblings": [
+      "Whalen, John Warren 1860-08-12",
+      "Whalen, Thomas E 1848"
+    ]
+  },
   "Whalen, Hollis Vernon 1898-12-14": {
     "name": "Hollis Vernon Whalen",
     "sex": "M",
@@ -7,7 +49,8 @@
     "birth_place": "Eastport, Washington County, Maine, USA",
     "death_place": "",
     "locations_lived": [
-      "Eastport, Washington County, Maine"
+      "Eastport, Washington County, Maine",
+      "Calais, Washington County, Maine"
     ],
     "citizenship_status": "us_citizen_canadian_descent",
     "path": "People/W/Whalen/Whalen, Hollis Vernon 1898-12-14.md",
@@ -21,7 +64,9 @@
     "children": [
       "Whalen, Shirley Ann 1936-09-02"
     ],
-    "siblings": []
+    "siblings": [
+      "Whalen, Lulu M 1894"
+    ]
   },
   "Whalen, Shirley Ann 1936-09-02": {
     "name": "Shirley Ann Whalen",
@@ -32,7 +77,8 @@
     "death_place": "",
     "locations_lived": [
       "Eastport, Maine",
-      "Biloxi, Mississippi"
+      "Biloxi, Mississippi",
+      "San Jose, California"
     ],
     "citizenship_status": "us_citizen_canadian_descent",
     "path": "People/W/Whalen/Whalen, Shirley Ann 1936-09-02.md",
@@ -67,7 +113,9 @@
       "Leslie, Eliza 1824"
     ],
     "children": [
-      "Whalen, John Warren 1860-08-12"
+      "Whalen, John Warren 1860-08-12",
+      "Whalen, Thomas E 1848",
+      "Whalen, William H 1845"
     ],
     "siblings": []
   },
@@ -76,13 +124,14 @@
     "sex": "M",
     "birth_date": "1860-08-12",
     "death_date": "",
-    "birth_place": "Lepreau / Deer Island, Charlotte County, New Brunswick, Canada",
+    "birth_place": "West Isles Parish, Charlotte County, New Brunswick, British North America",
     "death_place": "",
     "locations_lived": [
-      "Lepreau, Charlotte County, New Brunswick (1860-1880)",
-      "Eastport, Washington County, Maine (1880-1937)"
+      "Deer Island, Charlotte County, New Brunswick (1860–1880)",
+      "Eastport, Washington County, Maine (1880–1937)",
+      "Calais, Washington County, Maine (1898–1900)"
     ],
-    "citizenship_status": "canadian_citizen_soil_root",
+    "citizenship_status": "canadian_born_soil_root",
     "path": "People/W/Whalen/Whalen, John Warren 1860-08-12.md",
     "parents": [
       "Leslie, Eliza 1824",
@@ -92,9 +141,35 @@
       "Dudley, Samantha Leighton 1860"
     ],
     "children": [
-      "Whalen, Hollis Vernon 1898-12-14"
+      "Whalen, Hollis Vernon 1898-12-14",
+      "Whalen, Lulu M 1894"
     ],
-    "siblings": []
+    "siblings": [
+      "Whalen, Lulu M 1894",
+      "Whalen, Thomas E 1848",
+      "Whalen, William H 1845"
+    ]
+  },
+  "Whalen, Lulu M 1894": {
+    "name": "Lulu M. Whalen",
+    "sex": "F",
+    "birth_date": "1894-06-02",
+    "death_date": "1894-09-07",
+    "birth_place": "Eastport, Washington County, Maine, USA",
+    "death_place": "Eastport, Washington County, Maine, USA",
+    "locations_lived": [],
+    "citizenship_status": "us_citizen_canadian_descent",
+    "path": "People/W/Whalen/Whalen, Lulu M 1894.md",
+    "parents": [
+      "Dudley, Samantha Leighton 1860",
+      "Whalen, John Warren 1860-08-12"
+    ],
+    "spouse": [],
+    "children": [],
+    "siblings": [
+      "Whalen, Hollis Vernon 1898-12-14",
+      "Whalen, John Warren 1860-08-12"
+    ]
   },
   "Pino, Elena Maria 1992-03-09": {
     "name": "Elena Maria Pino",
@@ -251,12 +326,13 @@
     "sex": "F",
     "birth_date": "1967-10-12",
     "death_date": "",
-    "birth_place": "United States",
+    "birth_place": "Los Angeles, California, USA",
     "death_place": "",
     "locations_lived": [
-      "United States (Mississippi, Georgia, California)"
+      "Los Angeles, California",
+      "San Jose, California"
     ],
-    "citizenship_status": "eligible_bill_c3",
+    "citizenship_status": "us_citizen_canadian_descent_applicant",
     "path": "People/P/Phillips/Phillips, Lisa Michelle 1967-10-12.md",
     "parents": [
       "Phillips, WR 1929-03-11",
@@ -298,21 +374,24 @@
   "Leslie, Eliza 1824": {
     "name": "Eliza Leslie",
     "sex": "F",
-    "birth_date": "1824-05-10",
-    "death_date": "",
-    "birth_place": "Lepreau, Charlotte County, New Brunswick, Canada",
-    "death_place": "",
+    "birth_date": "1824",
+    "death_date": "1905",
+    "birth_place": "West Isles Parish, Charlotte County, New Brunswick, British North America",
+    "death_place": "Eastport, Washington County, Maine, USA",
     "locations_lived": [
-      "Lepreau Parish, Charlotte County, New Brunswick"
+      "Deer Island, Charlotte County, New Brunswick",
+      "Eastport, Washington County, Maine"
     ],
-    "citizenship_status": "canadian_citizen_soil_root",
+    "citizenship_status": "canadian_born_soil_root",
     "path": "People/L/Leslie/Leslie, Eliza 1824.md",
     "parents": [],
     "spouse": [
       "Whalen, Patrick 1811-09-01"
     ],
     "children": [
-      "Whalen, John Warren 1860-08-12"
+      "Whalen, John Warren 1860-08-12",
+      "Whalen, Thomas E 1848",
+      "Whalen, William H 1845"
     ],
     "siblings": []
   },
@@ -333,7 +412,8 @@
       "Whalen, John Warren 1860-08-12"
     ],
     "children": [
-      "Whalen, Hollis Vernon 1898-12-14"
+      "Whalen, Hollis Vernon 1898-12-14",
+      "Whalen, Lulu M 1894"
     ],
     "siblings": []
   },

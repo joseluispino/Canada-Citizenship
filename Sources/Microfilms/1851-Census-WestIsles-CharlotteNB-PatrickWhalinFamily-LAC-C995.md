@@ -10,7 +10,7 @@ schedule: "Schedule 1 — Population"
 archive_ref: "Library and Archives Canada (LAC) Microfilm Roll C-995, Page 28, Lines 29–32"
 canonical_url: "https://www.ancestry.com/discoveryui-content/view/524013:1061"
 image_asset_master: "[[Sources/Microfilms/1851-Census-WestIsles-CharlotteNB-PatrickWhalinFamily-LAC-C995-Master.jpg]]"
-image_asset_enhanced: "[[Sources/Microfilms/1851-Census-WestIsles-CharlotteNB-PatrickWhalinFamily-LAC-C995-Enhanced.jpg]]"
+image_asset_enhanced: "[[Sources/Microfilms/1851-Census-WestIsles-CharlotteNB-PatrickWhalinFamily-LAC-C995-Display.jpg]]"
 pixel_resolution_master: "1610 x 1898"
 pixel_resolution_enhanced: "3220 x 3796 (2x Super-Resolution Lanczos)"
 human_readability_raw: "78.1/100"
@@ -20,8 +20,8 @@ machine_readability_enhanced: "94.5/100"
 target_persons:
   - "[[People/W/Whalen/Whalen, Patrick 1811-09-01.md|Patrick Whalen]]"
   - "[[People/L/Leslie/Leslie, Eliza 1824.md|Eliza Leslie]]"
-  - "[[People/W/Whalen/Thomas E. Whalen - URN-GEN-GED-I342470795720.md|Thomas E. Whalen]]"
-  - "[[People/W/Whalen/Frances Ellen Whalen - URN-GEN-GED-I342470795721.md|Frances Ellen Whalen]]"
+  - "[[People/W/Whalen/Whalen, Thomas E 1848.md|Thomas E. Whalen]]"
+  - "Frances Ellen Whalen"
 tags:
   - type/source
   - type/census
@@ -64,7 +64,7 @@ tags:
 ## 🖼️ Dual-Asset Facsimile Previews
 
 ### 1. ✨ 2x Super-Resolution Enhanced Facsimile (High-Readability Reading Copy)
-![1851 Census Enhanced Facsimile](Sources/Microfilms/1851-Census-WestIsles-CharlotteNB-PatrickWhalinFamily-LAC-C995-Enhanced.jpg)
+![1851 Census Enhanced Facsimile](Sources/Microfilms/1851-Census-WestIsles-CharlotteNB-PatrickWhalinFamily-LAC-C995-Display.jpg)
 
 ### 2. 🏛️ Archival Master Scan (Pristine Original)
 ![1851 Census Master Facsimile](Sources/Microfilms/1851-Census-WestIsles-CharlotteNB-PatrickWhalinFamily-LAC-C995-Master.jpg)

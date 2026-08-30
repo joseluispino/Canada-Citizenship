@@ -26,7 +26,7 @@ tags:
 
 ## 📌 Evidentiary Provenance & Repository Coordinates
 * **Subject / Groom:** [[People/W/Whalen/Whalen, John Warren 1860-08-12|John Warren Whalen]] (Age 20, b. New Brunswick, Canada)
-* **Subject / Bride:** [[People/D/Dudley/Samantha Leighton Mattie Dudley - URN-GEN-GED-I342469843071|Samantha Leighton Dudley]] (Age 19, b. Maine)
+* **Subject / Bride:** [[People/D/Dudley/Dudley, Samantha Leighton 1860|Samantha Leighton Dudley]] (Age 19, b. Maine)
 * **Date & Place:** April 28, 1881 • Eastport, Washington County, Maine
 * **Archival Holding:** City of Eastport Civil Marriage Registry Vol. 1881 & Maine State Archives.
 * **Ordering Instructions:** Contact Maine State Archives (Vital Records Section, Augusta, ME) citing Groom John W. Whalen and Bride Samantha L. Dudley, Eastport, April 28, 1881.

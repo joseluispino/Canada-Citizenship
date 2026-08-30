@@ -1,23 +1,24 @@
 ---
 doc_type: person
 tags:
-  - topic/community/family
-  - affiliation/citizenship_chain_a
+- topic/community/family
+- affiliation/citizenship_chain_a
 id: URN-TEST-1860-SLD
 name: Samantha Leighton Dudley
 birth_date: '1860-04-15'
 birth_place: Eastport, Washington County, Maine, USA
 locations_lived:
-  - Eastport, Maine
+- Eastport, Maine
 parents: []
 siblings: []
 spouse:
-  - '[[Whalen, John Warren 1860-08-12]]'
+- '[[Whalen, John Warren 1860-08-12]]'
 children:
-  - '[[Whalen, Hollis Vernon 1898-12-14]]'
+- '[[Whalen, Hollis Vernon 1898-12-14]]'
+- '[[Whalen, Lulu M 1894]]'
 citizenship_status: us_citizen
 citizenship_project_lineage:
-  - Chain A
+- Chain A
 citizenship_generation: G3
 citizenship_proof_status: complete
 document_status: complete
@@ -25,9 +26,8 @@ verification_tier: direct_ancestor
 proven_tier: primary_vital_records
 data_origin: archival_us_records
 sex: F
-sources:
+sources: null
 ---
-
 # 👤 Samantha Leighton Dudley (1860–1944)
 
 ## 📌 Executive Summary

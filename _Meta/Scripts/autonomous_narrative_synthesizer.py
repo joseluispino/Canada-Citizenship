@@ -15,7 +15,7 @@ import os, re, yaml
 from pathlib import Path
 from datetime import datetime
 
-VAULT_ROOT = Path("/home/jpino/Obsidian/Genealogy")
+VAULT_ROOT = Path(__file__).resolve().parents[2]
 PEOPLE_DIR = VAULT_ROOT / "People"
 SOURCES_DIR = VAULT_ROOT / "Sources"
 NARRATIVES_DIR = VAULT_ROOT / "Narratives"

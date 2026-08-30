@@ -10,7 +10,7 @@ schedule: "Schedule 1 — Population"
 archive_ref: "Library and Archives Canada (LAC) Microfilm Roll C-1001, Page 13, Lines 471–478"
 canonical_url: "https://www.ancestry.com/discoveryui-content/view/777284103:1570"
 image_asset_master: "[[Sources/Microfilms/1861-Census-WestIsles-CharlotteNB-PatrickWhalinFamily-LAC-C1001-Master.jpg]]"
-image_asset_enhanced: "[[Sources/Microfilms/1861-Census-WestIsles-CharlotteNB-PatrickWhalinFamily-LAC-C1001-Enhanced.jpg]]"
+image_asset_enhanced: "[[Sources/Microfilms/1861-Census-WestIsles-CharlotteNB-PatrickWhalinFamily-LAC-C1001-Display.jpg]]"
 pixel_resolution_master: "2451 x 2048"
 pixel_resolution_enhanced: "4902 x 4096 (2x Super-Resolution Lanczos)"
 diem_v2_score: "100.0/100 (PASS_PROMOTED)"
@@ -21,11 +21,11 @@ target_persons:
   - "[[People/W/Whalen/Whalen, Patrick 1811-09-01.md|Patrick Whalen]]"
   - "[[People/L/Leslie/Leslie, Eliza 1824.md|Eliza Leslie]]"
   - "[[People/W/Whalen/Whalen, John Warren 1860-08-12.md|John Warren Whalen]]"
-  - "[[People/W/Whalen/Thomas E. Whalen - URN-GEN-GED-I342470795720.md|Thomas E. Whalen]]"
-  - "[[People/W/Whalen/Frances Ellen Whalen - URN-GEN-GED-I342470795721.md|Frances Ellen Whalen]]"
-  - "[[People/W/Whalen/Sarah Jane Whalen - URN-GEN-GED-I342544687134.md|Sarah Jane Whalen]]"
-  - "[[People/W/Whalen/William H Whalen - URN-GEN-GED-I342470795723.md|William H. Whalen]]"
-  - "[[People/W/Whalen/Emma Sophia Whalen - URN-GEN-GED-I342470795724.md|Emma Sophia Whalen]]"
+  - "[[People/W/Whalen/Whalen, Thomas E 1848.md|Thomas E. Whalen]]"
+  - "Frances Ellen Whalen"
+  - "Sarah Jane Whalen"
+  - "[[People/W/Whalen/Whalen, William H 1845.md|William H. Whalen]]"
+  - "Emma Sophia Whalen"
 tags:
   - type/source
   - type/census
@@ -89,7 +89,7 @@ $$\text{Total Inhabitants on Sheet 13} = 7 + 32 = \mathbf{39} \quad (\mathbf{100
 ## 🖼️ Dual-Asset Facsimile Previews
 
 ### 1. ✨ 2x Super-Resolution Enhanced Facsimile (Clean Single-Sheet Copy)
-![1861 Census Enhanced Facsimile](Sources/Microfilms/1861-Census-WestIsles-CharlotteNB-PatrickWhalinFamily-LAC-C1001-Enhanced.jpg)
+![1861 Census Enhanced Facsimile](Sources/Microfilms/1861-Census-WestIsles-CharlotteNB-PatrickWhalinFamily-LAC-C1001-Display.jpg)
 
 ### 2. 🏛️ Archival Master Scan (Pristine Original LAC Microfilm C-1001)
 ![1861 Census Master Facsimile](Sources/Microfilms/1861-Census-WestIsles-CharlotteNB-PatrickWhalinFamily-LAC-C1001-Master.jpg)

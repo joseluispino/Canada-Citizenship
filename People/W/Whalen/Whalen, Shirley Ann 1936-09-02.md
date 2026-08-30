@@ -68,6 +68,6 @@ direction: TD
 ## 📄 Source Documents & Archival Evidence
 
 ### 1. 1936 Certified Maine Record of Birth (No. 36-08142)
-![[Sources/Vital_Statistics/Whalen-Shirley-birth-certificate.jpg|850]]
+![[Sources/Vital_Statistics/1936Birth-WhalenShirleyAnn.jpg|850]]
 * **Archive Reference:** State of Maine Department of Health and Welfare.
 * **Evidentiary Finding:** Establishes father as Hollis Vernon Whalen.

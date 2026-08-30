@@ -14,7 +14,7 @@ import time
 import random
 from pathlib import Path
 
-VAULT_PATH = Path("/home/jpino/Obsidian/Genealogy")
+VAULT_PATH = Path(__file__).resolve().parents[2]
 INBOX_PATH = VAULT_PATH / "Sources" / "_Inbox"
 COOKIES_PATH = Path.home() / ".config" / "genealogy" / "session_cookies.json"
 

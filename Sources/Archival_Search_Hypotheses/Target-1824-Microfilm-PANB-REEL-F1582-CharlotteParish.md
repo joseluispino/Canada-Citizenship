@@ -3,7 +3,7 @@
 doc_type: research_hypothesis
 id: PANB-REEL-F1582
 name: "PANB Microfilm Reel F-1582 — Charlotte County Parish Registers (1824)"
-target_person: "[[People/H/Heney/Heney, Huldah - URN-GEN-HH.md|Huldah Heney]]"
+target_person: "Huldah Heney"
 archive: "Provincial Archives of New Brunswick (PANB)"
 archive_ref: "PANB Microfilm Reel F-1582, St. Andrews / Charlotte Parish Register Vol. 2, Page 54"
 external_url: "https://archives.gnb.ca/Search/Microfilm/PANB-F1582"
@@ -18,7 +18,7 @@ tags:
 # 🎞️ PANB Microfilm Reel F-1582 — Charlotte County Parish Registers (1824)
 
 ## 📌 Archival Holding & Microfilm Provenance
-* **Target Individual:** [[People/H/Heney/Heney, Huldah - URN-GEN-HH.md|Huldah Heney]]
+* **Target Individual:** Huldah Heney
 * **Archival Repository:** Provincial Archives of New Brunswick (PANB)
 * **Microfilm Holding Locator:** `PANB Microfilm Reel F-1582, St. Andrews / Charlotte Parish Register Vol. 2, Page 54`
 

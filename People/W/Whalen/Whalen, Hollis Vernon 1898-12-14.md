@@ -1,32 +1,33 @@
 ---
 doc_type: person
 tags:
-  - topic/community/family
-  - affiliation/citizenship_chain_a
+- topic/community/family
+- affiliation/citizenship_chain_a
 id: URN-TEST-1898-12-HVW
 name: Hollis Vernon Whalen
-birth_date: "1898-12-14"
+birth_date: '1898-12-14'
 birth_place: Eastport, Washington County, Maine, USA
-father_birth_place: "New Brunswick, Canada"
-mother_birth_place: "Maine, USA"
-religion: "Church of England / Protestant"
+father_birth_place: New Brunswick, Canada
+mother_birth_place: Maine, USA
+religion: Church of England / Protestant
 occupations:
-  - "Sardine Factory Worker"
-  - "Day Laborer"
+- Sardine Factory Worker
+- Day Laborer
 locations_lived:
-  - "Eastport, Washington County, Maine"
-  - "Calais, Washington County, Maine"
+- Eastport, Washington County, Maine
+- Calais, Washington County, Maine
 parents:
-  - "[[Dudley, Samantha Leighton 1860]]"
-  - "[[Whalen, John Warren 1860-08-12]]"
-siblings: []
+- '[[Dudley, Samantha Leighton 1860]]'
+- '[[Whalen, John Warren 1860-08-12]]'
+siblings:
+- '[[Whalen, Lulu M 1894]]'
 spouse:
-  - "[[Dunklee, Alice Evelyn 1906]]"
+- '[[Dunklee, Alice Evelyn 1906]]'
 children:
-  - "[[Whalen, Shirley Ann 1936-09-02]]"
+- '[[Whalen, Shirley Ann 1936-09-02]]'
 citizenship_status: us_citizen_canadian_descent
 citizenship_project_lineage:
-  - Chain A
+- Chain A
 citizenship_generation: G2
 citizenship_proof_status: complete
 document_status: complete
@@ -35,12 +36,11 @@ proven_tier: primary_vital_records
 data_origin: archival_us_records
 sex: M
 sources:
-  - "[[Sources/Vital_Statistics/1898Birth-HollisWhalen.md]]"
-  - "[[Sources/Census/1900-Census-CalaisME-JohnWWhalenFamily.md]]"
-  - "[[Sources/Vital_Statistics/Whalen-Shirley-birth-certificate.md]]"
-  - "[[Sources/Vital_Statistics/Funeral-Hollis Vernon Whalen p2 2.pdf.md]]"
+- '[[Sources/Vital_Statistics/1898Birth-HollisWhalen.md]]'
+- '[[Sources/Census/1900-Census-CalaisME-JohnWWhalenFamily.md]]'
+- '[[Sources/Vital_Statistics/Whalen-Shirley-birth-certificate.md]]'
+- '[[Sources/Vital_Statistics/Funeral-Hollis Vernon Whalen p2 2.pdf.md]]'
 ---
-
 # 👤 Hollis Vernon Whalen (1898–1974)
 
 ## 📌 Executive Summary

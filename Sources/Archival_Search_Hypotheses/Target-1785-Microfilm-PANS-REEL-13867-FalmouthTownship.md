@@ -3,7 +3,7 @@
 doc_type: research_hypothesis
 id: PANS-REEL-13867
 name: "Nova Scotia Archives Reel 13867 — Falmouth Township Vital & Land Grants"
-target_person: "[[People/M/Mitchner/Mitchner, Abel - URN-GEN-AM.md|Abel Mitchener]]"
+target_person: "Abel Mitchener"
 archive: "Nova Scotia Archives (PANS), Halifax, NS"
 archive_ref: "PANS Microfilm Reel 13867, Falmouth Township Book, Vol. 1, Page 38"
 external_url: "https://archives.novascotia.ca/census/rg1vol443/"
@@ -18,7 +18,7 @@ tags:
 # 🎞️ Nova Scotia Archives Reel 13867 — Falmouth Township Vital & Land Grants
 
 ## 📌 Archival Holding & Microfilm Provenance
-* **Target Individual:** [[People/M/Mitchner/Mitchner, Abel - URN-GEN-AM.md|Abel Mitchener]]
+* **Target Individual:** Abel Mitchener
 * **Archival Repository:** Nova Scotia Archives (PANS), Halifax, NS
 * **Microfilm Holding Locator:** `PANS Microfilm Reel 13867, Falmouth Township Book, Vol. 1, Page 38`
 
