@@ -1,4 +1,3 @@
-# 🔍 Archival Search Hypothesis: 1785-Microfilm-PANS-REEL-13867-FalmouthTownship
 
 ---
 doc_type: research_hypothesis

@@ -4,7 +4,7 @@
 doc_type: research_hypothesis
 id: LAC-REEL-C10376
 name: "LAC Microfilm Reel C-10376 — 1871 Census of Canada (New Brunswick)"
-target_person: "[[People/W/Whalen/Whalen, John Warren 1860-08-12 - URN-GEN-1860-08-JWW.md|John Warren Whalen]]"
+target_person: "[[People/W/Whalen/Whalen, John Warren 1860-08-12.md|John Warren Whalen]]"
 archive: "Library and Archives Canada (LAC) / Canadiana Heritage"
 archive_ref: "RG 31, Microfilm Reel C-10376, District 175 Charlotte, Sub-district Lepreau, Page 22, Line 4"
 external_url: "https://heritage.canadiana.ca/view/oocihm.lac_reel_c10376"
@@ -19,7 +19,7 @@ tags:
 # 🎞️ LAC Microfilm Reel C-10376 — 1871 Census of Canada (New Brunswick)
 
 ## 📌 Archival Holding & Microfilm Provenance
-* **Target Individual:** [[People/W/Whalen/Whalen, John Warren 1860-08-12 - URN-GEN-1860-08-JWW.md|John Warren Whalen]]
+* **Target Individual:** [[People/W/Whalen/Whalen, John Warren 1860-08-12.md|John Warren Whalen]]
 * **Archival Repository:** Library and Archives Canada (LAC) / Canadiana Heritage
 * **Microfilm Holding Locator:** `RG 31, Microfilm Reel C-10376, District 175 Charlotte, Sub-district Lepreau, Page 22, Line 4`
 

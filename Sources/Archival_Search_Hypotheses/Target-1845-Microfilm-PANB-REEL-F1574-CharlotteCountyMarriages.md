@@ -1,10 +1,9 @@
-# 🔍 Archival Search Hypothesis: 1845-Microfilm-PANB-REEL-F1574-CharlotteCountyMarriages
 
 ---
 doc_type: research_hypothesis
 id: PANB-REEL-F1574
 name: "PANB Microfilm Reel F-1574 — Charlotte County Marriage Register (1845)"
-target_person: "[[People/W/Whalen/Whalen, Patrick 1811-09-01 - URN-GEN-1811-09-PW.md|Patrick Whalen & Eliza Leslie]]"
+target_person: "[[People/W/Whalen/Whalen, Patrick 1811-09-01.md|Patrick Whalen & Eliza Leslie]]"
 archive: "Provincial Archives of New Brunswick (PANB)"
 archive_ref: "PANB RS141B7, Microfilm Reel F-1574, Charlotte County Marriage Register Vol. B, Page 92"
 external_url: "https://archives.gnb.ca/Search/RS141/1845-Marriage"
@@ -19,7 +18,7 @@ tags:
 # 🎞️ PANB Microfilm Reel F-1574 — Charlotte County Marriage Register (1845)
 
 ## 📌 Archival Holding & Microfilm Provenance
-* **Target Individual:** [[People/W/Whalen/Whalen, Patrick 1811-09-01 - URN-GEN-1811-09-PW.md|Patrick Whalen & Eliza Leslie]]
+* **Target Individual:** [[People/W/Whalen/Whalen, Patrick 1811-09-01.md|Patrick Whalen & Eliza Leslie]]
 * **Archival Repository:** Provincial Archives of New Brunswick (PANB)
 * **Microfilm Holding Locator:** `PANB RS141B7, Microfilm Reel F-1574, Charlotte County Marriage Register Vol. B, Page 92`
 

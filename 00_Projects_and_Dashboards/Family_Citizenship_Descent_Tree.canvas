@@ -1,0 +1,28 @@
+{
+	"nodes":[
+		{"id":"banner-whalen","type":"text","text":"# 🍁 Whalen-Phillips Family: Canadian Citizenship Descent Tree (Bill C-3 / S-245)\\n\\n**Lead Applicant:** Lisa Michelle Phillips (G0) | **Derivative Beneficiaries:** Ana, Elena, Maria, Eva, Alister Pino (G-1)\\n**Canadian Soil Root Anchors:** Eliza Leslie (b. 1824, Lepreau, NB), John Warren Whalen (b. 1860, Lepreau, NB) • Patrick Whalen (1816–1893, ME → NB)","x":200,"y":-220,"width":900,"height":150,"color":"1"},
+		{"id":"node-g4-patrick","type":"file","file":"People/W/Whalen/Whalen, Patrick 1811-09-01.md","x":300,"y":0,"width":320,"height":150,"color":"4"},
+		{"id":"node-g4-eliza","type":"file","file":"People/L/Leslie/Leslie, Eliza 1824.md","x":680,"y":0,"width":320,"height":150,"color":"4"},
+		{"id":"node-g3-jww","type":"file","file":"People/W/Whalen/Whalen, John Warren 1860-08-12.md","x":490,"y":220,"width":320,"height":150,"color":"4"},
+		{"id":"node-g2-hollis","type":"file","file":"People/W/Whalen/Whalen, Hollis Vernon 1898-12-14.md","x":490,"y":440,"width":320,"height":150,"color":"3"},
+		{"id":"node-g1-shirley","type":"file","file":"People/W/Whalen/Whalen, Shirley Ann 1936-09-02.md","x":490,"y":660,"width":320,"height":150,"color":"3"},
+		{"id":"node-g0-lisa","type":"file","file":"People/P/Phillips/Phillips, Lisa Michelle 1967-10-12.md","x":490,"y":880,"width":320,"height":150,"color":"2"},
+		{"id":"node-g-1-ana","type":"file","file":"People/P/Pino/Pino, Ana Maria 1990-09-05.md","x":0,"y":1100,"width":240,"height":140,"color":"2"},
+		{"id":"node-g-1-elena","type":"file","file":"People/P/Pino/Pino, Elena Maria 1992-03-09.md","x":260,"y":1100,"width":240,"height":140,"color":"2"},
+		{"id":"node-g-1-maria","type":"file","file":"People/P/Pino/Pino, Maria Isabel 1994-10-27.md","x":520,"y":1100,"width":240,"height":140,"color":"2"},
+		{"id":"node-g-1-eva","type":"file","file":"People/P/Pino/Pino, Eva Maria 1996-05-01.md","x":780,"y":1100,"width":240,"height":140,"color":"2"},
+		{"id":"node-g-1-alister","type":"file","file":"People/P/Pino/Pino, Alister Jude 1998-05-07.md","x":1040,"y":1100,"width":240,"height":140,"color":"2"}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"node-g4-patrick","fromSide":"bottom","toNode":"node-g3-jww","toSide":"top","label":"Parents of"},
+		{"id":"e2","fromNode":"node-g4-eliza","fromSide":"bottom","toNode":"node-g3-jww","toSide":"top","label":"Parents of"},
+		{"id":"e3","fromNode":"node-g3-jww","fromSide":"bottom","toNode":"node-g2-hollis","toSide":"top","label":"Father of"},
+		{"id":"e4","fromNode":"node-g2-hollis","fromSide":"bottom","toNode":"node-g1-shirley","toSide":"top","label":"Father of"},
+		{"id":"e5","fromNode":"node-g1-shirley","fromSide":"bottom","toNode":"node-g0-lisa","toSide":"top","label":"Mother of"},
+		{"id":"e6","fromNode":"node-g0-lisa","fromSide":"bottom","toNode":"node-g-1-ana","toSide":"top","label":"Mother of"},
+		{"id":"e7","fromNode":"node-g0-lisa","fromSide":"bottom","toNode":"node-g-1-elena","toSide":"top","label":"Mother of"},
+		{"id":"e8","fromNode":"node-g0-lisa","fromSide":"bottom","toNode":"node-g-1-maria","toSide":"top","label":"Mother of"},
+		{"id":"e9","fromNode":"node-g0-lisa","fromSide":"bottom","toNode":"node-g-1-eva","toSide":"top","label":"Mother of"},
+		{"id":"e10","fromNode":"node-g0-lisa","fromSide":"bottom","toNode":"node-g-1-alister","toSide":"top","label":"Mother of"}
+	]
+}

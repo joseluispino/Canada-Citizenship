@@ -61,7 +61,7 @@ graph LR
 ```
 
 1. **Stage 1: Multi-Anchor Family Cluster Mesh (`parallel_genealogy_discovery_engine.py`)**:
-   * Triangulates whole family groups across independent repositories (`ancestry.com`, `familysearch.org`, `canadiana.ca`, `archives.gnb.ca`), resolving 19th-century phonetic surname drift (*Whalin* $\leftrightarrow$ *Whalen*).
+   * Triangulates whole family groups across independent repositories (`ancestry.com`, `familysearch.org`, `canadiana.ca`, `archives.gnb.ca`), resolving 19th-century phonetic surname drift (*Whalin* $\leftr→ *Whalen*).
 2. **Stage 2: DeepZoom & IIIF Master Reconstruction**:
    * Reconstructs raw pyramid master tiles with zero browser UI chrome and bit-perfect fidelity.
 3. **Stage 3: DIEM-v2 Vision Restoration Engine (`document_pipeline.py`)**:

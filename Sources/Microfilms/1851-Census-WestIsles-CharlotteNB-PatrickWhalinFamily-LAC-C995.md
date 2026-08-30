@@ -18,8 +18,8 @@ human_readability_enhanced: "84.4/100"
 machine_readability_raw: "90.6/100"
 machine_readability_enhanced: "94.5/100"
 target_persons:
-  - "[[People/W/Whalen/Whalen, Patrick 1811-09-01 - URN-GEN-1811-09-PW.md|Patrick Whalen]]"
-  - "[[People/L/Leslie/Eliza H Leslie - URN-GEN-GED-I342469845465.md|Eliza Leslie]]"
+  - "[[People/W/Whalen/Whalen, Patrick 1811-09-01.md|Patrick Whalen]]"
+  - "[[People/L/Leslie/Leslie, Eliza 1824.md|Eliza Leslie]]"
   - "[[People/W/Whalen/Thomas E. Whalen - URN-GEN-GED-I342470795720.md|Thomas E. Whalen]]"
   - "[[People/W/Whalen/Frances Ellen Whalen - URN-GEN-GED-I342470795721.md|Frances Ellen Whalen]]"
 tags:

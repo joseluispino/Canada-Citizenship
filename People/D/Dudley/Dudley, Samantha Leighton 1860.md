@@ -26,8 +26,6 @@ proven_tier: primary_vital_records
 data_origin: archival_us_records
 sex: F
 sources:
-  - '[[Sources/Census/1900-Census-EastportME-WhalenFamily.md]]'
-  - '[[Sources/Vital_Statistics/1898-Birth-HollisVernonWhalen-EastportME.md]]'
 ---
 
 # 👤 Samantha Leighton Dudley (1860–1944)
@@ -45,5 +43,3 @@ direction: TD
 ```
 
 ## 📄 Source Documents & Archival Evidence
-* [[Sources/Census/1900-Census-EastportME-WhalenFamily.md|1900 US Federal Census]]
-* [[Sources/Vital_Statistics/1898-Birth-HollisVernonWhalen-EastportME.md|1898 Maine Vital Record of Birth]]

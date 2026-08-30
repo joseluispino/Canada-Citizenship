@@ -1,10 +1,9 @@
-# 🔍 Archival Search Hypothesis: 1851-Microfilm-LAC-REEL-C995-LepreauParish
 
 ---
 doc_type: research_hypothesis
 id: LAC-REEL-C995
 name: "LAC Microfilm Reel C-995 — 1851 Census of New Brunswick"
-target_person: "[[People/W/Whalen/Whalen, Patrick 1811-09-01 - URN-GEN-1811-09-PW.md|Patrick Whalen]]"
+target_person: "[[People/W/Whalen/Whalen, Patrick 1811-09-01.md|Patrick Whalen]]"
 archive: "Library and Archives Canada (LAC)"
 archive_ref: "RG 31, Microfilm Reel C-995, Charlotte County, Lepreau Parish, Page 4, Line 15"
 external_url: "https://heritage.canadiana.ca/view/oocihm.lac_reel_c995"
@@ -19,7 +18,7 @@ tags:
 # 🎞️ LAC Microfilm Reel C-995 — 1851 Census of New Brunswick
 
 ## 📌 Archival Holding & Microfilm Provenance
-* **Target Individual:** [[People/W/Whalen/Whalen, Patrick 1811-09-01 - URN-GEN-1811-09-PW.md|Patrick Whalen]]
+* **Target Individual:** [[People/W/Whalen/Whalen, Patrick 1811-09-01.md|Patrick Whalen]]
 * **Archival Repository:** Library and Archives Canada (LAC)
 * **Microfilm Holding Locator:** `RG 31, Microfilm Reel C-995, Charlotte County, Lepreau Parish, Page 4, Line 15`
 

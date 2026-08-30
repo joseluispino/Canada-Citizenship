@@ -1,4 +1,3 @@
-# 🔍 Archival Search Hypothesis: 1824-Microfilm-PANB-REEL-F1582-CharlotteParish
 
 ---
 doc_type: research_hypothesis

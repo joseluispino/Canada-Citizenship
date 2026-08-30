@@ -26,8 +26,6 @@ proven_tier: primary_vital_records
 data_origin: archival_us_records
 sex: F
 sources:
-  - '[[Sources/Census/1940-Census-EastportME-WhalenFamily.md]]'
-  - '[[Sources/Vital_Statistics/1936-Birth-ShirleyAnnWhalen-EastportME.md]]'
 ---
 
 # 👤 Alice Evelyn Dunklee (1906–1989)
@@ -45,5 +43,3 @@ direction: TD
 ```
 
 ## 📄 Source Documents & Archival Evidence
-* [[Sources/Census/1940-Census-EastportME-WhalenFamily.md|1940 US Federal Census]]
-* [[Sources/Vital_Statistics/1936-Birth-ShirleyAnnWhalen-EastportME.md|1936 Maine Certificate of Birth: Shirley Ann Whalen]]

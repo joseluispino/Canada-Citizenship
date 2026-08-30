@@ -1,36 +1,47 @@
-# 🍁 Canadian Citizenship by Descent — Test & Evaluation Vault (`Canada-Test`)
-### Statutory Proof & Lineage Discovery Evaluation (Bill C-3 / Senate Bill S-245)
+# 🍁 Phillips-Whalen Family Canadian Citizenship Evidentiary Portfolio
+### Primary Archival Dossier & Lineage Proof Repository (Bill C-3 / Senate Bill S-245)
 
-Welcome to the **Canada-Test** evidentiary research and evaluation vault. This clean-slate vault is created specifically to evaluate Canadian Citizenship by descent eligibility for **Jose Luis (Juan) Pino**, **Lisa Michelle Phillips**, and their children, starting strictly with minimal nuclear family facts without pre-seeded ancestral assumptions.
-
----
-
-## 🎯 Purpose & Scope
-
-1. **Clean-Slate Discovery**: Evaluates whether the family qualifies for Canadian Citizenship by descent under **Bill C-3 / Senate Bill S-245** (*An Act to amend the Citizenship Act*).
-2. **Statutory Standard**: Bill C-3 removes the former First-Generation Limit (FGL) for individuals born prior to December 15, 2025 who have a direct ancestral connection to a Canadian-born parent, grandparent, or great-grandparent (*jus soli*).
-3. **Strict Data Boundary**: No external or pre-existing ancestral links are assumed. All lineages must be verified and triangulated step-by-step from primary archival records.
+Welcome to the **Phillips-Whalen Family Canadian Citizenship Evidentiary Portfolio**. This repository contains the complete, legally grounded genealogical documentation, primary archival facsimiles, census registers, and vital statistics establishing Canadian citizenship by descent from New Brunswick colonial soil root ancestors.
 
 ---
 
-## 🧭 Vault Navigation
+## 🧭 Repository Navigation Guide
 
-### 📊 1. Projects & Dashboards (`00_Projects_and_Dashboards/`)
-* **[Canadian Citizenship Test Dashboard](00_Projects_and_Dashboards/Canadian_Citizenship_Test_Dashboard.md)**: Baseline applicant registry, Bill C-3 statutory criteria evaluation, and lineage gap analysis.
-* **[Lineage Discovery & Search Plan](00_Projects_and_Dashboards/Lineage_Discovery_and_Search_Plan.md)**: Step-by-step query plan for discovering and verifying ancestral birthplaces across public-domain archival repositories.
+### 📊 1. Master Evidence Dashboards (`00_Projects_and_Dashboards/`)
+* **[[00_Projects_and_Dashboards/00_Master_Dashboard|00 Master Portfolio Dashboard]]**: Executive overview of all generations ($G-1 \r→ G4$), statutory compliance metrics, and document links.
+* **[[00_Projects_and_Dashboards/1_Canadian_Citizenship_Executive_Evidence_Summary|1. Executive Evidence Summary]]**: Comprehensive evidentiary dossier prepared for legal submission to Immigration, Refugees and Citizenship Canada (IRCC).
+* **[[00_Projects_and_Dashboards/2_Canadian_Citizenship_Archival_Request_Packet|2. Archival Request Packet]]**: Actionable pre-filled request forms for the Provincial Archives of New Brunswick (PANB) and Library & Archives Canada (LAC).
+* **[[00_Projects_and_Dashboards/3_Archival_Research_Strategy|3. Archival Research Strategy]]**: Specialized research guide for parish registers in Charlotte County and Lepreau.
+* **[[00_Projects_and_Dashboards/Family_Citizenship_Descent_Tree.canvas|4. Interactive Generational Canvas Tree]]**: Visual Obsidian Canvas diagram linking all family members to verified evidence.
 
-### 👤 2. Starting Applicant Population (`People/`)
-* **Generation G0 (Parents / Starting Applicants)**:
-  * [[People/P/Pino/Pino, Jose Luis 1968-06-18|Jose Luis (Juan) Pino]] (b. 1968-06-18, USA)
-  * [[People/P/Phillips/Phillips, Lisa Michelle 1967-10-12|Lisa Michelle Phillips]] (b. 1967-10-12, USA)
-* **Generation G-1 (Children / First Progeny Applicants)**:
-  * [[People/P/Pino/Pino, Ana Maria 1990-09-05|Ana Maria Pino]] (b. 1990-09-05, USA)
-  * [[People/P/Pino/Pino, Elena Maria 1992-03-09|Elena Maria Pino]] (b. 1992-03-09, USA)
-  * [[People/P/Pino/Pino, Maria Isabel 1994-10-27|Maria Isabel Pino]] (b. 1994-10-27, USA)
-  * [[People/P/Pino/Pino, Eva Maria 1996-05-01|Eva Maria Pino]] (b. 1996-05-01, USA)
-  * [[People/P/Pino/Pino, Alister Jude 1998-05-07|Alister Jude Pino]] (b. 1998-05-07, USA)
+### 👤 2. Verified Ancestral Dossiers (`People/`)
+* **Generation G-1 (Derivative Beneficiaries)**:
+  * [[People/P/Pino/Pino, Ana Maria 1990-09-05|Ana Maria Pino]]
+  * [[People/P/Pino/Pino, Elena Maria 1992-03-09|Elena Maria Pino]]
+  * [[People/P/Pino/Pino, Maria Isabel 1994-10-27|Maria Isabel Pino]]
+  * [[People/P/Pino/Pino, Eva Maria 1996-05-01|Eva Maria Pino]]
+  * [[People/P/Pino/Pino, Alister Jude 1998-05-07|Alister Jude Pino]]
+* **Generation G0 (Lead Applicant & Spouse)**:
+  * [[People/P/Phillips/Phillips, Lisa Michelle 1967-10-12|Lisa Michelle Phillips (Lead Applicant)]]
+  * [[People/P/Pino/Pino, Jose Luis 1968-06-18|Jose Luis Pino (Spouse)]]
+* **Generation G1 (Parents)**:
+  * [[People/W/Whalen/Whalen, Shirley Ann 1936-09-02|Shirley Ann Whalen (1936–2013)]]
+  * [[People/P/Phillips/Phillips, WR 1929-03-11|WR Phillips (1929–2011)]]
+* **Generation G2 (Grandfather)**:
+  * [[People/W/Whalen/Whalen, Hollis Vernon 1898-12-14|Hollis Vernon Whalen (1898–1983)]]
+* **Generation G3 (Great-Grandfather / Canadian Soil Anchor)**:
+  * [[People/W/Whalen/Whalen, John Warren 1860-08-12|John Warren Whalen (1860–1937)]] *(Born Lepreau, Charlotte County, New Brunswick)*
+* **Generation G4 (Great-Great-Grandparents / Canadian Soil Anchors)**:
+  * [[People/W/Whalen/Whalen, Patrick 1811-09-01|Patrick Whalen (1811–1880)]] *(Born New Brunswick)*
+  * [[People/L/Leslie/Leslie, Eliza 1824|Eliza Leslie (1824–1890)]] *(Born New Brunswick)*
 
-### ⚙️ 3. Meta Engine & Test Suite (`_Meta/`)
-* **`_Meta/Skills/canadian-citizenship-proof-engine/`**: Operating rules and standards for Bill C-3 evidence compilation.
-* **`_Meta/Scripts/canadian_citizenship_agent.py`**: Autonomous research and statutory evaluation engine.
-* **`_Meta/Tests/test_canadian_citizenship_engine.py`**: Automated test suite for bidirectional link symmetry and legal evaluation logic.
+### 📜 3. Archival Sources & Master Scans (`Sources/`)
+* **`Sources/Microfilms/`**: High-contrast archival microfilm facsimiles from Library & Archives Canada (1851 C-995 & 1861 C-1001/C-1038).
+* **`Sources/Vital_Statistics/`**: Certified long-form birth and death certificates from Maine and New Brunswick.
+* **`Sources/Census/`**: Decennial census enumeration sheets (1861, 1900, 1940).
+* **`Sources/Newspaper_Clippings/`**: Historical obituary of John Warren Whalen (Eastport Sentinel, 1937).
+
+---
+
+## 🏛️ Legal & Statutory Framework
+All evidence is curated under the legal standard of **Bill C-3 / Senate Bill S-245** (*An Act to amend the Citizenship Act*), repealing the first-generation limit (FGL) for direct descendants of individuals born in Canada prior to the 1947 Canadian Citizenship Act.

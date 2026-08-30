@@ -3,71 +3,75 @@ doc_type: person
 tags:
   - topic/community/family
   - affiliation/citizenship_chain_a
-id: URN-TEST-1967-10-LP
+id: URN-TEST-1967-10-LMP
 name: Lisa Michelle Phillips
-birth_date: '1967-10-12'
-birth_place: United States
+birth_date: "1967-10-12"
+birth_place: Los Angeles, California, USA
+mother_birth_place: "Eastport, Washington County, Maine, USA"
+father_birth_place: "California, USA"
+occupations:
+  - "Professional Educator"
 locations_lived:
-  - United States (Mississippi, Georgia, California)
+  - "Los Angeles, California"
+  - "San Jose, California"
 parents:
-  - '[[Phillips, WR 1929-03-11]]'
-  - '[[Whalen, Shirley Ann 1936-09-02]]'
+  - "[[Phillips, WR 1929-03-11]]"
+  - "[[Whalen, Shirley Ann 1936-09-02]]"
 siblings: []
 spouse:
-  - '[[Pino, Jose Luis 1968-06-18]]'
+  - "[[Pino, Jose Luis 1968-06-18]]"
 children:
-  - '[[Pino, Ana Maria 1990-09-05]]'
-  - '[[Pino, Elena Maria 1992-03-09]]'
-  - '[[Pino, Maria Isabel 1994-10-27]]'
-  - '[[Pino, Eva Maria 1996-05-01]]'
-  - '[[Pino, Alister Jude 1998-05-07]]'
-citizenship_status: eligible_bill_c3
+  - "[[Pino, Ana Maria 1990-09-05]]"
+  - "[[Pino, Elena Maria 1992-03-09]]"
+  - "[[Pino, Maria Isabel 1994-10-27]]"
+  - "[[Pino, Eva Maria 1996-05-01]]"
+  - "[[Pino, Alister Jude 1998-05-07]]"
+citizenship_status: us_citizen_canadian_descent_applicant
 citizenship_project_lineage:
   - Chain A
 citizenship_generation: G0
 citizenship_proof_status: complete
-document_status: verified_canadian_descent
-verification_tier: primary_applicant
+document_status: complete
+verification_tier: lead_applicant
 proven_tier: primary_vital_records
-data_origin: verified_lineage_discovery
+data_origin: certified_vital_records
 sex: F
 sources:
-  - '[[Sources/Vital_Statistics/1936-Birth-ShirleyAnnWhalen-EastportME.md]]'
+  - "[[Sources/Vital_Statistics/Lisa-birth-cert.md]]"
 ---
 
-# 👤 Lisa Michelle Phillips (b. 1967-10-12)
+# 👤 Lisa Michelle Phillips (1967–Present)
 
 ## 📌 Executive Summary
-**Lisa Michelle Phillips** (born October 12, 1967 in the United States) is Generation G0 in the Canadian Citizenship proof chain. Through her mother [[Whalen, Shirley Ann 1936-09-02|Shirley Ann Whalen]], maternal grandfather [[Whalen, Hollis Vernon 1898-12-14|Hollis Vernon Whalen]], and maternal great-grandfather [[Whalen, John Warren 1860-08-12|John Warren Whalen]], she has an unbroken, certified line of descent from Canadian soil (*jus soli* root).
+**Lisa Michelle Phillips** (born October 12, 1967) is the **Lead Applicant (Generation G0) in Chain A**. Daughter of [[Whalen, Shirley Ann 1936-09-02|Shirley Ann Whalen]] and [[Phillips, WR 1929-03-11|W.R. Phillips]]. Married [[Pino, Jose Luis 1968-06-18|Jose Luis Pino]], with whom she has five children. Under Bill C-3 / S-245, Lisa and all five children are 100% exempt from the substantial connection test (born prior to Dec 15, 2025) and possess direct rights to Canadian citizenship certificates.
 
 ## 🌳 Family Tree & Dynamic Lineage Graph
 
 ```family-tree
-depth: 3
+depth: 2
 spouses: true
 dates: true
 direction: TD
 ```
 
-## 🗓️ Vital Events & Lineage Connections
-* **Birth:** 1967-10-12 (United States)
-* **Parents:** [[Whalen, Shirley Ann 1936-09-02|Shirley Ann Whalen]] & [[Phillips, WR 1929-03-11|W.R. Phillips]]
-* **Spouse:** [[Pino, Jose Luis 1968-06-18|Jose Luis Pino]]
-* **Children:**
-  * [[Pino, Ana Maria 1990-09-05|Ana Maria Pino]]
-  * [[Pino, Elena Maria 1992-03-09|Elena Maria Pino]]
-  * [[Pino, Maria Isabel 1994-10-27|Maria Isabel Pino]]
-  * [[Pino, Eva Maria 1996-05-01|Eva Maria Pino]]
-  * [[Pino, Alister Jude 1998-05-07|Alister Jude Pino]]
+## 🗓️ Vital Events & Historical Timeline
+* **Birth:** 1967-10-12 in California, USA (Certified Long-Form Birth Certificate naming mother Shirley Ann Whalen).
+* **Marriage:** to [[Pino, Jose Luis 1968-06-18|Jose Luis Pino]].
+* **Births of Progeny (G-1):**
+  * [[Pino, Ana Maria 1990-09-05|Ana Maria Pino]] (1990-09-05)
+  * [[Pino, Elena Maria 1992-03-09|Elena Maria Pino]] (1992-03-09)
+  * [[Pino, Maria Isabel 1994-10-27|Maria Isabel Pino]] (1994-10-27)
+  * [[Pino, Eva Maria 1996-05-01|Eva Maria Pino]] (1996-05-01)
+  * [[Pino, Alister Jude 1998-05-07|Alister Jude Pino]] (1998-05-07)
 
-## 🇨🇦 Canadian Citizenship Proof Chain (Bill C-3 / S-245)
-* **Descent Lineage (Chain A):**
-  1. **$G4$ Colonial Roots:** [[Whalen, Patrick 1811-09-01|Patrick Whalen]] & [[Leslie, Eliza 1824|Eliza Leslie]] (b. New Brunswick).
-  2. **$G3$ Canadian Soil Anchor:** [[Whalen, John Warren 1860-08-12|John Warren Whalen]] (b. August 12, 1860 in Charlotte County, New Brunswick).
-  3. **$G2$ First Generation Abroad:** [[Whalen, Hollis Vernon 1898-12-14|Hollis Vernon Whalen]] (b. 1898 in Eastport, ME).
-  4. **$G1$ Second Generation Abroad:** [[Whalen, Shirley Ann 1936-09-02|Shirley Ann Whalen]] (b. 1936 in Eastport, ME).
-  5. **$G0$ Applicant:** [[Phillips, Lisa Michelle 1967-10-12|Lisa Michelle Phillips]] (b. 1967 in USA).
-* **Statutory Compliance:** Under Bill C-3 / S-245 (repealing First-Generation Limit), Lisa is **100% exempt from the 1,095-day physical presence requirement** and qualifies directly for a Canadian Citizenship Certificate by descent.
+## 📜 Historical Records & Census Appearances
+| Year | Record / Holding | Jurisdiction | Identifier | Age | Extracted Vital Facts | Evidentiary Role for IRCC |
+| :---: | :--- | :--- | :---: | :---: | :--- | :--- |
+| **1967** | **[[Sources/Vital_Statistics/Lisa-birth-cert\|California Long-Form Birth Cert]]** | California, USA | Certified State Copy | 0 | Born Oct 12, 1967. Mother: Shirley Ann Whalen. | 🟢 Lead Applicant G0 $\rightarrow$ G1 Transmission |
 
 ## 📄 Source Documents & Archival Evidence
-* [[Sources/Vital_Statistics/1936-Birth-ShirleyAnnWhalen-EastportME.md|1936 Maine Certificate of Birth: Shirley Ann Whalen]]
+
+### 1. Certified Long-Form Birth Certificate
+![[Sources/Vital_Statistics/Lisa-birth-cert.pdf]]
+* **Archive Reference:** State of California Department of Public Health.
+* **Evidentiary Finding:** Certified official proof establishing maternal descent from Shirley Ann Whalen.

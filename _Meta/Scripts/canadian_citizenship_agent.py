@@ -13,7 +13,7 @@ import yaml
 from pathlib import Path
 from datetime import datetime
 
-VAULT_ROOT = Path("/home/jpino/Obsidian/Canada-Test")
+VAULT_ROOT = Path(__file__).resolve().parents[2]
 
 def parse_year(date_str):
     if not date_str:

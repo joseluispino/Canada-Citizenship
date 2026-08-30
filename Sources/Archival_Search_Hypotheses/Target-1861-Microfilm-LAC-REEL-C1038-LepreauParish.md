@@ -1,10 +1,9 @@
-# 🔍 Archival Search Hypothesis: 1861-Microfilm-LAC-REEL-C1038-LepreauParish
 
 ---
 doc_type: research_hypothesis
 id: LAC-REEL-C1038
 name: "LAC Microfilm Reel C-1038 — 1861 Census of New Brunswick"
-target_person: "[[People/W/Whalen/Whalen, John Warren 1860-08-12 - URN-GEN-1860-08-JWW.md|John Warren Whalen & Patrick Whalen]]"
+target_person: "[[People/W/Whalen/Whalen, John Warren 1860-08-12.md|John Warren Whalen & Patrick Whalen]]"
 archive: "Library and Archives Canada (LAC) / Canadiana Heritage"
 archive_ref: "RG 31, Microfilm Reel C-1038, Charlotte County, Lepreau Parish, Page 12, Line 8"
 external_url: "https://heritage.canadiana.ca/view/oocihm.lac_reel_c1038"
@@ -19,7 +18,7 @@ tags:
 # 🎞️ LAC Microfilm Reel C-1038 — 1861 Census of New Brunswick
 
 ## 📌 Archival Holding & Microfilm Provenance
-* **Target Individual:** [[People/W/Whalen/Whalen, John Warren 1860-08-12 - URN-GEN-1860-08-JWW.md|John Warren Whalen & Patrick Whalen]]
+* **Target Individual:** [[People/W/Whalen/Whalen, John Warren 1860-08-12.md|John Warren Whalen & Patrick Whalen]]
 * **Archival Repository:** Library and Archives Canada (LAC) / Canadiana Heritage
 * **Microfilm Holding Locator:** `RG 31, Microfilm Reel C-1038, Charlotte County, Lepreau Parish, Page 12, Line 8`
 

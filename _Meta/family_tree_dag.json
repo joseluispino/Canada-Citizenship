@@ -1,0 +1,361 @@
+{
+  "Whalen, Hollis Vernon 1898-12-14": {
+    "name": "Hollis Vernon Whalen",
+    "sex": "M",
+    "birth_date": "1898-12-14",
+    "death_date": "",
+    "birth_place": "Eastport, Washington County, Maine, USA",
+    "death_place": "",
+    "locations_lived": [
+      "Eastport, Washington County, Maine"
+    ],
+    "citizenship_status": "us_citizen_canadian_descent",
+    "path": "People/W/Whalen/Whalen, Hollis Vernon 1898-12-14.md",
+    "parents": [
+      "Dudley, Samantha Leighton 1860",
+      "Whalen, John Warren 1860-08-12"
+    ],
+    "spouse": [
+      "Dunklee, Alice Evelyn 1906"
+    ],
+    "children": [
+      "Whalen, Shirley Ann 1936-09-02"
+    ],
+    "siblings": []
+  },
+  "Whalen, Shirley Ann 1936-09-02": {
+    "name": "Shirley Ann Whalen",
+    "sex": "F",
+    "birth_date": "1936-09-02",
+    "death_date": "",
+    "birth_place": "Eastport, Washington County, Maine, USA",
+    "death_place": "",
+    "locations_lived": [
+      "Eastport, Maine",
+      "Biloxi, Mississippi"
+    ],
+    "citizenship_status": "us_citizen_canadian_descent",
+    "path": "People/W/Whalen/Whalen, Shirley Ann 1936-09-02.md",
+    "parents": [
+      "Dunklee, Alice Evelyn 1906",
+      "Whalen, Hollis Vernon 1898-12-14"
+    ],
+    "spouse": [
+      "Phillips, WR 1929-03-11"
+    ],
+    "children": [
+      "Phillips, Lisa Michelle 1967-10-12"
+    ],
+    "siblings": []
+  },
+  "Whalen, Patrick 1811-09-01": {
+    "name": "Patrick Whalen",
+    "sex": "M",
+    "birth_date": "1816-08-16",
+    "death_date": "1893-09-17",
+    "birth_place": "Steuben, Washington County, Maine, USA",
+    "death_place": "Eastport, Washington County, Maine, USA",
+    "locations_lived": [
+      "Steuben, Washington County, Maine",
+      "Deer Island, Charlotte County, New Brunswick",
+      "Eastport, Washington County, Maine"
+    ],
+    "citizenship_status": "us_citizen_maritime_lineage",
+    "path": "People/W/Whalen/Whalen, Patrick 1811-09-01.md",
+    "parents": [],
+    "spouse": [
+      "Leslie, Eliza 1824"
+    ],
+    "children": [
+      "Whalen, John Warren 1860-08-12"
+    ],
+    "siblings": []
+  },
+  "Whalen, John Warren 1860-08-12": {
+    "name": "John Warren Whalen",
+    "sex": "M",
+    "birth_date": "1860-08-12",
+    "death_date": "",
+    "birth_place": "Lepreau / Deer Island, Charlotte County, New Brunswick, Canada",
+    "death_place": "",
+    "locations_lived": [
+      "Lepreau, Charlotte County, New Brunswick (1860-1880)",
+      "Eastport, Washington County, Maine (1880-1937)"
+    ],
+    "citizenship_status": "canadian_citizen_soil_root",
+    "path": "People/W/Whalen/Whalen, John Warren 1860-08-12.md",
+    "parents": [
+      "Leslie, Eliza 1824",
+      "Whalen, Patrick 1811-09-01"
+    ],
+    "spouse": [
+      "Dudley, Samantha Leighton 1860"
+    ],
+    "children": [
+      "Whalen, Hollis Vernon 1898-12-14"
+    ],
+    "siblings": []
+  },
+  "Pino, Elena Maria 1992-03-09": {
+    "name": "Elena Maria Pino",
+    "sex": "F",
+    "birth_date": "1992-03-09",
+    "death_date": "",
+    "birth_place": "United States",
+    "death_place": "",
+    "locations_lived": [
+      "United States"
+    ],
+    "citizenship_status": "eligible_bill_c3",
+    "path": "People/P/Pino/Pino, Elena Maria 1992-03-09.md",
+    "parents": [
+      "Phillips, Lisa Michelle 1967-10-12",
+      "Pino, Jose Luis 1968-06-18"
+    ],
+    "spouse": [],
+    "children": [],
+    "siblings": [
+      "Pino, Alister Jude 1998-05-07",
+      "Pino, Ana Maria 1990-09-05",
+      "Pino, Eva Maria 1996-05-01",
+      "Pino, Maria Isabel 1994-10-27"
+    ]
+  },
+  "Pino, Jose Luis 1968-06-18": {
+    "name": "Jose Luis Pino",
+    "sex": "M",
+    "birth_date": "1968-06-18",
+    "death_date": "",
+    "birth_place": "United States",
+    "death_place": "",
+    "locations_lived": [
+      "United States (Georgia, California)"
+    ],
+    "citizenship_status": "us_citizen",
+    "path": "People/P/Pino/Pino, Jose Luis 1968-06-18.md",
+    "parents": [],
+    "spouse": [
+      "Phillips, Lisa Michelle 1967-10-12"
+    ],
+    "children": [
+      "Pino, Alister Jude 1998-05-07",
+      "Pino, Ana Maria 1990-09-05",
+      "Pino, Elena Maria 1992-03-09",
+      "Pino, Eva Maria 1996-05-01",
+      "Pino, Maria Isabel 1994-10-27"
+    ],
+    "siblings": []
+  },
+  "Pino, Eva Maria 1996-05-01": {
+    "name": "Eva Maria Pino",
+    "sex": "F",
+    "birth_date": "1996-05-01",
+    "death_date": "",
+    "birth_place": "United States",
+    "death_place": "",
+    "locations_lived": [
+      "United States"
+    ],
+    "citizenship_status": "eligible_bill_c3",
+    "path": "People/P/Pino/Pino, Eva Maria 1996-05-01.md",
+    "parents": [
+      "Phillips, Lisa Michelle 1967-10-12",
+      "Pino, Jose Luis 1968-06-18"
+    ],
+    "spouse": [],
+    "children": [],
+    "siblings": [
+      "Pino, Alister Jude 1998-05-07",
+      "Pino, Ana Maria 1990-09-05",
+      "Pino, Elena Maria 1992-03-09",
+      "Pino, Maria Isabel 1994-10-27"
+    ]
+  },
+  "Pino, Ana Maria 1990-09-05": {
+    "name": "Ana Maria Pino",
+    "sex": "F",
+    "birth_date": "1990-09-05",
+    "death_date": "",
+    "birth_place": "United States",
+    "death_place": "",
+    "locations_lived": [
+      "United States"
+    ],
+    "citizenship_status": "eligible_bill_c3",
+    "path": "People/P/Pino/Pino, Ana Maria 1990-09-05.md",
+    "parents": [
+      "Phillips, Lisa Michelle 1967-10-12",
+      "Pino, Jose Luis 1968-06-18"
+    ],
+    "spouse": [],
+    "children": [],
+    "siblings": [
+      "Pino, Alister Jude 1998-05-07",
+      "Pino, Elena Maria 1992-03-09",
+      "Pino, Eva Maria 1996-05-01",
+      "Pino, Maria Isabel 1994-10-27"
+    ]
+  },
+  "Pino, Maria Isabel 1994-10-27": {
+    "name": "Maria Isabel Pino",
+    "sex": "F",
+    "birth_date": "1994-10-27",
+    "death_date": "",
+    "birth_place": "United States",
+    "death_place": "",
+    "locations_lived": [
+      "United States"
+    ],
+    "citizenship_status": "eligible_bill_c3",
+    "path": "People/P/Pino/Pino, Maria Isabel 1994-10-27.md",
+    "parents": [
+      "Phillips, Lisa Michelle 1967-10-12",
+      "Pino, Jose Luis 1968-06-18"
+    ],
+    "spouse": [],
+    "children": [],
+    "siblings": [
+      "Pino, Alister Jude 1998-05-07",
+      "Pino, Ana Maria 1990-09-05",
+      "Pino, Elena Maria 1992-03-09",
+      "Pino, Eva Maria 1996-05-01"
+    ]
+  },
+  "Pino, Alister Jude 1998-05-07": {
+    "name": "Alister Jude Pino",
+    "sex": "M",
+    "birth_date": "1998-05-07",
+    "death_date": "",
+    "birth_place": "United States",
+    "death_place": "",
+    "locations_lived": [
+      "United States"
+    ],
+    "citizenship_status": "eligible_bill_c3",
+    "path": "People/P/Pino/Pino, Alister Jude 1998-05-07.md",
+    "parents": [
+      "Phillips, Lisa Michelle 1967-10-12",
+      "Pino, Jose Luis 1968-06-18"
+    ],
+    "spouse": [],
+    "children": [],
+    "siblings": [
+      "Pino, Ana Maria 1990-09-05",
+      "Pino, Elena Maria 1992-03-09",
+      "Pino, Eva Maria 1996-05-01",
+      "Pino, Maria Isabel 1994-10-27"
+    ]
+  },
+  "Phillips, Lisa Michelle 1967-10-12": {
+    "name": "Lisa Michelle Phillips",
+    "sex": "F",
+    "birth_date": "1967-10-12",
+    "death_date": "",
+    "birth_place": "United States",
+    "death_place": "",
+    "locations_lived": [
+      "United States (Mississippi, Georgia, California)"
+    ],
+    "citizenship_status": "eligible_bill_c3",
+    "path": "People/P/Phillips/Phillips, Lisa Michelle 1967-10-12.md",
+    "parents": [
+      "Phillips, WR 1929-03-11",
+      "Whalen, Shirley Ann 1936-09-02"
+    ],
+    "spouse": [
+      "Pino, Jose Luis 1968-06-18"
+    ],
+    "children": [
+      "Pino, Alister Jude 1998-05-07",
+      "Pino, Ana Maria 1990-09-05",
+      "Pino, Elena Maria 1992-03-09",
+      "Pino, Eva Maria 1996-05-01",
+      "Pino, Maria Isabel 1994-10-27"
+    ],
+    "siblings": []
+  },
+  "Phillips, WR 1929-03-11": {
+    "name": "WR Phillips",
+    "sex": "M",
+    "birth_date": "1929-03-11",
+    "death_date": "",
+    "birth_place": "United States",
+    "death_place": "",
+    "locations_lived": [
+      "Biloxi, Mississippi"
+    ],
+    "citizenship_status": "us_citizen",
+    "path": "People/P/Phillips/Phillips, WR 1929-03-11.md",
+    "parents": [],
+    "spouse": [
+      "Whalen, Shirley Ann 1936-09-02"
+    ],
+    "children": [
+      "Phillips, Lisa Michelle 1967-10-12"
+    ],
+    "siblings": []
+  },
+  "Leslie, Eliza 1824": {
+    "name": "Eliza Leslie",
+    "sex": "F",
+    "birth_date": "1824-05-10",
+    "death_date": "",
+    "birth_place": "Lepreau, Charlotte County, New Brunswick, Canada",
+    "death_place": "",
+    "locations_lived": [
+      "Lepreau Parish, Charlotte County, New Brunswick"
+    ],
+    "citizenship_status": "canadian_citizen_soil_root",
+    "path": "People/L/Leslie/Leslie, Eliza 1824.md",
+    "parents": [],
+    "spouse": [
+      "Whalen, Patrick 1811-09-01"
+    ],
+    "children": [
+      "Whalen, John Warren 1860-08-12"
+    ],
+    "siblings": []
+  },
+  "Dudley, Samantha Leighton 1860": {
+    "name": "Samantha Leighton Dudley",
+    "sex": "F",
+    "birth_date": "1860-04-15",
+    "death_date": "",
+    "birth_place": "Eastport, Washington County, Maine, USA",
+    "death_place": "",
+    "locations_lived": [
+      "Eastport, Maine"
+    ],
+    "citizenship_status": "us_citizen",
+    "path": "People/D/Dudley/Dudley, Samantha Leighton 1860.md",
+    "parents": [],
+    "spouse": [
+      "Whalen, John Warren 1860-08-12"
+    ],
+    "children": [
+      "Whalen, Hollis Vernon 1898-12-14"
+    ],
+    "siblings": []
+  },
+  "Dunklee, Alice Evelyn 1906": {
+    "name": "Alice Evelyn Dunklee",
+    "sex": "F",
+    "birth_date": "1906-03-22",
+    "death_date": "",
+    "birth_place": "Eastport, Washington County, Maine, USA",
+    "death_place": "",
+    "locations_lived": [
+      "Eastport, Maine"
+    ],
+    "citizenship_status": "us_citizen",
+    "path": "People/D/Dunklee/Dunklee, Alice Evelyn 1906.md",
+    "parents": [],
+    "spouse": [
+      "Whalen, Hollis Vernon 1898-12-14"
+    ],
+    "children": [
+      "Whalen, Shirley Ann 1936-09-02"
+    ],
+    "siblings": []
+  }
+}

@@ -38,7 +38,7 @@ The Provincial Archives of New Brunswick maintains a comprehensive public findin
 ### 3. 🔒 Why the Digital Scan Is NOT Published Online (Ancestry / FamilySearch)
 * **Diocesan Custodial Copyright:** The Roman Catholic Diocese of Saint John retains strict custodial rights over its sacramental books.
 * **Licensing Limitations:** While the Diocese permitted PANB and the Genealogical Society of Utah (FamilySearch) to record 35mm preservation microfilms during the mid-20th century, the Diocese **does not license open internet publication of its primary image rolls**.
-* **Physical Fulfillment Pathway:** Consequently, this primary register cannot be scraped via open web APIs; it must be ordered as an official certified paper photocopy directly from PANB Reference Staff (`ArchivesNB@gnb.ca`) using the pre-formatted request in [[00_Projects_and_Dashboards/Canadian_Citizenship_Archival_Request_Packet.md|Canadian Citizenship Archival Request Packet]].
+* **Physical Fulfillment Pathway:** Consequently, this primary register cannot be scraped via open web APIs; it must be ordered as an official certified paper photocopy directly from PANB Reference Staff (`ArchivesNB@gnb.ca`) using the pre-formatted request in [[00_Projects_and_Dashboards/2_Canadian_Citizenship_Archival_Request_Packet.md|Canadian Citizenship Archival Request Packet]].
 
 ---
 
@@ -46,11 +46,11 @@ The Provincial Archives of New Brunswick maintains a comprehensive public findin
 
 ```mermaid
 flowchart TD
-    subgraph Archival Order Target (PANB)
+    subgraph Archival_Order_Target_PANB ["Archival Order Target (PANB)"]
         B1["📜 August 1860 Baptismal Act<br/>(PANB Reel F-1589, Register 3)<br/><i>Primary Ecclesiastical Record</i>"]
     end
 
-    subgraph Corroborating Empirical Scans (In-Vault Today)
+    subgraph Corroborating_Empirical_Scans_In_Vault_Today ["Corroborating Empirical Scans (In-Vault Today)"]
         C1["🇨🇦 1861 Census of Canada (LAC C-1001, p. 13)<br/><b>John Whalin ae. 1 / Infant b. Aug 1860 in NB</b>"]
         C2["🇨🇦 1851 Census of NB (LAC C-995, p. 28)<br/><b>Patrick & Eliza Whalin Household</b>"]
         C3["💍 1845 Marriage (PANB RS141B7 Reg B p. 92)<br/><b>Patrick Whalen & Eliza Leslie</b>"]
@@ -64,6 +64,6 @@ flowchart TD
 
 * **Legal Weight:** Establishes pre-Confederation British Subject status and *jus soli* Canadian soil birth for the G3 root ancestor.
 * **Cross-Vault Dashboard Links:**
-  * [[00_Projects_and_Dashboards/Canadian_Citizenship_Executive_Evidence_Summary.md|Canadian Citizenship Executive Evidence Summary]]
-  * [[00_Projects_and_Dashboards/Canadian_Citizenship_Archival_Request_Packet.md|Canadian Citizenship Archival Request Packet]]
-  * [[00_Projects_and_Dashboards/Canadian_Lineage_Master_Dashboard.md|Canadian Lineage Master Dashboard]]
+  * [[00_Projects_and_Dashboards/1_Canadian_Citizenship_Executive_Evidence_Summary.md|Canadian Citizenship Executive Evidence Summary]]
+  * [[00_Projects_and_Dashboards/2_Canadian_Citizenship_Archival_Request_Packet.md|Canadian Citizenship Archival Request Packet]]
+  * [[00_Projects_and_Dashboards/00_Master_Dashboard.md|Canadian Lineage Master Dashboard]]

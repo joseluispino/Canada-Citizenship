@@ -18,7 +18,7 @@ import yaml
 from pathlib import Path
 from collections import defaultdict
 
-VAULT_ROOT = Path("/home/jpino/Obsidian/Genealogy")
+VAULT_ROOT = Path(__file__).resolve().parents[2]
 PEOPLE_DIR = VAULT_ROOT / "People"
 DAG_FILE = VAULT_ROOT / "_Meta/family_tree_dag.json"
 
