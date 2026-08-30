@@ -62,7 +62,7 @@ Photos must be taken by a commercial photographer and meet strict IRCC specifica
 ## 💳 IRCC Fee Payment & Submission Address
 
 1. **Pay Online:** Visit the official [IRCC Fee Payment Portal](https://www.cic.gc.ca/english/information/fees/index.asp).
-2. **Select Fee:** Citizenship $ightarrow$ Certificate of Citizenship (Proof of citizenship) = **$75.00 CAD**.
+2. **Select Fee:** Citizenship → Certificate of Citizenship (Proof of citizenship) = **$75.00 CAD**.
 3. **Print Receipt:** Print the official PDF barcode receipt with transaction number and place it directly behind your cover letter.
 
 ### Physical Mailing Address (Courier / Tracked Mail):

@@ -66,10 +66,10 @@ Generation G2 [[People/W/Whalen/Whalen, Hollis Vernon 1898-12-14|Hollis Vernon W
 | **P1** | **Canadian Soil Birth of Anchor (G3)** | • 1861 Census of New Brunswick (LAC Reel C-1001, Page 13, Line 36)<br/>• 1851 Census of New Brunswick (LAC Reel C-995, Page 28, Lines 29–32)<br/>• 1937 Maine Death Certificate | Proves birth on August 12, 1860 in West Isles, Charlotte County, New Brunswick | 🟢 **Primary Proof** |
 | **P2** | **Pre-Confederation Parents (G4)** | • 1845 Charlotte Co. Marriage Register (PANB RS141B7)<br/>• 1851 & 1861 Census Schedules (Patrick Whalen & Eliza Leslie) | Proves continuous colonial residence & British North American nativity | 🟢 **Primary Proof** |
 | **P3** | **Unbroken G3 Retention (No Foreign Naturalization)** | • 1900 US Census (Sheet 6B, Line 1 • `Al`)<br/>• 1910 US Census (Sheet 9B, Line 72 • `Al`)<br/>• 1920 & 1930 US Censuses (`Al`)<br/>• NARA Boston Index M1299 Negative Search | Conclusively refutes loss of nationality prior to birth of G2 child (1898) | 🟢 **Primary Proof** |
-| **P4** | **Biological Lineage: G3 $ightarrow$ G2** | • 1898 Maine State Record of Birth (Vol 1898-W, p 314)<br/>• 1900 US Census (Calais, ME • Hollis, Son of John W. Whalen b. Canada) | Explicitly certifies father born in New Brunswick, Canada | 🟢 **Primary Proof** |
-| **P5** | **Biological Lineage: G2 $ightarrow$ G1** | • 1936 Maine Certificate of Birth (No. 36-08142)<br/>• 1940 US Census (Eastport, ME) | Proves parentage of Shirley Ann Whalen to Hollis Vernon Whalen | 🟢 **Primary Proof** |
-| **P6** | **Biological Lineage: G1 $ightarrow$ G0** | • 1967 Certified Long-Form Birth Certificate of Lisa Michelle Phillips | Proves mother is Shirley Ann Whalen | 🟢 **Primary Proof** |
-| **P7** | **Biological Lineage: G0 $ightarrow$ Progeny** | • Certified Long-Form Birth Certificates of Children (Pino Lineage) | Proves parentage of Next Generation Applicants | 🟢 **Primary Proof** |
+| **P4** | **Biological Lineage: G3 → G2** | • 1898 Maine State Record of Birth (Vol 1898-W, p 314)<br/>• 1900 US Census (Calais, ME • Hollis, Son of John W. Whalen b. Canada) | Explicitly certifies father born in New Brunswick, Canada | 🟢 **Primary Proof** |
+| **P5** | **Biological Lineage: G2 → G1** | • 1936 Maine Certificate of Birth (No. 36-08142)<br/>• 1940 US Census (Eastport, ME) | Proves parentage of Shirley Ann Whalen to Hollis Vernon Whalen | 🟢 **Primary Proof** |
+| **P6** | **Biological Lineage: G1 → G0** | • 1967 Certified Long-Form Birth Certificate of Lisa Michelle Phillips | Proves mother is Shirley Ann Whalen | 🟢 **Primary Proof** |
+| **P7** | **Biological Lineage: G0 → Progeny** | • Certified Long-Form Birth Certificates of Children (Pino Lineage) | Proves parentage of Next Generation Applicants | 🟢 **Primary Proof** |
 
 ---
 
