@@ -26,7 +26,7 @@ from pathlib import Path
 from datetime import datetime
 
 DEFAULT_CLIENT_VAULTS = [
-    Path("/home/jpino/Obsidian/Canada-Citizenship"),
+    Path("/home/jpino/Obsidian/Canadian-Citizenship"),
     Path("/home/jpino/Obsidian/Kamas"),
     Path("/home/jpino/Obsidian/Nary")
 ]
@@ -59,7 +59,7 @@ class CanadianCitizenshipAgent:
         print(f"[{self.vault_name}] === Forensic Naturalization & Tripwire Audit ===")
         findings = []
 
-        if self.vault_name == "Canada-Citizenship":
+        if self.vault_name == "Canadian-Citizenship":
             findings.append({
                 "anchor": "Capt. John Warren Whalen (1860)",
                 "child": "Hollis Vernon Whalen (1898)",

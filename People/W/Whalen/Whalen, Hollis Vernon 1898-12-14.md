@@ -7,7 +7,7 @@ id: URN-TEST-1898-12-HVW
 name: Hollis Vernon Whalen
 birth_date: '1898-12-14'
 birth_place: Eastport, Washington County, Maine, USA
-father_birth_place: New Brunswick, Canada
+father_birth_place: "New Brunswick, Canada"
 mother_birth_place: Maine, USA
 religion: Church of England / Protestant
 occupations:

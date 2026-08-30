@@ -4,11 +4,11 @@ tags:
   - type/summary
   - topic/citizenship
 status: active
-title: Canadian Citizenship Executive Evidence Summary — Canada-Citizenship
+title: Canadian Citizenship Executive Evidence Summary — Canadian-Citizenship
 description: Formal evidentiary brief, statutory legal framework, 7-Pillar Preponderance Matrix, and naturalization timeline audit for IRCC under Bill C-3 / S-245.
 ---
 
-# 🍁 Canadian Citizenship Executive Evidence Summary (Canada-Citizenship)
+# 🍁 Canadian Citizenship Executive Evidence Summary (Canadian-Citizenship)
 ### Authoritative Evidentiary & Statutory Legal Brief for IRCC Determination
 **Governing Statute:** Bill C-3 / Senate Bill S-245 (*An Act to amend the Citizenship Act*)  
 **Judicial Precedent:** *Bjorkquist et al. v. The Attorney General of Canada* (2023 ONSC 7152)  
@@ -63,13 +63,13 @@ Generation G2 [[People/W/Whalen/Whalen, Hollis Vernon 1898-12-14|Hollis Vernon W
 
 | Pillar | Evidentiary Fact to Prove | Primary Archival Holdings | Evidentiary Role | Status |
 | :---: | :--- | :--- | :--- | :---: |
-| **P1** | **Canadian Soil Birth of Anchor (G3)** | • 1861 Census of New Brunswick (LAC Reel C-1001, Page 13, Line 36)<br/>• 1851 Census of New Brunswick (LAC Reel C-995, Page 28, Lines 29–32)<br/>• 1937 Maine Death Certificate | Proves birth on August 12, 1860 in West Isles, Charlotte County, New Brunswick | 🟢 **Primary Proof** |
-| **P2** | **Pre-Confederation Parents (G4)** | • 1845 Charlotte Co. Marriage Register (PANB RS141B7)<br/>• 1851 & 1861 Census Schedules (Patrick Whalen & Eliza Leslie) | Proves continuous colonial residence & British North American nativity | 🟢 **Primary Proof** |
-| **P3** | **Unbroken G3 Retention (No Foreign Naturalization)** | • 1900 US Census (Sheet 6B, Line 1 • `Al`)<br/>• 1910 US Census (Sheet 9B, Line 72 • `Al`)<br/>• 1920 & 1930 US Censuses (`Al`)<br/>• NARA Boston Index M1299 Negative Search | Conclusively refutes loss of nationality prior to birth of G2 child (1898) | 🟢 **Primary Proof** |
-| **P4** | **Biological Lineage: G3 → G2** | • 1898 Maine State Record of Birth (Vol 1898-W, p 314)<br/>• 1900 US Census (Calais, ME • Hollis, Son of John W. Whalen b. Canada) | Explicitly certifies father born in New Brunswick, Canada | 🟢 **Primary Proof** |
-| **P5** | **Biological Lineage: G2 → G1** | • 1936 Maine Certificate of Birth (No. 36-08142)<br/>• 1940 US Census (Eastport, ME) | Proves parentage of Shirley Ann Whalen to Hollis Vernon Whalen | 🟢 **Primary Proof** |
-| **P6** | **Biological Lineage: G1 → G0** | • 1967 Certified Long-Form Birth Certificate of Lisa Michelle Phillips | Proves mother is Shirley Ann Whalen | 🟢 **Primary Proof** |
-| **P7** | **Biological Lineage: G0 → Progeny** | • Certified Long-Form Birth Certificates of Children (Pino Lineage) | Proves parentage of Next Generation Applicants | 🟢 **Primary Proof** |
+| **Pillar 1: Primary State Vitals** | **Canadian Soil Birth of Anchor (G3)** | • 1861 Census of New Brunswick (LAC Reel C-1001, Page 13, Line 36)<br/>• 1851 Census of New Brunswick (LAC Reel C-995, Page 28, Lines 29–32)<br/>• 1937 Maine Death Certificate | Proves birth on August 12, 1860 in West Isles, Charlotte County, New Brunswick | 🟢 **Primary Proof** |
+| **Pillar 2: Archival Parish Microfilms** | **Pre-Confederation Parents (G4)** | • 1845 Charlotte Co. Marriage Register (PANB RS141B7)<br/>• 1851 & 1861 Census Schedules (Patrick Whalen & Eliza Leslie) | Proves continuous colonial residence & British North American nativity | 🟢 **Primary Proof** |
+| **Pillar 3: Multi-Decennial Census Triangulation** | **Unbroken G3 Retention (No Foreign Naturalization)** | • 1900 US Census (Sheet 6B, Line 1 • `Al`)<br/>• 1910 US Census (Sheet 9B, Line 72 • `Al`)<br/>• 1920 & 1930 US Censuses (`Al`)<br/>• NARA Boston Index M1299 Negative Search | Conclusively refutes loss of nationality prior to birth of G2 child (1898) | 🟢 **Primary Proof** |
+| **Pillar 4: Collateral Sibling Triangulation** | **Biological Lineage: G3 → G2** | • 1898 Maine State Record of Birth (Vol 1898-W, p 314)<br/>• 1900 US Census (Calais, ME • Hollis, Son of John W. Whalen b. Canada) | Explicitly certifies father born in New Brunswick, Canada | 🟢 **Primary Proof** |
+| **Pillar 5: Biological Lineage Descent** | **Biological Lineage: G2 → G1** | • 1936 Maine Certificate of Birth (No. 36-08142)<br/>• 1940 US Census (Eastport, ME) | Proves parentage of Shirley Ann Whalen to Hollis Vernon Whalen | 🟢 **Primary Proof** |
+| **Pillar 6: Forensic Naturalization Audit** | **Biological Lineage: G1 → G0** | • 1967 Certified Long-Form Birth Certificate of Lisa Michelle Phillips | Proves mother is Shirley Ann Whalen | 🟢 **Primary Proof** |
+| **Pillar 7: Derivative Claim Documentation** | **Biological Lineage: G0 → Progeny** | • Certified Long-Form Birth Certificates of Children (Pino Lineage) | Proves parentage of Next Generation Applicants | 🟢 **Primary Proof** |
 
 ---
 
@@ -99,12 +99,12 @@ graph TD
 
 | Deliverable | Description | File Link | Format |
 | :--- | :--- | :--- | :---: |
-| 📋 **Executive Evidence Summary** | Complete legal & evidentiary proof brief for IRCC / immigration counsel. | [[00_Projects_and_Dashboards/1_Canadian_Citizenship_Executive_Evidence_Summary|1_Canadian_Citizenship_Executive_Evidence_Summary]] | `Markdown / PDF` |
-| 🔬 **Forensic Naturalization Audit** | Deep forensic evaluation of Anchor Capt. John Warren Whalen naturalization codes (1900–1930) & Dual-Citizen by Birth proof. | [[00_Projects_and_Dashboards/Forensic_Naturalization_Audit_John_Warren_Whalen|Forensic_Naturalization_Audit_John_Warren_Whalen]] | `Evidentiary Brief` |
-| 📦 **Archival Request Packet** | Pre-formatted archival orders & letters to Provincial Archives of New Brunswick (PANB) & LAC with digital copy attachments. | [[00_Projects_and_Dashboards/2_Canadian_Citizenship_Archival_Request_Packet|2_Canadian_Citizenship_Archival_Request_Packet]] | `Actionable Orders` |
-| 🔎 **Archival Research Strategy** | Specialized research guide for parish registers with pre-parameterized search URLs. | [[00_Projects_and_Dashboards/3_Archival_Research_Strategy|3_Archival_Research_Strategy]] | `Research Guide` |
-| 📝 **IRCC Application Filing Guide** | Step-by-step Form CIT 0001 assembly walkthrough, photo specifications, fee payments, and formal transmittal cover letter. | [[00_Projects_and_Dashboards/4_IRCC_Application_Filing_Guide|4_IRCC_Application_Filing_Guide]] | `Filing Guide` |
-| 🌳 **Interactive Lineage Canvas** | Visual generational tree with document embeds and status nodes. | [[00_Projects_and_Dashboards/Family_Citizenship_Descent_Tree.canvas|Family_Citizenship_Descent_Tree.canvas]] | `Obsidian Canvas` |
+| 📋 **Executive Evidence Summary** | Complete legal & evidentiary proof brief for IRCC / immigration counsel. | [[00_Projects_and_Dashboards/1_Canadian_Citizenship_Executive_Evidence_Summary\|1_Canadian_Citizenship_Executive_Evidence_Summary]] | `Markdown / PDF` |
+| 🔬 **Forensic Naturalization Audit** | Deep forensic evaluation of Anchor Capt. John Warren Whalen naturalization codes (1900–1930) & Dual-Citizen by Birth proof. | [[00_Projects_and_Dashboards/Forensic_Naturalization_Audit_John_Warren_Whalen\|Forensic_Naturalization_Audit_John_Warren_Whalen]] | `Evidentiary Brief` |
+| 📦 **Archival Request Packet** | Pre-formatted archival orders & letters to Provincial Archives of New Brunswick (PANB) & LAC with digital copy attachments. | [[00_Projects_and_Dashboards/2_Canadian_Citizenship_Archival_Request_Packet\|2_Canadian_Citizenship_Archival_Request_Packet]] | `Actionable Orders` |
+| 🔎 **Archival Research Strategy** | Specialized research guide for parish registers with pre-parameterized search URLs. | [[00_Projects_and_Dashboards/3_Archival_Research_Strategy\|3_Archival_Research_Strategy]] | `Research Guide` |
+| 📝 **IRCC Application Filing Guide** | Step-by-step Form CIT 0001 assembly walkthrough, photo specifications, fee payments, and formal transmittal cover letter. | [[00_Projects_and_Dashboards/4_IRCC_Application_Filing_Guide\|4_IRCC_Application_Filing_Guide]] | `Filing Guide` |
+| 🌳 **Interactive Lineage Canvas** | Visual generational tree with document embeds and status nodes. | [[00_Projects_and_Dashboards/Family_Citizenship_Descent_Tree.canvas\|Family_Citizenship_Descent_Tree.canvas]] | `Obsidian Canvas` |
 
 ---
 

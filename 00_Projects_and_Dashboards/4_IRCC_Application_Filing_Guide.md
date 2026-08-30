@@ -43,8 +43,8 @@ Before submitting your application to Immigration, Refugees and Citizenship Cana
 | **Section 1** | Application Type | Select: **"I am applying for a Certificate of Citizenship (Proof of Citizenship)"** |
 | **Section 3** | Personal Information | Enter full legal name, vital dates, and contact information matching your primary passport. |
 | **Section 4** | Basis of Claim | Select: **"I was born outside Canada to a Canadian parent"** and cite: *"Application submitted pursuant to Bill C-3 / Senate Bill S-245 remedial provisions (Bjorkquist precedent)."* |
-| **Section 6** | Parent Information (G1) | Detail mother [[People/W/Whalen/Whalen, Shirley Ann 1936-09-02|Shirley Ann Whalen]]. In Canadian status, indicate *"Canadian citizen by descent under Bill C-3"*. |
-| **Section 7** | Grandparent Information (G2 & G3) | Detail grandfather [[People/W/Whalen/Whalen, Hollis Vernon 1898-12-14|Hollis Vernon Whalen]] and Great-Grandfather [[People/W/Whalen/Whalen, John Warren 1860-08-12|John Warren Whalen]] (born August 12, 1860 in Charlotte County, New Brunswick). |
+| **Section 6** | Parent Information (G1) | Detail mother [[People/W/Whalen/Whalen, Shirley Ann 1936-09-02\|Shirley Ann Whalen]]. In Canadian status, indicate *"Canadian citizen by descent under Bill C-3"*. |
+| **Section 7** | Grandparent Information (G2 & G3) | Detail grandfather [[People/W/Whalen/Whalen, Hollis Vernon 1898-12-14\|Hollis Vernon Whalen]] and Great-Grandfather [[People/W/Whalen/Whalen, John Warren 1860-08-12\|John Warren Whalen]] (born August 12, 1860 in Charlotte County, New Brunswick). |
 | **Section 8** | Enclosed Documents | List Exhibits A through E from the checklist above. |
 
 ---

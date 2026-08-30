@@ -43,4 +43,3 @@
 - **Strict Legal Citizenship**: Flags infer strictly from `citizenship_status` / `citizenship` (or birth place as legacy fallback). Residence history (`locations_lived`) is strictly prohibited from generating nationality flags.
 - **Pre-Flight Quality Gate**: Run `python3 `test_kern_publisher.py` (11 unit tests) prior to reloading Kern Publisher Web.
 
-

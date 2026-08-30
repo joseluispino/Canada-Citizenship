@@ -11,7 +11,7 @@ birth_date: '1860-08-12'
 birth_place: West Isles Parish, Charlotte County, New Brunswick, British North America
 father_birth_place: Steuben, Washington County, Maine, USA
 mother_birth_place: Charlotte County, New Brunswick
-religion: Church of England (Anglican)
+religion: "Church of England (Anglican)"
 immigration_year: 1880
 occupations:
 - Master Boatbuilder & Shipwright

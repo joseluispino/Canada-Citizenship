@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-audit_and_heal_canada_citizenship_vault.py — Self-Healing Vault Health & Standalone Sentinel
+audit_and_heal_canadian_citizenship_vault.py — Self-Healing Vault Health & Standalone Sentinel
 ===========================================================================================
 Enforces:
   1. Absolute ban on synthetic/mock documents (genuine primary evidence only)
@@ -211,7 +211,7 @@ def run_pointer_reconciliation():
 
 def main():
     print("=" * 80)
-    print(f"  🍁 Canada-Citizenship Standalone Health & Self-Healing Sentinel")
+    print(f"  🍁 Canadian-Citizenship Standalone Health & Self-Healing Sentinel")
     print("=" * 80)
 
     audit_synthetic_document_prohibition()
