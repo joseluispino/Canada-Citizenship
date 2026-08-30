@@ -21,12 +21,12 @@ Every client onboarding produces an automated, publication-ready **6-Asset Deliv
 
 | Asset # | Deliverable Name | Description & Legal Utility | Statutory Alignment |
 | :---: | :--- | :--- | :--- |
-| **1** | **00_Master_Dashboard.md** | Central client command hub, progress tracker, applicant roster, and transmission chain summary. | Client Overview & Case Tracking |
-| **2** | **1_Canadian_Citizenship_Executive_Evidence_Summary.md** | Formal legal brief, statutory analysis, balance-of-probabilities brief, and **7-Pillar Preponderance Matrix**. | IRCC Guidelines CP 3 & CP 14 |
-| **3** | **Forensic_Naturalization_Audit_<Anchor>.md** | **Mandatory Anchor Forensic Study:** Longitudinal census tracking (1900–1930), `AL`/`PA` safe harbors, occupational tripwire checks, negative database searches, and Dual-Citizen by Birth proof. | Pre-1977 Canadian Nationality Act |
-| **4** | **2_Canadian_Citizenship_Archival_Request_Packet.md** | Pre-formatted, ready-to-mail archival order letters to provincial archives (PANB, BAnQ, PANS) with exact microfilm reel numbers. | Archival Ordering & Civil Proof |
-| **5** | **3_Archival_Research_Strategy.md** | Methodological research guide covering ecclesiastical church parish registers, deed books, and census gaps. | Archival Roadmap |
-| **6** | **Family_Citizenship_Descent_Tree.canvas** | Dynamic Obsidian visual lineage DAG with embedded document previews and generational descent nodes. | Visual Lineage Verification |
+| **1** | **[[00_Projects_and_Dashboards/00_Master_Dashboard\|00_Master_Dashboard.md]]** | Central client command hub, progress tracker, applicant roster, and transmission chain summary. | Client Overview & Case Tracking |
+| **2** | **[[00_Projects_and_Dashboards/1_Canadian_Citizenship_Executive_Evidence_Summary\|1_Canadian_Citizenship_Executive_Evidence_Summary.md]]** | Formal legal brief, statutory analysis, balance-of-probabilities brief, and **7-Pillar Preponderance Matrix**. | IRCC Guidelines CP 3 & CP 14 |
+| **3** | **[[00_Projects_and_Dashboards/Forensic_Naturalization_Audit_John_Warren_Whalen\|Forensic_Naturalization_Audit_<Anchor>.md]]** | **Mandatory Anchor Forensic Study:** Longitudinal census tracking (1900–1930), `AL`/`PA` safe harbors, occupational tripwire checks, negative database searches, and Dual-Citizen by Birth proof. | Pre-1977 Canadian Nationality Act |
+| **4** | **[[00_Projects_and_Dashboards/2_Canadian_Citizenship_Archival_Request_Packet\|2_Canadian_Citizenship_Archival_Request_Packet.md]]** | Pre-formatted, ready-to-mail archival order letters to provincial archives (PANB, BAnQ, PANS) with exact microfilm reel numbers. | Archival Ordering & Civil Proof |
+| **5** | **[[00_Projects_and_Dashboards/3_Archival_Research_Strategy\|3_Archival_Research_Strategy.md]]** | Methodological research guide covering ecclesiastical church parish registers, deed books, and census gaps. | Archival Roadmap |
+| **6** | **[[00_Projects_and_Dashboards/Family_Citizenship_Descent_Tree.canvas\|Family_Citizenship_Descent_Tree.canvas]]** | Dynamic Obsidian visual lineage DAG with embedded document previews and generational descent nodes. | Visual Lineage Verification |
 
 ---
 
@@ -66,6 +66,28 @@ graph LR
 
     L4 --> L45 --> L5
 ```
+
+### 🔬 Why the Agent is Classified at Level 4.5 (Approaching Level 5)
+
+1. **Multi-Tenant Autonomous Orchestration**:
+   - A single CLI invocation (`--all-clients`) automatically analyzes, generates, and links the standardized 6-asset deliverable suite across distinct client repositories (`Canada-Citizenship`, `Kamas`, `Nary`) without manual prompt chaining.
+2. **Cross-Century Statutory Reasoning**:
+   - Autonomously triangulates legal rules across 5 distinct legislative eras:
+     * **1860 Colonial Common Law**: British Subject status by soil (*jus soli*).
+     * **1881 Canadian Naturalization Act**: Alien rights, married women status, and voluntary expatriation rules.
+     * **1946 / 1977 Canadian Citizenship Acts**: First-generation descent rules and statutory loss triggers.
+     * **2023 Björkquist Decision**: Unconstitutionality of the First-Generation Limit.
+     * **2025/2026 Bill C-71 / Bill C-3 (Senate Bill S-245)**: Repeal of the FGL and the 1,095-day physical presence exemption for pre-December 15, 2025 descendants.
+3. **Forensic Occupational Tripwire & Safe-Harbor Inference**:
+   - Automatically cross-references recorded occupations (e.g. Master Boatbuilder, Grocer, Special Constable, Homesteader, Saloon Keeper) against historical statutory naturalization mandates to establish sworn Alien (`AL`) safe harbors versus voluntary naturalization oaths.
+4. **Self-Healing Code & Document Transport**:
+   - Autonomously detects and remediates transport bugs (e.g. escaping table WikiLink pipes `[[Target\|Alias]]` across 600+ table rows) and enforces an automated **31-test pre-flight quality gate** prior to declaring deployment readiness.
+5. **The Intentional Level 5 Boundary**:
+   - To preserve legal ethics, client confidentiality, and financial safety, the system maintains a strict **Human-in-the-Loop review gate** before submitting credit card fee payments to provincial archives (PANB) or dispatching formal legal applications to the IRCC Case Processing Centre in Sydney, NS.
+
+---
+
+### 📊 5-Level Autonomy Maturity Matrix
 
 | Maturity Level | Capabilities & Characteristics | Platform Status |
 | :--- | :--- | :---: |
