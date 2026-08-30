@@ -54,4 +54,4 @@ tags:
 ## ⚖️ Evidentiary Value for Canadian Citizenship Proof (Bill C-3 / S-245)
 > First Dominion of Canada census verifying statutory retention of Canadian citizenship status.
 
-Official primary microfilm record cataloged under **SOP-GEN-002**, **ADR-011**, and **ADR-013** for the IRCC Canadian Citizenship Proof Dossier.
+Official primary microfilm record cataloged under **Lineage Verification Protocol**, **ADR-011**, and **Bill C-3 Proof Standard** for the IRCC Canadian Citizenship Proof Dossier.

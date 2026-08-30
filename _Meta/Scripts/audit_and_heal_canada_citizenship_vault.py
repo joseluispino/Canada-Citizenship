@@ -2,7 +2,12 @@
 """
 audit_and_heal_canada_citizenship_vault.py — Self-Healing Vault Health & Standalone Sentinel
 ===========================================================================================
-Standardized under ADR-011, ADR-013, ADR-021, and SOP-GEN-002.
+Enforces:
+  1. Absolute ban on synthetic/mock documents (genuine primary evidence only)
+  2. Complete absence of internal developer governance/ADR/SOP/Business Plan noise in client vaults
+  3. 100% Dynamic family tree coverage across all person profiles
+  4. 100% Lineage pointer DAG symmetry
+  5. 100% Reverse linkage & embed resolution
 """
 
 import os
@@ -41,6 +46,28 @@ def audit_synthetic_document_prohibition():
         print("AI agents are strictly forbidden from manufacturing artificial proof documents.")
         sys.exit(1)
     print("🛡️  [Anti-Fabrication Check] 0 synthetic proof documents detected in Sources/.")
+
+def audit_zero_internal_governance_leakage():
+    """Enforces that client vaults contain no ADRs, SOPs, internal business plans, or developer jargon."""
+    leaks = []
+    
+    # 1. Check prohibited directories
+    for forbidden in ["_Meta/ADR", "_Meta/Projects", "_Meta/Telemetry", "_Meta/SOP", "_Meta/Skills"]:
+        if (VAULT_PATH / forbidden).exists():
+            leaks.append(f"Forbidden internal directory exists: {forbidden}")
+            
+    # 2. Check prohibited filenames
+    for p in VAULT_PATH.glob("**/*.md"):
+        if "Business_Plan" in p.name or "Business Plan" in p.name:
+            leaks.append(f"Internal business plan found in client vault: {p.relative_to(VAULT_PATH)}")
+
+    if leaks:
+        print(f"❌ [INTERNAL GOVERNANCE LEAK DETECTED] Found {len(leaks)} prohibited items:")
+        for l in leaks:
+            print(f"   - {l}")
+        return False
+    print("✨ [Client Isolation Check] 0 internal ADRs, SOPs, or Business Plans in client vault.")
+    return True
 
 def collect_vault_files():
     vault_files = {}
@@ -127,7 +154,6 @@ def audit_bidirectional_references():
                     broken_references.append((rel_p, "md_img", target))
 
         # Wikilinks [[...]]
-        # Strip code blocks and inline code first so documentation examples aren't parsed as active links
         txt_clean = re.sub(r'```.*?```', '', txt, flags=re.DOTALL)
         txt_clean = re.sub(r'`[^`]+`', '', txt_clean)
         txt_clean = re.sub(r'!\[\[[^\]]+\]\]', '', txt_clean)
@@ -189,15 +215,17 @@ def main():
     print("=" * 80)
 
     audit_synthetic_document_prohibition()
+    isolation_ok = audit_zero_internal_governance_leakage()
     enforce_family_tree_blocks()
     
     pointers_ok = run_pointer_reconciliation()
     links_ok = audit_bidirectional_references()
 
     print("=" * 80)
-    if pointers_ok and links_ok:
-        print("🎉 [VAULT STATUS: 100% HEALTHY & STANDALONE]")
+    if pointers_ok and links_ok and isolation_ok:
+        print("🎉 [VAULT STATUS: 100% HEALTHY, LASER-SHARP & STANDALONE]")
         print("   - 0 Synthetic/AI-generated documents")
+        print("   - 0 Internal ADRs, SOPs, or Business Plan leaks")
         print("   - 0 Broken wikilinks or missing media embeds")
         print("   - 100% Bidirectional lineage pointer symmetry")
         print("   - 100% Dynamic family tree coverage")

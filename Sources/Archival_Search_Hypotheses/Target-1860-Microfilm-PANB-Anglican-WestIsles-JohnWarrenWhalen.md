@@ -28,6 +28,6 @@ tags:
 ---
 
 ## 🧠 Epistemic Breakthrough: Why Anglican (Church of England)
-1. **DIEM-v2 Empirical Recovery:** The 1861 Census Schedule 1 (LAC Reel C-1001, Line 471) proves Patrick Whalin was **Church of England**, disproving the previous assumption that his Irish ancestry implied Roman Catholicism.
+1. **High-Resolution Archival Enhancement Empirical Recovery:** The 1861 Census Schedule 1 (LAC Reel C-1001, Line 471) proves Patrick Whalin was **Church of England**, disproving the previous assumption that his Irish ancestry implied Roman Catholicism.
 2. **Parish Administration:** In 1860, Deer Island and West Isles were served by the Anglican mission under the **Diocese of Fredericton** (Bishop John Medley).
 3. **Target Action:** Request reference archivists at PANB to inspect Microfilm Reels F-1096 and F-1110 for the August 1860 baptism of John Warren Whalen.

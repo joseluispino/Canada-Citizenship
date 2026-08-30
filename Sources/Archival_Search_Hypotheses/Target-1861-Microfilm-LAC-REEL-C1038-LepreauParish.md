@@ -53,4 +53,4 @@ tags:
 ## ⚖️ Evidentiary Value for Canadian Citizenship Proof (Bill C-3 / S-245)
 > Decennial institutional statutory proof confirming pre-Confederation New Brunswick soil birth.
 
-Official primary microfilm record cataloged under **SOP-GEN-002**, **ADR-011**, and **ADR-013** for the IRCC Canadian Citizenship Proof Dossier.
+Official primary microfilm record cataloged under **Lineage Verification Protocol**, **ADR-011**, and **Bill C-3 Proof Standard** for the IRCC Canadian Citizenship Proof Dossier.

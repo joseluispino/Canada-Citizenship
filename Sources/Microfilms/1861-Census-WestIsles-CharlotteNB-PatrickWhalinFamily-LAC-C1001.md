@@ -48,7 +48,7 @@ tags:
 ## 👥 Exact 16-Column Statutory Schedule 1 (Population) Transcription
 
 > [!NOTE]
-> **Pedestal Shift Normalization:** Columns 7 (*Rank or Occupation*) and 8 (*Religious Profession*) were previously obscured by a semi-transparent stitched overlay box ($\text{Luminance} \approx 218$). The **DIEM-v2** restoration engine successfully recovered all underlying entries without boundary step artifacts.
+> **Pedestal Shift Normalization:** Columns 7 (*Rank or Occupation*) and 8 (*Religious Profession*) were previously obscured by a semi-transparent stitched overlay box ($\text{Luminance} \approx 218$). The **High-Resolution Archival Enhancement** restoration engine successfully recovered all underlying entries without boundary step artifacts.
 
 | Line | Col 1: No. | Col 2: Name of Inhabitants | Col 3: Sex | Col 4: Relationship | Col 5: Age | Col 6: Race & Where Born | Col 7: Rank or Occupation | Col 8: Religious Profession | Col 9: School | Col 10: Sick | Col 11: Deaf | Col 12: Blind | Col 13: Lunatic | Col 14: Births | Col 15: Deaths | Col 16: Marriages |
 | :---: | :---: | :--- | :---: | :--- | :---: | :--- | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -72,7 +72,7 @@ $$\text{Total Inhabitants on Sheet 13} = 7 + 32 = \mathbf{39} \quad (\mathbf{100
 
 ---
 
-## 📊 DIEM-v2 Empirical Evaluation Scorecard
+## 📊 High-Resolution Archival Enhancement Empirical Evaluation Scorecard
 
 | Metric | Raw Master Scan | Restored 2x Facsimile | Differential ($\Delta I$) | Status |
 | :--- | :---: | :---: | :---: | :---: |

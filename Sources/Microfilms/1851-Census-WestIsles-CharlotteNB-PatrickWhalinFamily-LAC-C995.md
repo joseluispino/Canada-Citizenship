@@ -51,7 +51,7 @@ tags:
 
 ---
 
-## 📊 Dual-Metric Paleographic Legibility Audit (ADR-020)
+## 📊 Dual-Metric Paleographic Legibility Audit (Archival Verification Standard)
 
 | Evaluation Layer | Raw Master Scan | 2x Super-Resolution Enhanced | Diagnostic Analysis |
 | :--- | :---: | :---: | :--- |
