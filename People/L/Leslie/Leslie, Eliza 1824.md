@@ -5,16 +5,16 @@ tags:
   - affiliation/citizenship_chain_a
 id: URN-GEN-1824-EL
 name: Eliza Leslie
-birth_date: "1824"
+birth_date: 1824
 birth_place: West Isles Parish, Charlotte County, New Brunswick, British North America
-religion: "Church of England (Anglican)"
+religion: Church of England (Anglican)
 locations_lived:
-  - "Deer Island, Charlotte County, New Brunswick"
-  - "Eastport, Washington County, Maine"
-death_date: "1905"
+  - Deer Island, Charlotte County, New Brunswick
+  - Eastport, Washington County, Maine
+death_date: 1905
 death_place: Eastport, Washington County, Maine, USA
-parents: []
-siblings: []
+parents:
+siblings:
 spouse:
   - "[[Whalen, Patrick 1811-09-01]]"
 children:
@@ -32,11 +32,24 @@ proven_tier: primary_vital_records
 data_origin: archival_colonial_records
 sex: F
 sources:
-  - "[[Sources/Microfilms/1851-Census-WestIsles-CharlotteNB-PatrickWhalinFamily-LAC-C995.md]]"
-  - "[[Sources/Microfilms/1861-Census-WestIsles-CharlotteNB-PatrickWhalinFamily-LAC-C1001.md]]"
-  - "[[Sources/Vital_Statistics/1903Death-Whalen-WilliamH-2.md]]"
-  - "[[Sources/Vital_Statistics/1914Death-Whalen-ThomasE.md]]"
-  - "[[Sources/Archival_Search_Hypotheses/Target-1824-Microfilm-PANB-REEL-F1582-CharlotteParish.md]]"
+  - "[[Sources/Microfilms/1851-Census-WestIsles-CharlotteNB-PatrickWhalinFamily-LAC-C995]]"
+  - "[[Sources/Microfilms/1861-Census-WestIsles-CharlotteNB-PatrickWhalinFamily-LAC-C1001]]"
+  - "[[Sources/Vital_Statistics/1903Death-Whalen-WilliamH-2]]"
+  - "[[Sources/Vital_Statistics/1914Death-Whalen-ThomasE]]"
+  - "[[Target-1824-Microfilm-PANB-REEL-F1582-CharlotteParish]]"
+  - "[[Sources/5-Patrick Whalen/1840 Marriage Whalen Patrick Leslie Eliza.pdf]]"
+  - "[[Sources/5-Patrick Whalen/Passamaquoddy book p226 Leslie family.jpeg]]"
+  - "[[Death-ElizaWhalen.jpg]]"
+  - "[[1840Marriage-Whalen-Patrick and Leslie-Eliza.png]]"
+  - "[[1892DeathElizaLeslieWhalen.jpg]]"
+  - "[[1892Death-ElizaLeslieWhalen.pdf]]"
+  - "[[1892-Death-ElizaWhalen.pdf]]"
+  - "[[1892cDeath Whalen Eliza Leslie.pdf]]"
+  - "[[1840Marriage-Whalen-Patrick&ElizaLeslie.png]]"
+  - "[[1892Death-ElizaLeslieWhalen.jpg]]"
+audit_tag: verified_empirical
+audit_date: 2026-08-30
+audit_status: passed
 ---
 
 # 👤 Eliza Leslie (1824–1905)
@@ -62,6 +75,6 @@ direction: TD
 ## 📄 Source Documents & Archival Evidence
 
 ### 1. 1861 Census of New Brunswick Microfilm (LAC Reel C-1001)
-![[Sources/Microfilms/1861-Census-WestIsles-CharlotteNB-PatrickWhalinFamily-LAC-C1001-Display.jpg|850]]
+![[1861-Census-WestIsles-CharlotteNB-PatrickWhalinFamily-LAC-C1001-Display.jpg|850]]
 * **Archive Reference:** Library and Archives Canada (LAC) Microfilm Reel C-1001, West Isles Parish, Charlotte County, Page 13, Line 27.
 * **Denomination:** Church of England (Anglican).

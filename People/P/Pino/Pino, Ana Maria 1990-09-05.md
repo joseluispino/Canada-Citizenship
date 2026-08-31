@@ -1,53 +1,70 @@
 ---
 doc_type: person
 tags:
-- topic/community/family
-- affiliation/citizenship_chain_a
+  - topic/community/family
+  - affiliation/citizenship_chain_a
 id: URN-TEST-1990-09-AP
 name: Ana Maria Pino
-birth_date: '1990-09-05'
-birth_place: United States
+birth_date: 1990-09-05
+birth_place: Berkeley, Alameda County, California, USA
 locations_lived:
-- United States
+  - Berkeley, Alameda County, California, USA
+  - Westlake Village, California, USA
 parents:
-- '[[Phillips, Lisa Michelle 1967-10-12]]'
-- '[[Pino, Jose Luis 1968-06-18]]'
+  - "[[Phillips, Lisa Michelle 1967-10-12|Lisa Michelle Phillips]]"
+  - "[[Pino, Jose Luis 1968-06-18|Jose Luis Pino]]"
 siblings:
-- '[[Pino, Elena Maria 1992-03-09]]'
-- '[[Pino, Maria Isabel 1994-10-27]]'
-- '[[Pino, Eva Maria 1996-05-01]]'
-- '[[Pino, Alister Jude 1998-05-07]]'
+  - "[[Pino, Elena Maria 1992-03-09|Elena Maria Pino]]"
+  - "[[Pino, Maria Isabel 1994-10-27|Maria Isabel Pino]]"
+  - "[[Pino, Eva Maria 1996-05-01|Eva Maria Pino]]"
+  - "[[Pino, Alister Jude 1998-05-07|Alister Jude Pino]]"
 spouse: []
 children: []
-citizenship_status: eligible_bill_c3
+citizenship_status: us_citizen_canadian_descent_applicant
 citizenship_project_lineage:
-- Chain A
-citizenship_generation: G_minus_1
+  - Chain A
+citizenship_generation: G_Minus_1
 citizenship_proof_status: complete
-document_status: verified_canadian_descent
-verification_tier: progeny_applicant
+document_status: complete
+verification_tier: applicant_progeny
 proven_tier: primary_vital_records
-data_origin: verified_lineage_discovery
+data_origin: certified_vital_records
 sex: F
 sources:
+  - "[[Ana birth certificate.pdf]]"
+  - "[[Ana Rono Canada cit0001e 4.5.2026.pdf]]"
+  - "[[2020Nevada-Ana-Andrew-MarriageCertificate-Color.pdf]]"
+  - "[[ana with passport.jpeg]]"
+  - "[[Ana - Hoja declaratoria signed.pdf]]"
+  - "[[Ana Otros Documentos.pdf]]"
+  - "[[JUSTIFICANTE_SOLICITUD_ANPIPH05091990.pdf]]"
+  - "[[Ana drivers license.jpeg]]"
+  - "[[Ana apostilled birth certificate - 300DPI.pdf]]"
+  - "[[Ana Consulate Letter - Signed.pdf]]"
+  - "[[Andrew Apostille Birth Certificate.pdf]]"
+  - "[[Ana -Anexo 1 Signed.pdf]]"
+  - "[[Ana and Andrew wedding certificate.pdf]]"
+audit_tag: verified_empirical
+audit_date: 2026-08-30
+audit_status: passed
 ---
-# 👤 Ana Maria Pino (b. 1990-09-05)
+
+# 👤 Ana Maria Pino (1990–Present)
 
 ## 📌 Executive Summary
-**Ana Maria Pino** (born 1990-09-05 in the United States) is Generation G-1 in the Canadian Citizenship proof chain. Through mother [[Phillips, Lisa Michelle 1967-10-12|Lisa Michelle Phillips]], grandmother [[Whalen, Shirley Ann 1936-09-02|Shirley Ann Whalen]], great-grandfather [[Whalen, Hollis Vernon 1898-12-14|Hollis Vernon Whalen]], and great-great-grandfather [[Whalen, John Warren 1860-08-12|John Warren Whalen]], they are verified direct descendants of a Canadian soil anchor (*jus soli* root).
+**Ana Maria Pino** (born September 5, 1990) is the firstborn daughter of Lead Applicant [[Phillips, Lisa Michelle 1967-10-12|Lisa Michelle Phillips]] and [[Pino, Jose Luis 1968-06-18|Jose Luis Pino]] (Generation G-1 in Chain A). Born at Alta Bates-Herrick Hospital in Berkeley, Alameda County, California. Under Bill C-3 / S-245, Ana Maria is 100% exempt from the substantial connection test (born prior to Dec 15, 2025) and entitled to a Canadian citizenship certificate by descent.
 
 ## 🌳 Family Tree & Dynamic Lineage Graph
 
 ```family-tree
-depth: 4
+depth: 2
 spouses: true
 dates: true
 direction: TD
 ```
 
-## 🇨🇦 Canadian Citizenship Evaluation (Bill C-3 / S-245)
-* **Pre-Dec 2025 Birth Exemption:** Born in 1990 (well prior to December 15, 2025).
-* **Substantial Connection Exemption:** Strictly exempt from the 1,095-day physical presence test.
-* **Status:** Verified Eligible for Canadian Citizenship by descent under Bill C-3.
+## 🗓️ Vital Events & Historical Timeline
+* **Birth:** 1990-09-05 at Alta Bates-Herrick Hospital, 3001 Colby Street, Berkeley, Alameda County, California (*State of California Certificate of Live Birth*, State File No. 90-353097, Local Reg. 1-90-61 002549, naming father Jose Luis Pino and mother Lisa Michelle Phillips).
 
-## 📄 Source Documents
+## 📄 Source Documents & Archival Evidence
+* **Primary Birth Certificate:** [[Ana birth certificate.pdf]] (State of California Certificate of Live Birth).

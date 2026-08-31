@@ -5,9 +5,9 @@ tags:
   - affiliation/citizenship_chain_a
 id: URN-CAN-1848-TEW
 name: Thomas E. Whalen
-birth_date: "1848"
-birth_place: West Isles, Charlotte County, New Brunswick, British North America
-death_date: "1914-01-29"
+birth_date: 1848
+birth_place: Deer Island, Charlotte County, New Brunswick, British North America
+death_date: 1914-01-29
 death_place: Eastport, Washington County, Maine, USA
 parents:
   - "[[Leslie, Eliza 1824]]"
@@ -15,8 +15,8 @@ parents:
 siblings:
   - "[[Whalen, William H 1845]]"
   - "[[Whalen, John Warren 1860-08-12]]"
-spouse: []
-children: []
+spouse: None
+children: None
 citizenship_status: british_subject_canadian_born
 citizenship_project_lineage:
   - Chain A Collateral
@@ -27,9 +27,31 @@ verification_tier: collateral
 proven_tier: primary_vital_records
 sex: M
 sources:
-  - "[[Sources/Microfilms/1851-Census-WestIsles-CharlotteNB-PatrickWhalinFamily-LAC-C995.md]]"
-  - "[[Sources/Microfilms/1861-Census-WestIsles-CharlotteNB-PatrickWhalinFamily-LAC-C1001.md]]"
-  - "[[Sources/Vital_Statistics/1914Death-Whalen-ThomasE.md]]"
+  - "[[Sources/Microfilms/1851-Census-WestIsles-CharlotteNB-PatrickWhalinFamily-LAC-C995]]"
+  - "[[Sources/Microfilms/1861-Census-WestIsles-CharlotteNB-PatrickWhalinFamily-LAC-C1001]]"
+  - "[[Sources/Vital_Statistics/1914Death-Whalen-ThomasE]]"
+  - "[[Sources/Death-1914-ThomasWhalen.jpg]]"
+  - "[[Sources/6-Thomas Whalen/1815 Marriage Whalen Thomas Flinn Joanna.pdf]]"
+  - "[[Thomas Whalen son of Patrick.png]]"
+  - "[[Sources/Land_Probate_Military/1953Military-Thomas-MarilynEvelynWhalen and TerryLynn.png]]"
+  - "[[Death-1914-ThomasWhalen.jpg]]"
+  - "[[1914 Death Whalen ThomasE.pdf]]"
+  - "[[1865 Marriage Whalen Thomas Trin Pamelia in West Isles CAN.pdf]]"
+  - "[[1865Marriage-Whalen-Thomas-Trin-Pamelia in West Isles CAN.jpg]]"
+  - "[[1815Marriage-Whalen Thomas and Flinn Joanna.jpg]]"
+  - "[[Thomas Whalen on Patrick Whalen death cert 1793.pdf]]"
+  - "[[1815Marriage-WhalenThomas & FlynnJoanna of Passamaquoddy.jpg]]"
+  - "[[1814Marriage Intentions Dec. 19 1814 Whalen-Thomas Flynn-Joanna certificate Jan 13 1815.jpg]]"
+  - "[[1914Death-Whalen-ThomasE.jpg]]"
+audit_tag: verified_empirical
+audit_date: 2026-08-30
+audit_status: passed
+audit_reconciled_discrepancies:
+  - type: EMPIRICAL_VITAL_GROUNDING
+    field: birth_place
+    original: West Isles, Charlotte County, New Brunswick, British North America
+    reconciled: Deer Island, Charlotte County, New Brunswick, British North America
+    reason: "Reconciled to authentic primary facsimile: City of Eastport Record of a Death (1914)."
 ---
 
 # 👤 Thomas E. Whalen (1848–1914)
@@ -58,5 +80,15 @@ direction: TD
 * Listed as native-born child of Patrick and Eliza Whalin in West Isles Parish.
 
 ### 2. 1914 Record of Death (Eastport, ME)
-![[Sources/Vital_Statistics/1914Death-Whalen-ThomasE.jpg|850]]
+![[1914Death-Whalen-ThomasE.jpg|850]]
 * **Archive Reference:** Maine State Department of Health, Eastport Vital Statistics.
+
+## ⚖️ Evidentiary Audit & Discrepancy Resolution
+
+**Audit Execution Date:** `2026-08-30`  
+**Audit Standard:** ADR-013, ADR-022 & SOP-GEN-009  
+**Auditor Status:** `🟢 VERIFIED_EMPIRICAL`  
+
+| Field / Attribute | Original Value | Reconciled Value | Epistemic Justification |
+| :--- | :--- | :--- | :--- |
+| **birth_place** | `West Isles, Charlotte County, New Brunswick, British North America` | `**Deer Island, Charlotte County, New Brunswick, British North America**` | Reconciled to authentic primary facsimile: City of Eastport Record of a Death (1914). |

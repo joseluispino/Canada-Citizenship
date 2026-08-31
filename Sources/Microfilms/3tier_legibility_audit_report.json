@@ -1,0 +1,62 @@
+[
+  {
+    "base_name": "1861-Census-WestIsles-CharlotteNB-PatrickWhalinFamily-LAC-C1001",
+    "master_file": "1861-Census-WestIsles-CharlotteNB-PatrickWhalinFamily-LAC-C1001-Master.jpg",
+    "display_file": "1861-Census-WestIsles-CharlotteNB-PatrickWhalinFamily-LAC-C1001-Display.jpg",
+    "inference_file": "1861-Census-WestIsles-CharlotteNB-PatrickWhalinFamily-LAC-C1001-Inference.jpg",
+    "raw_metrics": {
+      "mean_luminance": 231.46,
+      "std_luminance": 55.15,
+      "rms_contrast": 0.238,
+      "laplacian_edge_var": 2190.85,
+      "overexposure_pct": 74.24,
+      "legibility_score": 20.2
+    },
+    "display_metrics": {
+      "mean_luminance": 229.15,
+      "std_luminance": 51.88,
+      "rms_contrast": 0.226,
+      "laplacian_edge_var": 2386.06,
+      "overexposure_pct": 72.98,
+      "legibility_score": 20.6
+    },
+    "inference_metrics": {
+      "mean_luminance": 239.88,
+      "std_luminance": 60.23,
+      "rms_contrast": 0.251,
+      "laplacian_edge_var": 8531.55,
+      "overexposure_pct": 94.07,
+      "legibility_score": 11.9
+    }
+  },
+  {
+    "base_name": "1851-Census-WestIsles-CharlotteNB-PatrickWhalinFamily-LAC-C995",
+    "master_file": "1851-Census-WestIsles-CharlotteNB-PatrickWhalinFamily-LAC-C995-Master.jpg",
+    "display_file": "1851-Census-WestIsles-CharlotteNB-PatrickWhalinFamily-LAC-C995-Display.jpg",
+    "inference_file": "1851-Census-WestIsles-CharlotteNB-PatrickWhalinFamily-LAC-C995-Inference.jpg",
+    "raw_metrics": {
+      "mean_luminance": 215.53,
+      "std_luminance": 77.89,
+      "rms_contrast": 0.361,
+      "laplacian_edge_var": 2372.92,
+      "overexposure_pct": 76.0,
+      "legibility_score": 35.9
+    },
+    "display_metrics": {
+      "mean_luminance": 207.58,
+      "std_luminance": 76.11,
+      "rms_contrast": 0.367,
+      "laplacian_edge_var": 2685.89,
+      "overexposure_pct": 65.9,
+      "legibility_score": 42.5
+    },
+    "inference_metrics": {
+      "mean_luminance": 225.81,
+      "std_luminance": 81.19,
+      "rms_contrast": 0.36,
+      "laplacian_edge_var": 15443.53,
+      "overexposure_pct": 88.55,
+      "legibility_score": 27.9
+    }
+  }
+]
