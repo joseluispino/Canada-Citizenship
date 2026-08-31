@@ -37,12 +37,13 @@ sources:
 - '[[Sources/Vital_Statistics/1903Death-Whalen-WilliamH-2]]'
 - '[[Sources/Vital_Statistics/1914Death-Whalen-ThomasE]]'
 - '[[Sources/Archival_Search_Hypotheses/Target-1824-Microfilm-PANB-REEL-F1582-CharlotteParish]]'
-- '[[Sources/5-Patrick Whalen/1840 Marriage Whalen Patrick Leslie Eliza.pdf]]'
-- '[[Sources/5-Patrick Whalen/Passamaquoddy book p226 Leslie family.jpeg]]'
+- '[[Sources/Vital_Statistics/1840 Marriage Whalen Patrick Leslie Eliza]]'
+- '[[Sources/5-Eliza H Leslie/Passamaquoddy book p226 Leslie family]]'
 audit_tag: verified_empirical
 audit_date: 2026-08-30
 audit_status: passed
 ---
+
 
 
 # 👤 Eliza Leslie (1824–1905)
@@ -84,11 +85,11 @@ views:
 
 ### 📋 Primary Archival Holdings
 The following verified primary source documents substantiate the vital statistics, family relationships, and legal status in this profile:
-* **Document Record:** [[Sources/Microfilms/1851-Census-WestIsles-CharlotteNB-PatrickWhalinFamily-LAC-C995\|1851 Census WestIsles CharlotteNB PatrickWhalinFamily LAC C995]]
-* **Document Record:** [[Sources/Microfilms/1861-Census-WestIsles-CharlotteNB-PatrickWhalinFamily-LAC-C1001\|1861 Census WestIsles CharlotteNB PatrickWhalinFamily LAC C1001]]
-* **Document Record:** [[Sources/Vital_Statistics/1903Death-Whalen-WilliamH-2\|1903Death Whalen WilliamH 2]]
-* **Document Record:** [[Sources/Vital_Statistics/1914Death-Whalen-ThomasE\|1914Death Whalen ThomasE]]
-* **Document Record:** [[Sources/Archival_Search_Hypotheses/Target-1824-Microfilm-PANB-REEL-F1582-CharlotteParish\|Target 1824 Microfilm PANB REEL F1582 CharlotteParish]]
-* **Document Record:** [[Sources/5-Patrick Whalen/1840 Marriage Whalen Patrick Leslie Eliza.pdf\|1840 Marriage Whalen Patrick Leslie Eliza]]
-* **Document Record:** [[Sources/5-Patrick Whalen/Passamaquoddy book p226 Leslie family.jpeg\|Passamaquoddy book p226 Leslie family]]
+* **Document Record:** [[Sources/Microfilms/1851-Census-WestIsles-CharlotteNB-PatrickWhalinFamily-LAC-C995|1851 Census WestIsles CharlotteNB PatrickWhalinFamily LAC C995]]
+* **Document Record:** [[Sources/Microfilms/1861-Census-WestIsles-CharlotteNB-PatrickWhalinFamily-LAC-C1001|1861 Census WestIsles CharlotteNB PatrickWhalinFamily LAC C1001]]
+* **Document Record:** [[Sources/Vital_Statistics/1903Death-Whalen-WilliamH-2|1903Death Whalen WilliamH 2]]
+* **Document Record:** [[Sources/Vital_Statistics/1914Death-Whalen-ThomasE|1914Death Whalen ThomasE]]
+* **Document Record:** [[Sources/Archival_Search_Hypotheses/Target-1824-Microfilm-PANB-REEL-F1582-CharlotteParish|Target 1824 Microfilm PANB REEL F1582 CharlotteParish]]
+* **Document Record:** [[Sources/Vital_Statistics/1840 Marriage Whalen Patrick Leslie Eliza|1840 Marriage Whalen Patrick Leslie Eliza]]
+* **Document Record:** [[Sources/5-Eliza H Leslie/Passamaquoddy book p226 Leslie family|Passamaquoddy book p226 Leslie family]]
 

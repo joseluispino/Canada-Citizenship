@@ -40,12 +40,11 @@ occupations:
 - Special Constable
 - Grocery Merchant
 sources:
-- '[[Sources/Census/1900-Census-CalaisME-JohnWWhalenFamily.md]]'
+- '[[Sources/Census/1900-Census-CalaisME-JohnWWhalenFamily]]'
 - '[[Sources/Microfilms/1851-Census-WestIsles-CharlotteNB-PatrickWhalinFamily-LAC-C995]]'
 - '[[Sources/Microfilms/1861-Census-WestIsles-CharlotteNB-PatrickWhalinFamily-LAC-C1001]]'
 - '[[Sources/Vital_Statistics/1881-Marriage-JohnWWhalen-SamanthaDudley-Eastport]]'
 - '[[Sources/Vital_Statistics/1898Birth-HollisWhalen]]'
-- '[[Sources/Census/1900-Census-CalaisME-JohnWWhalenFamily]]'
 - '[[Sources/Published_Histories/1901-Eastport-Directory-JohnWWhalen-Grocer]]'
 - '[[Sources/Published_Histories/1902-TownReport-EastportME-Whalen-JohnW]]'
 - '[[Sources/Census/1910-Census-EastportME-JohnWWhalen]]'
@@ -54,25 +53,26 @@ sources:
 - '[[Sources/Vital_Statistics/1937-Death-Certificate-JohnWarrenWhalen]]'
 - '[[Sources/Archival_Search_Hypotheses/Target-1860-Microfilm-PANB-REEL-F1589-LepreauParish]]'
 - '[[Sources/Archival_Search_Hypotheses/NARA-Naturalization-Index-M1299-Negative-Search]]'
-- '[[Sources/4-John Warren Whalen/Whalen family in Passamaquoddy book.pdf]]'
-- '[[Sources/4-John Warren Whalen/1860-DOM-WhalenJohnWarren-URN-GEN-1860-08-JWW.txt]]'
-- '[[Sources/Census/1920 Census Whalen John Warren.pdf]]'
-- '[[Sources/Census/1920Census-Whalen-JohnWarren.jpg]]'
-- '[[Sources/Published_Histories/Eastport Alms House Master John Whalen.jpg]]'
-- '[[Sources/Published_Histories/1901 Eastport Directory Whalen JohnW.pdf]]'
-- '[[Sources/Published_Histories/1901 Eastport Directory Whalen John W, grocer.pdf]]'
-- '[[Sources/Published_Histories/1902 TownReport Whalen John W.pdf]]'
-- '[[Sources/Published_Histories/1902TownReport-Whalen-JohnW.png]]'
-- '[[Sources/Land_Probate_Military/1886Military-Whalen-JohnWarren.jpg]]'
-- '[[Sources/Land_Probate_Military/1886 Military Whalen John Warren.pdf]]'
+- '[[Sources/Vital_Statistics/Whalen family in Passamaquoddy book]]'
+- '[[Sources/4-John Warren Whalen/1860-DOM-WhalenJohnWarren-URN-GEN-1860-08-JWW]]'
+- '[[Sources/Military/1920 Census Whalen John Warren]]'
+- '[[Sources/Military/1920Census-Whalen-JohnWarren]]'
+- '[[Sources/Published_Histories/Eastport Alms House Master John Whalen]]'
+- '[[Sources/Vital_Statistics/1901 Eastport Directory Whalen JohnW]]'
+- '[[Sources/Vital_Statistics/1901 Eastport Directory Whalen John W, grocer]]'
+- '[[Sources/Vital_Statistics/1902 TownReport Whalen John W]]'
+- '[[Sources/Vital_Statistics/1902TownReport-Whalen-JohnW]]'
+- '[[Sources/Military/1886Military-Whalen-JohnWarren]]'
+- '[[Sources/Military/1886 Military Whalen John Warren]]'
 - '[[Sources/Archival_Search_Hypotheses/Target-1860-Microfilm-PANB-Anglican-WestIsles-JohnWarrenWhalen]]'
 - '[[Sources/Vital_Statistics/JohnWarrenWhalen-death (1).certificate]]'
 audit_tag: verified_empirical
 audit_date: 2026-08-30
 audit_status: passed
-religion: "Church of England (Anglican)"
+religion: Church of England (Anglican)
 immigration_year: 1880
 ---
+
 
 
 

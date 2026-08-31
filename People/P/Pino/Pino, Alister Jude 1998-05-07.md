@@ -31,27 +31,12 @@ proven_tier: primary_vital_records
 data_origin: certified_vital_records
 sex: M
 sources:
-- '[[Alister-birth-certificate.pdf]]'
-- '[[Alister - Consulate Letter (Signed).pdf]]'
-- '[[Alister Otros Documentos.pdf]]'
-- '[[Screenshot_20250807-070723.png]]'
-- '[[Alister Drivers license original.pdf]]'
-- '[[Alister Birth Certificate with Apostille.pdf]]'
-- '[[Authorization-registro-civil for Alister Beck.pdf]]'
-- '[[Alister - Driver''s license BW.pdf]]'
-- '[[Alister photo with passport.jpg]]'
-- '[[Alister - Anexo 5.pdf]]'
-- '[[Pino Phillips, Alister Jude - full -BUGY.pdf]]'
-- '[[Alister - hoja declaratoria inscripcion nacimiento (Signed).pdf]]'
-- '[[Pino Phillips, Alister Jude.pdf]]'
-- '[[Alister Jude Beck Passport.pdf]]'
-- '[[Alister and Shamus wedding certificate.pdf]]'
-- '[[Alister - Anexo 1 (Signed).pdf]]'
-- '[[Alister - Passport.pdf]]'
+- '[[Sources/0-Alister/Alister-birth-certificate]]'
 audit_tag: verified_empirical
 audit_date: 2026-08-30
 audit_status: passed
 ---
+
 
 
 # 👤 Alister Jude Pino (1998–Present)
@@ -90,5 +75,5 @@ views:
 
 ### 📋 Primary Archival Holdings
 The following verified primary source documents substantiate the vital statistics, family relationships, and legal status in this profile:
-* **Evidence Search:** Primary archival records indexed via master `Evidence_Inventory.base`.
+* **Document Record:** [[Sources/0-Alister/Alister-birth-certificate|Alister birth certificate]]
 

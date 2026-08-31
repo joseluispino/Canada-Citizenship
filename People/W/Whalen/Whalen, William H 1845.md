@@ -43,6 +43,7 @@ audit_reconciled_discrepancies:
 ---
 
 
+
 # 👤 William H. Whalen (1845–1903)
 
 ## 📌 Executive Summary
@@ -82,9 +83,9 @@ views:
 
 ### 📋 Primary Archival Holdings
 The following verified primary source documents substantiate the vital statistics, family relationships, and legal status in this profile:
-* **Document Record:** [[Sources/Microfilms/1851-Census-WestIsles-CharlotteNB-PatrickWhalinFamily-LAC-C995\|1851 Census WestIsles CharlotteNB PatrickWhalinFamily LAC C995]]
-* **Document Record:** [[Sources/Microfilms/1861-Census-WestIsles-CharlotteNB-PatrickWhalinFamily-LAC-C1001\|1861 Census WestIsles CharlotteNB PatrickWhalinFamily LAC C1001]]
-* **Document Record:** [[Sources/Vital_Statistics/1903Death-Whalen-WilliamH-2\|1903Death Whalen WilliamH 2]]
+* **Document Record:** [[Sources/Microfilms/1851-Census-WestIsles-CharlotteNB-PatrickWhalinFamily-LAC-C995|1851 Census WestIsles CharlotteNB PatrickWhalinFamily LAC C995]]
+* **Document Record:** [[Sources/Microfilms/1861-Census-WestIsles-CharlotteNB-PatrickWhalinFamily-LAC-C1001|1861 Census WestIsles CharlotteNB PatrickWhalinFamily LAC C1001]]
+* **Document Record:** [[Sources/Vital_Statistics/1903Death-Whalen-WilliamH-2|1903Death Whalen WilliamH 2]]
 
 
 ## ⚖️ Evidentiary Audit & Discrepancy Resolution

@@ -47,6 +47,7 @@ audit_status: passed
 ---
 
 
+
 # 👤 Lisa Michelle Phillips (1967–Present)
 
 ## 📌 Executive Summary
@@ -98,5 +99,5 @@ views:
 
 ### 📋 Primary Archival Holdings
 The following verified primary source documents substantiate the vital statistics, family relationships, and legal status in this profile:
-* **Document Record:** [[Sources/Vital_Statistics/Lisa-birth-cert\|Lisa birth cert]]
+* **Document Record:** [[Sources/Vital_Statistics/Lisa-birth-cert|Lisa birth cert]]
 

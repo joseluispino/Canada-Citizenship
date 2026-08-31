@@ -30,11 +30,12 @@ sex: F
 sources:
 - '[[Sources/Vital_Statistics/Whalen-Shirley-birth-certificate]]'
 - '[[Sources/Vital_Statistics/Lisa-birth-cert]]'
-- '[[Sources/Published_Histories/Map-Eastport-Whalen-Shirley-house location.png]]'
+- '[[Sources/Vital_Statistics/Map-Eastport-Whalen-Shirley-house location]]'
 audit_tag: verified_empirical
 audit_date: 2026-08-30
 audit_status: passed
 ---
+
 
 
 # 👤 Shirley Ann Whalen (1936–2002)

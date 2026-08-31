@@ -31,23 +31,12 @@ proven_tier: primary_vital_records
 data_origin: certified_vital_records
 sex: F
 sources:
-- '[[Ana birth certificate.pdf]]'
-- '[[Ana Rono Canada cit0001e 4.5.2026.pdf]]'
-- '[[2020Nevada-Ana-Andrew-MarriageCertificate-Color.pdf]]'
-- '[[ana with passport.jpeg]]'
-- '[[Ana - Hoja declaratoria signed.pdf]]'
-- '[[Ana Otros Documentos.pdf]]'
-- '[[JUSTIFICANTE_SOLICITUD_ANPIPH05091990.pdf]]'
-- '[[Ana drivers license.jpeg]]'
-- '[[Ana apostilled birth certificate - 300DPI.pdf]]'
-- '[[Ana Consulate Letter - Signed.pdf]]'
-- '[[Andrew Apostille Birth Certificate.pdf]]'
-- '[[Ana -Anexo 1 Signed.pdf]]'
-- '[[Ana and Andrew wedding certificate.pdf]]'
+- '[[Sources/Hollis docs/scanned familydocuments/2020Nevada-Ana-Andrew-MarriageCertificate-Color]]'
 audit_tag: verified_empirical
 audit_date: 2026-08-30
 audit_status: passed
 ---
+
 
 
 # 👤 Ana Maria Pino (1990–Present)
@@ -86,5 +75,5 @@ views:
 
 ### 📋 Primary Archival Holdings
 The following verified primary source documents substantiate the vital statistics, family relationships, and legal status in this profile:
-* **Evidence Search:** Primary archival records indexed via master `Evidence_Inventory.base`.
+* **Document Record:** [[Sources/Hollis docs/scanned familydocuments/2020Nevada-Ana-Andrew-MarriageCertificate-Color|2020Nevada Ana Andrew MarriageCertificate Color]]
 

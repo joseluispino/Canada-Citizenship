@@ -51,6 +51,7 @@ audit_status: passed
 ---
 
 
+
 # 👤 Maria Isabel Pino (1994–Present)
 
 ## 📌 Executive Summary

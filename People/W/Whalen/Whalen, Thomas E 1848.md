@@ -30,10 +30,9 @@ sources:
 - '[[Sources/Microfilms/1851-Census-WestIsles-CharlotteNB-PatrickWhalinFamily-LAC-C995]]'
 - '[[Sources/Microfilms/1861-Census-WestIsles-CharlotteNB-PatrickWhalinFamily-LAC-C1001]]'
 - '[[Sources/Vital_Statistics/1914Death-Whalen-ThomasE]]'
-- '[[Sources/Death-1914-ThomasWhalen.jpg]]'
-- '[[Sources/6-Thomas Whalen/1815 Marriage Whalen Thomas Flinn Joanna.pdf]]'
-- '[[Sources/Land_Probate_Military/1953Military-Thomas-MarilynEvelynWhalen and TerryLynn.png]]'
-- '[[Sources/Vital_Statistics/Death-1914-ThomasWhalen.jpg]]'
+- '[[Sources/Vital_Statistics/Death-1914-ThomasWhalen]]'
+- '[[Sources/Vital_Statistics/1815 Marriage Whalen Thomas Flinn Joanna]]'
+- '[[Sources/Military/1953Military-Thomas-MarilynEvelynWhalen and TerryLynn]]'
 audit_tag: verified_empirical
 audit_date: 2026-08-30
 audit_status: passed
@@ -45,6 +44,7 @@ audit_reconciled_discrepancies:
   reason: 'Reconciled to authentic primary facsimile: City of Eastport Record of a
     Death (1914).'
 ---
+
 
 
 # 👤 Thomas E. Whalen (1848–1914)
@@ -86,13 +86,12 @@ views:
 
 ### 📋 Primary Archival Holdings
 The following verified primary source documents substantiate the vital statistics, family relationships, and legal status in this profile:
-* **Document Record:** [[Sources/Microfilms/1851-Census-WestIsles-CharlotteNB-PatrickWhalinFamily-LAC-C995\|1851 Census WestIsles CharlotteNB PatrickWhalinFamily LAC C995]]
-* **Document Record:** [[Sources/Microfilms/1861-Census-WestIsles-CharlotteNB-PatrickWhalinFamily-LAC-C1001\|1861 Census WestIsles CharlotteNB PatrickWhalinFamily LAC C1001]]
-* **Document Record:** [[Sources/Vital_Statistics/1914Death-Whalen-ThomasE\|1914Death Whalen ThomasE]]
-* **Document Record:** [[Sources/Death-1914-ThomasWhalen.jpg\|Death 1914 ThomasWhalen]]
-* **Document Record:** [[Sources/6-Thomas Whalen/1815 Marriage Whalen Thomas Flinn Joanna.pdf\|1815 Marriage Whalen Thomas Flinn Joanna]]
-* **Document Record:** [[Sources/Land_Probate_Military/1953Military-Thomas-MarilynEvelynWhalen and TerryLynn.png\|1953Military Thomas MarilynEvelynWhalen and TerryLynn]]
-* **Document Record:** [[Sources/Vital_Statistics/Death-1914-ThomasWhalen.jpg\|Death 1914 ThomasWhalen]]
+* **Document Record:** [[Sources/Microfilms/1851-Census-WestIsles-CharlotteNB-PatrickWhalinFamily-LAC-C995|1851 Census WestIsles CharlotteNB PatrickWhalinFamily LAC C995]]
+* **Document Record:** [[Sources/Microfilms/1861-Census-WestIsles-CharlotteNB-PatrickWhalinFamily-LAC-C1001|1861 Census WestIsles CharlotteNB PatrickWhalinFamily LAC C1001]]
+* **Document Record:** [[Sources/Vital_Statistics/1914Death-Whalen-ThomasE|1914Death Whalen ThomasE]]
+* **Document Record:** [[Sources/Vital_Statistics/Death-1914-ThomasWhalen|Death 1914 ThomasWhalen]]
+* **Document Record:** [[Sources/Vital_Statistics/1815 Marriage Whalen Thomas Flinn Joanna|1815 Marriage Whalen Thomas Flinn Joanna]]
+* **Document Record:** [[Sources/Military/1953Military-Thomas-MarilynEvelynWhalen and TerryLynn|1953Military Thomas MarilynEvelynWhalen and TerryLynn]]
 
 
 ## ⚖️ Evidentiary Audit & Discrepancy Resolution

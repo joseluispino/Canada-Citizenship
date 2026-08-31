@@ -29,20 +29,19 @@ proven_tier: primary_vital_records
 data_origin: certified_vital_records
 sex: M
 sources:
-- '[[Sources/Census/1900-Census-CalaisME-JohnWWhalenFamily.md]]'
-- '[[Sources/Vital_Statistics/1898Birth-HollisWhalen]]'
 - '[[Sources/Census/1900-Census-CalaisME-JohnWWhalenFamily]]'
+- '[[Sources/Vital_Statistics/1898Birth-HollisWhalen]]'
 - '[[Sources/Vital_Statistics/Whalen-Shirley-birth-certificate]]'
-- '[[Sources/Vital_Statistics/Funeral-Hollis Vernon Whalen p2 2.pdf]]'
-- '[[Sources/Funeral-Hollis Vernon Whalen p2 2.pdf]]'
-- '[[Sources/3-Hollis Vernon Whalen/1925 Military Whalen Hollis.pdf]]'
+- '[[Sources/Vital_Statistics/Funeral-Hollis Vernon Whalen p2 2]]'
+- '[[Sources/Land_Probate_Military/1925 Military Whalen Hollis]]'
 audit_tag: verified_empirical
 audit_date: 2026-08-30
 audit_status: passed
-father_birth_place: "New Brunswick, Canada"
+father_birth_place: New Brunswick, Canada
 mother_birth_place: Maine, USA
 religion: Church of England / Protestant
 ---
+
 
 
 

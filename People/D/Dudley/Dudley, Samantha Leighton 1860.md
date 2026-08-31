@@ -37,6 +37,7 @@ audit_status: passed
 ---
 
 
+
 # 👤 Samantha Leighton Dudley (1860–1933)
 
 ## 📌 Executive Summary
@@ -76,7 +77,7 @@ views:
 
 ### 📋 Primary Archival Holdings
 The following verified primary source documents substantiate the vital statistics, family relationships, and legal status in this profile:
-* **Document Record:** [[Sources/Vital_Statistics/1881-Marriage-JohnWWhalen-SamanthaDudley-Eastport\|1881 Marriage JohnWWhalen SamanthaDudley Eastport]]
-* **Document Record:** [[Sources/Vital_Statistics/1898Birth-HollisWhalen\|1898Birth HollisWhalen]]
-* **Document Record:** [[Sources/Vital_Statistics/1894Death-Whalen-Lulu\|1894Death Whalen Lulu]]
+* **Document Record:** [[Sources/Vital_Statistics/1881-Marriage-JohnWWhalen-SamanthaDudley-Eastport|1881 Marriage JohnWWhalen SamanthaDudley Eastport]]
+* **Document Record:** [[Sources/Vital_Statistics/1898Birth-HollisWhalen|1898Birth HollisWhalen]]
+* **Document Record:** [[Sources/Vital_Statistics/1894Death-Whalen-Lulu|1894Death Whalen Lulu]]
 
