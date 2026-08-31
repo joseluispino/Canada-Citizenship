@@ -34,6 +34,7 @@ audit_status: passed
 ---
 
 
+
 # 👤 Lulu M. Whalen (1894–1894)
 
 ## 📌 Executive Summary
@@ -68,8 +69,4 @@ views:
       - file.name
       - repository
 ```
-
-### 📋 Primary Archival Holdings
-The following verified primary source documents substantiate the vital statistics, family relationships, and legal status in this profile:
-* **Document Record:** [[Sources/Vital_Statistics/1894Death-Whalen-Lulu|1894Death Whalen Lulu]]
 

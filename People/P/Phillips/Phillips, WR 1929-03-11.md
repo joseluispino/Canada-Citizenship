@@ -32,6 +32,7 @@ audit_status: passed
 ---
 
 
+
 # 👤 WR Phillips (1929–2011)
 
 ## 📌 Executive Summary
@@ -62,8 +63,4 @@ views:
       - file.name
       - repository
 ```
-
-### 📋 Primary Archival Holdings
-The following verified primary source documents substantiate the vital statistics, family relationships, and legal status in this profile:
-* **Evidence Search:** Primary archival records indexed via master `Evidence_Inventory.base`.
 

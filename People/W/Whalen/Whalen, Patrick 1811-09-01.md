@@ -51,6 +51,7 @@ audit_status: passed
 
 
 
+
 # 👤 Patrick Whalen (1816–1893)
 
 ## 📌 Executive Summary
@@ -93,15 +94,4 @@ views:
       - file.name
       - repository
 ```
-
-### 📋 Primary Archival Holdings
-The following verified primary source documents substantiate the vital statistics, family relationships, and legal status in this profile:
-* **Document Record:** [[Sources/Microfilms/1851-Census-WestIsles-CharlotteNB-PatrickWhalinFamily-LAC-C995|1851 Census WestIsles CharlotteNB PatrickWhalinFamily LAC C995]]
-* **Document Record:** [[Sources/Microfilms/1861-Census-WestIsles-CharlotteNB-PatrickWhalinFamily-LAC-C1001|1861 Census WestIsles CharlotteNB PatrickWhalinFamily LAC C1001]]
-* **Document Record:** [[Sources/Vital_Statistics/1903Death-Whalen-WilliamH-2|1903Death Whalen WilliamH 2]]
-* **Document Record:** [[Sources/Vital_Statistics/1914Death-Whalen-ThomasE|1914Death Whalen ThomasE]]
-* **Document Record:** [[Sources/Archival_Search_Hypotheses/Target-1845-Microfilm-PANB-REEL-F1574-CharlotteCountyMarriages|Target 1845 Microfilm PANB REEL F1574 CharlotteCountyMarriages]]
-* **Document Record:** [[Sources/Vital_Statistics/1840 Marriage Whalen Patrick Leslie Eliza|1840 Marriage Whalen Patrick Leslie Eliza]]
-* **Document Record:** [[Sources/5-Eliza H Leslie/Passamaquoddy book p226 Leslie family|Passamaquoddy book p226 Leslie family]]
-* **Document Record:** [[Sources/Archival_Search_Hypotheses/1811-Baptism-WhalenPatrick-Hypothesis|1811 Baptism WhalenPatrick Hypothesis]]
 

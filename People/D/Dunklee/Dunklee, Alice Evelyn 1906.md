@@ -34,6 +34,7 @@ audit_status: passed
 
 
 
+
 # 👤 Alice Evelyn Dunklee (1906–1988)
 
 ## 📌 Executive Summary
@@ -70,8 +71,4 @@ views:
       - file.name
       - repository
 ```
-
-### 📋 Primary Archival Holdings
-The following verified primary source documents substantiate the vital statistics, family relationships, and legal status in this profile:
-* **Document Record:** [[Sources/Vital_Statistics/Whalen-Shirley-birth-certificate|Whalen Shirley birth certificate]]
 

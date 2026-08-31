@@ -69,9 +69,10 @@ sources:
 audit_tag: verified_empirical
 audit_date: 2026-08-30
 audit_status: passed
-religion: "Church of England (Anglican)"
+religion: Church of England (Anglican)
 immigration_year: 1880
 ---
+
 
 
 
@@ -119,3 +120,21 @@ direction: TD
 * **1900 Census Page 1:** ![[1900-Census-CalaisME-JohnWWhalenFamily-Page1-Display.jpg\|800]]
 
 * **Census Holding:** [[Sources/Census/1900-Census-CalaisME-JohnWWhalenFamily.md\|1900 US Federal Census - Calais ME]]
+
+## 📄 Source Documents & Archival Evidence
+
+```base
+filters:
+  and:
+    - doc_type == "source"
+    - file.hasLink("Whalen, John Warren 1860-08-12.md")
+views:
+  - type: table
+    name: Corroborating Evidence
+    order:
+      - year
+      - source_type
+      - file.name
+      - repository
+```
+

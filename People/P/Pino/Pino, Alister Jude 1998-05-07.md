@@ -39,6 +39,7 @@ audit_status: passed
 
 
 
+
 # 👤 Alister Jude Pino (1998–Present)
 
 ## 📌 Executive Summary
@@ -72,8 +73,4 @@ views:
       - file.name
       - repository
 ```
-
-### 📋 Primary Archival Holdings
-The following verified primary source documents substantiate the vital statistics, family relationships, and legal status in this profile:
-* **Document Record:** [[Sources/0-Alister/Alister-birth-certificate|Alister birth certificate]]
 

@@ -47,6 +47,7 @@ audit_reconciled_discrepancies:
 
 
 
+
 # 👤 Thomas E. Whalen (1848–1914)
 
 ## 📌 Executive Summary
@@ -83,15 +84,6 @@ views:
       - file.name
       - repository
 ```
-
-### 📋 Primary Archival Holdings
-The following verified primary source documents substantiate the vital statistics, family relationships, and legal status in this profile:
-* **Document Record:** [[Sources/Microfilms/1851-Census-WestIsles-CharlotteNB-PatrickWhalinFamily-LAC-C995|1851 Census WestIsles CharlotteNB PatrickWhalinFamily LAC C995]]
-* **Document Record:** [[Sources/Microfilms/1861-Census-WestIsles-CharlotteNB-PatrickWhalinFamily-LAC-C1001|1861 Census WestIsles CharlotteNB PatrickWhalinFamily LAC C1001]]
-* **Document Record:** [[Sources/Vital_Statistics/1914Death-Whalen-ThomasE|1914Death Whalen ThomasE]]
-* **Document Record:** [[Sources/Vital_Statistics/Death-1914-ThomasWhalen|Death 1914 ThomasWhalen]]
-* **Document Record:** [[Sources/Vital_Statistics/1815 Marriage Whalen Thomas Flinn Joanna|1815 Marriage Whalen Thomas Flinn Joanna]]
-* **Document Record:** [[Sources/Military/1953Military-Thomas-MarilynEvelynWhalen and TerryLynn|1953Military Thomas MarilynEvelynWhalen and TerryLynn]]
 
 
 ## ⚖️ Evidentiary Audit & Discrepancy Resolution

@@ -39,6 +39,7 @@ audit_status: passed
 
 
 
+
 # 👤 Ana Maria Pino (1990–Present)
 
 ## 📌 Executive Summary
@@ -72,8 +73,4 @@ views:
       - file.name
       - repository
 ```
-
-### 📋 Primary Archival Holdings
-The following verified primary source documents substantiate the vital statistics, family relationships, and legal status in this profile:
-* **Document Record:** [[Sources/Hollis docs/scanned familydocuments/2020Nevada-Ana-Andrew-MarriageCertificate-Color|2020Nevada Ana Andrew MarriageCertificate Color]]
 

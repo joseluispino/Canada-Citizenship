@@ -38,6 +38,7 @@ audit_status: passed
 
 
 
+
 # 👤 Shirley Ann Whalen (1936–2002)
 
 ## 📌 Executive Summary
@@ -69,3 +70,21 @@ direction: TD
 ![[Whalen-Shirley-birth-certificate.pdf]]
 * **Archive Reference:** State of Maine — Office of the City Clerk of Eastport.
 * **Evidentiary Finding:** Certified primary record proving birth to Hollis Vernon Whalen and Alice Evelyn Dunklee.
+
+## 📄 Source Documents & Archival Evidence
+
+```base
+filters:
+  and:
+    - doc_type == "source"
+    - file.hasLink("Whalen, Shirley Ann 1936-09-02.md")
+views:
+  - type: table
+    name: Corroborating Evidence
+    order:
+      - year
+      - source_type
+      - file.name
+      - repository
+```
+

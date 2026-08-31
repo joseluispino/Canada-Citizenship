@@ -45,6 +45,7 @@ religion: Church of England / Protestant
 
 
 
+
 # 👤 Hollis Vernon Whalen (1898–1981)
 
 ## 📌 Executive Summary
@@ -84,3 +85,21 @@ direction: TD
 * **1900 Census Page 2:** ![[1900-Census-CalaisME-JohnWWhalenFamily-Page2-Display.jpg\|800]]
 
 * **Census Holding:** [[Sources/Census/1900-Census-CalaisME-JohnWWhalenFamily.md\|1900 US Federal Census - Calais ME]]
+
+## 📄 Source Documents & Archival Evidence
+
+```base
+filters:
+  and:
+    - doc_type == "source"
+    - file.hasLink("Whalen, Hollis Vernon 1898-12-14.md")
+views:
+  - type: table
+    name: Corroborating Evidence
+    order:
+      - year
+      - source_type
+      - file.name
+      - repository
+```
+

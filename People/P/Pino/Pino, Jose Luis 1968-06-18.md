@@ -45,6 +45,7 @@ audit_status: passed
 
 
 
+
 # 👤 Jose Luis Pino (1968–Present)
 
 ## 📌 Executive Summary
@@ -85,9 +86,4 @@ views:
       - file.name
       - repository
 ```
-
-### 📋 Primary Archival Holdings
-The following verified primary source documents substantiate the vital statistics, family relationships, and legal status in this profile:
-* **Document Record:** [[Sources/Immigration_and_Passports/1972-US-Medical-Visa-Registry-Jose-Luis-Pino-y-Torres|1972 US Medical Visa Registry Jose Luis Pino y Torres]]
-* **Document Record:** [[Sources/Vital_Statistics/RENIEC_Acta_Nacimiento_1944-12-14_Jose_Luis_Pino_Torres|RENIEC_Acta_Nacimiento_1944 12 14_Jose_Luis_Pino_Torres]]
 

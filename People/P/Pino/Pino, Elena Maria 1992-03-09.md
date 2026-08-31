@@ -38,6 +38,7 @@ audit_status: passed
 
 
 
+
 # 👤 Elena Maria Pino (1992–Present)
 
 ## 📌 Executive Summary
@@ -54,3 +55,21 @@ direction: TD
 
 ## 🗓️ Vital Events & Historical Timeline
 * **Birth:** 1992-03-09 in Berkeley, Alameda County, California, to Jose Luis Pino and Lisa Michelle Phillips.
+
+## 📄 Source Documents & Archival Evidence
+
+```base
+filters:
+  and:
+    - doc_type == "source"
+    - file.hasLink("Pino, Elena Maria 1992-03-09.md")
+views:
+  - type: table
+    name: Corroborating Evidence
+    order:
+      - year
+      - source_type
+      - file.name
+      - repository
+```
+
