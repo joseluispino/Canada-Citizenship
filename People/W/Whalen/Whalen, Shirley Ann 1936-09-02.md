@@ -1,8 +1,8 @@
 ---
 doc_type: person
 tags:
-  - topic/community/family
-  - affiliation/citizenship_chain_a
+- topic/community/family
+- affiliation/citizenship_chain_a
 id: URN-GEN-1936-09-SWP
 name: Shirley Ann Whalen
 birth_date: 1936-09-02
@@ -10,16 +10,16 @@ birth_place: Eastport, Washington County, Maine, USA
 death_date: 2002-08-01
 death_place: San Jose, Santa Clara County, California, USA
 parents:
-  - "[[Whalen, Hollis Vernon 1898-12-14|Hollis Vernon Whalen]]"
-  - "[[Dunklee, Alice Evelyn 1906|Alice Evelyn Dunklee]]"
+- '[[Whalen, Hollis Vernon 1898-12-14|Hollis Vernon Whalen]]'
+- '[[Dunklee, Alice Evelyn 1906|Alice Evelyn Dunklee]]'
 siblings: []
 spouse:
-  - "[[Phillips, WR 1929-03-11|WR Phillips]]"
+- '[[Phillips, WR 1929-03-11|WR Phillips]]'
 children:
-  - "[[Phillips, Lisa Michelle 1967-10-12|Lisa Michelle Phillips]]"
+- '[[Phillips, Lisa Michelle 1967-10-12|Lisa Michelle Phillips]]'
 citizenship_status: us_citizen_canadian_parentage
 citizenship_project_lineage:
-  - Chain A
+- Chain A
 citizenship_generation: G1
 citizenship_proof_status: complete
 document_status: complete
@@ -28,24 +28,19 @@ proven_tier: primary_vital_records
 data_origin: certified_vital_records
 sex: F
 sources:
-  - "[[Sources/Vital_Statistics/Whalen-Shirley-birth-certificate]]"
-  - "[[Sources/Vital_Statistics/Lisa-birth-cert]]"
-  - "[[Shirley Whalen death certificate.pdf]]"
-  - "[[1954 Shirley Whalen high school diploma.pdf]]"
-  - "[[Sources/Published_Histories/Map-Eastport-Whalen-Shirley-house location.png]]"
-  - "[[Birth-1936-ShirleyAnnWhalen.jpg]]"
-  - "[[1936Birth-WhalenShirleyAnn.jpg]]"
-  - "[[1936Birth-Whalen-ShirleyAnn.jpg]]"
-  - "[[Whalen-Shirley-birth-certificate.pdf]]"
+- '[[Sources/Vital_Statistics/Whalen-Shirley-birth-certificate]]'
+- '[[Sources/Vital_Statistics/Lisa-birth-cert]]'
+- '[[Sources/Published_Histories/Map-Eastport-Whalen-Shirley-house location.png]]'
 audit_tag: verified_empirical
 audit_date: 2026-08-30
 audit_status: passed
 ---
 
+
 # 👤 Shirley Ann Whalen (1936–2002)
 
 ## 📌 Executive Summary
-**Shirley Ann Whalen** (September 2, 1936 – August 1, 2002) is the **Generation G1 Transmission Anchor in Chain A**. Born in Eastport, Maine, to [[Whalen, Hollis Vernon 1898-12-14|Hollis Vernon Whalen]] (born in Eastport to Canadian-born Capt. John Warren Whalen) and [[Dunklee, Alice Evelyn 1906|Alice Evelyn Dunklee]] (born in Malden, Massachusetts). Mother of Lead Applicant [[Phillips, Lisa Michelle 1967-10-12|Lisa Michelle Phillips]].
+**Shirley Ann Whalen** (September 2, 1936 – August 1, 2002) is the **Generation G1 Transmission Anchor in Chain A**. Born in Eastport, Maine, to [[Whalen, Hollis Vernon 1898-12-14\|Hollis Vernon Whalen]] (born in Eastport to Canadian-born Capt. John Warren Whalen) and [[Dunklee, Alice Evelyn 1906\|Alice Evelyn Dunklee]] (born in Malden, Massachusetts). Mother of Lead Applicant [[Phillips, Lisa Michelle 1967-10-12\|Lisa Michelle Phillips]].
 
 ## 🌳 Family Tree & Dynamic Lineage Graph
 
@@ -58,8 +53,8 @@ direction: TD
 
 ## 🗓️ Vital Events & Historical Timeline
 * **Birth:** 1936-09-02 in Eastport, Washington County, Maine (*State of Maine Copy of a Record of Live Birth*, naming father Hollis V. Whalen and mother Alice Evelyn Dunklee).
-* **Marriage:** to [[Phillips, WR 1929-03-11|WR Phillips]].
-* **Birth of Child (G0):** [[Phillips, Lisa Michelle 1967-10-12|Lisa Michelle Phillips]] on 1967-10-12 in Biloxi, Harrison County, Mississippi.
+* **Marriage:** to [[Phillips, WR 1929-03-11\|WR Phillips]].
+* **Birth of Child (G0):** [[Phillips, Lisa Michelle 1967-10-12\|Lisa Michelle Phillips]] on 1967-10-12 in Biloxi, Harrison County, Mississippi.
 * **Death:** 2002-08-01 in San Jose, California.
 
 ## 📜 Historical Records & Vital Appearances

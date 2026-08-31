@@ -1,7 +1,7 @@
 # 🔬 Forensic Investigation & Statutory Naturalization Brief: Capt. John Warren Whalen (1860–1937)
 
-**Subject:** [[People/W/Whalen/Whalen, John Warren 1860-08-12|Capt. John Warren Whalen (1860–1937)]] • **Generation:** G3 Canadian Soil Anchor (*Jus Soli*)  
-**Direct Lineage Progeny:** [[People/W/Whalen/Whalen, Hollis Vernon 1898-12-14|Hollis Vernon Whalen (1898–1979)]] -> [[People/W/Whalen/Whalen, Shirley Ann 1936-09-02|Shirley Ann Whalen (1936–2014)]] -> [[People/P/Phillips/Phillips, Lisa Michelle 1967-10-12|Lisa Michelle Phillips (1967)]] -> Progeny  
+**Subject:** [[People/W/Whalen/Whalen, John Warren 1860-08-12\|Capt. John Warren Whalen (1860–1937)]] • **Generation:** G3 Canadian Soil Anchor (*Jus Soli*)  
+**Direct Lineage Progeny:** [[People/W/Whalen/Whalen, Hollis Vernon 1898-12-14\|Hollis Vernon Whalen (1898–1979)]] -> [[People/W/Whalen/Whalen, Shirley Ann 1936-09-02\|Shirley Ann Whalen (1936–2014)]] -> [[People/P/Phillips/Phillips, Lisa Michelle 1967-10-12\|Lisa Michelle Phillips (1967)]] -> Progeny  
 **Governing Jurisprudence:** Bill C-3 / Senate Bill S-245, Canadian Naturalization Act 1881, Canadian Citizenship Act 1946/1977, IRCC Guidelines CP 3 & CP 14.
 
 ---
@@ -67,7 +67,7 @@ graph LR
 ## 🏛️ 4. US Naturalization Databases & Negative Search Corroboration
 
 A forensic sweep of United States naturalization indexes corroborates the census findings:
-1. **[[Sources/Archival_Search_Hypotheses/NARA-Naturalization-Index-M1299-Negative-Search|NARA New England Naturalization Index (1791–1906, M1299)]]**:
+1. **[[Sources/Archival_Search_Hypotheses/NARA-Naturalization-Index-M1299-Negative-Search\|NARA New England Naturalization Index (1791–1906, M1299)]]**:
    - Includes US District Court of Maine (Portland & Bangor) and Maine Supreme Judicial Court (Machias, Washington County).
    - **Result:** **Negative.** Zero naturalization index cards exist for John Warren Whalen.
 2. **NARA Record Group 85 (Post-1906 Naturalization Records)**:

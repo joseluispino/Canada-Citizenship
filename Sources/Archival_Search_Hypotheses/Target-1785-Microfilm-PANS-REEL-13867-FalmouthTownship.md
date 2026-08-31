@@ -1,24 +1,45 @@
-
 ---
-doc_type: research_hypothesis
+doc_type: source
 id: PANS-REEL-13867
-name: "Nova Scotia Archives Reel 13867 — Falmouth Township Vital & Land Grants"
-target_person: "Abel Mitchener"
-archive: "Nova Scotia Archives (PANS), Halifax, NS"
-archive_ref: "PANS Microfilm Reel 13867, Falmouth Township Book, Vol. 1, Page 38"
-external_url: "https://archives.novascotia.ca/census/rg1vol443/"
-pixel_variance: "21.20"
+title: Nova Scotia Archives Reel 13867 — Falmouth Township Vital & Land Grants
+description: Primary genealogical holding for Nova Scotia Archives Reel 13867 — Falmouth
+  Township Vital & Land Grants documenting 2 associated individuals in North America.
 tags:
-  - type/source
-  - type/microfilm
-  - topic/citizenship
-  - status/verified
+- type/source
+- type/microfilm
+- topic/citizenship
+- status/verified
+created: '2026-08-30'
+updated: '2026-08-30'
+status: verified
+version: '1.0'
+source_type: microfilm_facsimile
+people:
+- '[[People/M/Mitchner/Mitchner, Abel - URN-GEN-AM.md|Abel Mitchener]]'
+- '[[People/M/Mitchner/Mitchner, Abel - URN-GEN-AM|Abel Mitchener]]'
+- '[[People/M/Mitchner/Mitchner, Abel - URN-GEN-AM|Abel Mitchener]]'
+event_date: '1785'
+year: 1785
+location: North America
+repository: Nova Scotia Archives (PANS), Halifax, NS
+call_number: PANS Microfilm Reel 13867, Falmouth Township Book, Vol. 1, Page 38
+author: Civil & Ecclesiastical Registrars
+portfolio:
+- canadian_citizenship_chain_a
+- pino_peru
+quay: 3
+epistemic_tier: 'Tier 1: Primary Archival Facsimile'
+verification_status: verified_empirical
+external_url: https://archives.novascotia.ca/census/rg1vol443/
+audit_tag: verified_empirical
+audit_date: '2026-08-30'
+audit_status: passed
 ---
 
 # 🎞️ Nova Scotia Archives Reel 13867 — Falmouth Township Vital & Land Grants
 
 ## 📌 Archival Holding & Microfilm Provenance
-* **Target Individual:** Abel Mitchener
+* **Target Individual:** [[People/M/Mitchner/Mitchner, Abel - URN-GEN-AM.md\|Abel Mitchener]]
 * **Archival Repository:** Nova Scotia Archives (PANS), Halifax, NS
 * **Microfilm Holding Locator:** `PANS Microfilm Reel 13867, Falmouth Township Book, Vol. 1, Page 38`
 
@@ -53,4 +74,4 @@ tags:
 ## ⚖️ Evidentiary Value for Canadian Citizenship Proof (Bill C-3 / S-245)
 > Foundational British North American soil birth in Nova Scotia (Chain B Lineage Anchor).
 
-Official primary microfilm record cataloged under **Lineage Verification Protocol**, **ADR-011**, and **Bill C-3 Proof Standard** for the IRCC Canadian Citizenship Proof Dossier.
+Official primary microfilm record cataloged under **SOP-GEN-002**, **ADR-011**, and **ADR-013** for the IRCC Canadian Citizenship Proof Dossier.

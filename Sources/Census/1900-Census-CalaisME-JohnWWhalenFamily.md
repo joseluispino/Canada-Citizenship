@@ -1,16 +1,45 @@
 ---
 doc_type: source
-type: census
+id: SRC-CENS-1900-1900-CENSUS-CALAISME
+title: 1900 US Federal Census — Calais, ME (John W. Whalen Household • Sheet 6A &
+  Sheet 6B)
+description: Primary genealogical holding for 1900 US Federal Census — Calais, ME
+  (John W. Whalen Household • Sheet 6A & Sheet 6B) documenting 4 associated individuals
+  in Calais, Washington County, Maine, USA.
 tags:
-  - topic/census
-  - provenance/public_records
-  - affiliation/citizenship_chain_a
+- topic/census
+- provenance/public_records
+- affiliation/citizenship_chain_a
+created: '2026-08-30'
+updated: '2026-08-30'
+status: verified
+version: '1.0'
+source_type: census
+people:
+- '[[People/W/Whalen/Whalen, Hollis Vernon 1898-12-14 - URN-GEN-1898-12-HVW|Hollis
+  Vernon Whalen]]'
+- '[[People/W/Whalen/Whalen, Hollis Vernon 1898-12-14|Hollis Vernon Whalen]]'
+- '[[People/W/Whalen/Whalen, John Warren 1860-08-12 - URN-GEN-1860-08-JWW|John Warren
+  Whalen]]'
+- '[[People/W/Whalen/Whalen, John Warren 1860-08-12|John Warren Whalen]]'
+event_date: '1900'
 year: 1900
-title: "1900 US Federal Census — Calais, ME (John W. Whalen Household • Sheet 6A & Sheet 6B)"
-provenance: "NARA Microfilm Publication T623, Roll 601, Washington County, Maine, Calais City Ward 5, Supervisor District 1, Enumeration District 204, Sheet 6A (Lines 97–100) & Sheet 6B (Line 1)."
-verified_entities:
-  - "[[People/W/Whalen/Whalen, John Warren 1860-08-12|John Warren Whalen]]"
-  - "[[People/W/Whalen/Whalen, Hollis Vernon 1898-12-14|Hollis Vernon Whalen]]"
+location: Calais, Washington County, Maine, USA
+repository: National Archives and Records Administration (NARA)
+author: Civil & Ecclesiastical Registrars
+portfolio:
+- canadian_citizenship_chain_a
+- pino_peru
+quay: 3
+epistemic_tier: 'Tier 1: Primary Archival Facsimile'
+verification_status: verified_empirical
+media_file: '[[Sources/Census/USCensusA-12th-1900-Eastport Almshouse.jpg]]'
+master_asset: '[[Sources/Census/USCensusA-12th-1900-Eastport Almshouse.jpg]]'
+display_asset: '[[Sources/Census/USCensusA-12th-1900-Eastport Almshouse.jpg]]'
+sha256: c4352a68ed0d6fdf6f826373c30b2ffd34cf36c9d4f9f521989ded565e182ec6
+audit_tag: verified_empirical
+audit_date: '2026-08-30'
+audit_status: passed
 ---
 
 # 📄 1900 US Federal Census — Calais, Washington County, Maine
@@ -20,7 +49,7 @@ verified_entities:
 
 ## 🏛️ Page 1: Sheet 6A (Lines 97–100) — Household Head John W. Whalen
 
-![[Sources/Census/1900-Census-CalaisME-JohnWWhalenFamily-Page1-Display.jpg|850]]
+![[Sources/Census/1900-Census-CalaisME-JohnWWhalenFamily-Page1-Display.jpg\|850]]
 
 ### 📋 Transcribed Lines (Sheet 6A)
 | Line | Name | Relation | Race | Sex | Birth Date | Age | Marital Status | Birthplace | Father Birthplace | Mother Birthplace | Immigrated | Occupation |
@@ -34,7 +63,7 @@ verified_entities:
 
 ## 🏛️ Page 2: Sheet 6B (Line 1) — Infant Son Hollis Vernon Whalen
 
-![[Sources/Census/1900-Census-CalaisME-JohnWWhalenFamily-Page2-Display.jpg|850]]
+![[Sources/Census/1900-Census-CalaisME-JohnWWhalenFamily-Page2-Display.jpg\|850]]
 
 ### 📋 Transcribed Lines (Sheet 6B)
 | Line | Name | Relation | Race | Sex | Birth Date | Age | Marital Status | Birthplace | Father Birthplace | Mother Birthplace | Immigrated | Occupation |
@@ -44,5 +73,5 @@ verified_entities:
 ---
 
 ## 🔬 Evidentiary Legal Significance for IRCC
-1. **Unbroken Biological & Nativity Attribution**: Explicitly certifies under federal enumeration seal that infant **[[People/W/Whalen/Whalen, Hollis Vernon 1898-12-14|Hollis Vernon Whalen]]** (Generation G2) is the biological son of Canadian-born **[[People/W/Whalen/Whalen, John Warren 1860-08-12|John Warren Whalen]]** (Generation G3).
+1. **Unbroken Biological & Nativity Attribution**: Explicitly certifies under federal enumeration seal that infant **[[People/W/Whalen/Whalen, Hollis Vernon 1898-12-14\|Hollis Vernon Whalen]]** (Generation G2) is the biological son of Canadian-born **[[People/W/Whalen/Whalen, John Warren 1860-08-12\|John Warren Whalen]]** (Generation G3).
 2. **Corroborating Canadian Nativity of G3**: Formally documents John Warren Whalen born in **August 1860 in Canada (Eng)** to Canadian-born parents, precisely corroborating the 1898 Maine State Birth Record (Vol 1898-W, p 314).

@@ -19,14 +19,14 @@ Before submitting your application to Immigration, Refugees and Citizenship Cana
 
 ### 1. Primary Identity Documents (Applicant)
 * [ ] **Two (2) Pieces of Government-Issued Photo ID** (e.g. Valid US Passport + Driver's License).
-* [ ] **Certified Long-Form Birth Certificate** of Lead Applicant ([[People/P/Phillips/Phillips, Lisa Michelle 1967-10-12|Lisa Michelle Phillips]]).
+* [ ] **Certified Long-Form Birth Certificate** of Lead Applicant ([[People/P/Phillips/Phillips, Lisa Michelle 1967-10-12\|Lisa Michelle Phillips]]).
 * [ ] **Marriage Certificate** (documenting legal surname change, if applicable).
 * [ ] **Two (2) Identical Official Citizenship Photos** (50 mm x 70 mm) with photographer studio stamp and date on reverse.
 
 ### 2. Generational Lineage Proof Exhibits (The Evidentiary Chain)
-* [ ] **Exhibit A (G1 Parent):** Certified Long-Form Birth Certificate of [[People/W/Whalen/Whalen, Shirley Ann 1936-09-02|Shirley Ann Whalen]] (Eastport, ME, 1936).
-* [ ] **Exhibit B (G2 Grandparent):** Certified Long-Form Birth Certificate of [[People/W/Whalen/Whalen, Hollis Vernon 1898-12-14|Hollis Vernon Whalen]] (Maine Record of Birth Vol 1898-W, p 314 • certifying father born in NB, Canada).
-* [ ] **Exhibit C (G3 Canadian Soil Anchor):** Certified Archival True Copy of the **1861 Census of New Brunswick** (LAC Microfilm Reel C-1001, Page 13, Line 36) certifying [[People/W/Whalen/Whalen, John Warren 1860-08-12|John Warren Whalen]] born in New Brunswick.
+* [ ] **Exhibit A (G1 Parent):** Certified Long-Form Birth Certificate of [[People/W/Whalen/Whalen, Shirley Ann 1936-09-02\|Shirley Ann Whalen]] (Eastport, ME, 1936).
+* [ ] **Exhibit B (G2 Grandparent):** Certified Long-Form Birth Certificate of [[People/W/Whalen/Whalen, Hollis Vernon 1898-12-14\|Hollis Vernon Whalen]] (Maine Record of Birth Vol 1898-W, p 314 • certifying father born in NB, Canada).
+* [ ] **Exhibit C (G3 Canadian Soil Anchor):** Certified Archival True Copy of the **1861 Census of New Brunswick** (LAC Microfilm Reel C-1001, Page 13, Line 36) certifying [[People/W/Whalen/Whalen, John Warren 1860-08-12\|John Warren Whalen]] born in New Brunswick.
 * [ ] **Exhibit D (Corroborating Marriage):** Certified Archival Copy of Charlotte County Marriage Register (PANB RS141B7 Register B, Page 92 • Patrick Whalen & Eliza Leslie, 1845).
 * [ ] **Exhibit E (Continuous Alien Status):** Certified Copy of 1900 US Federal Census (Calais, ME) confirming G3 Anchor held Alien (`Al`) status at child's birth.
 

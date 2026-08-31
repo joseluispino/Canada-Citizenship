@@ -12,7 +12,7 @@ description: Formal evidentiary brief, 7-Pillar Preponderance Matrix, Naturaliza
 ### Transparent Evidentiary & Statutory Analysis for IRCC Submission
 **Governing Statute:** Bill C-3 / Senate Bill S-245 (*An Act to amend the Citizenship Act*)  
 **Client Vault:** `Canadian-Citizenship`  
-**Lead Applicant (G0):** [[People/P/Phillips/Phillips, Lisa Michelle 1967-10-12|Lisa Michelle Phillips]]  
+**Lead Applicant (G0):** [[People/P/Phillips/Phillips, Lisa Michelle 1967-10-12\|Lisa Michelle Phillips]]  
 **Standard of Proof:** Balance of Probabilities (>= 51% Preponderance of Evidence)
 
 ---
@@ -37,7 +37,7 @@ description: Formal evidentiary brief, 7-Pillar Preponderance Matrix, Naturaliza
 2. **1,095-Day Physical Presence Exemption**:
    * All progeny born prior to December 15, 2025 are **100% exempt from the substantial connection test in Canada**.
 3. **The "First Papers" (`PA`) & Alien (`AL`) Safe Harbor**:
-   * Under pre-1977 Canadian jurisprudence, voluntary naturalization abroad severed Canadian status. In every decennial US Federal Census across a **30-year span (1900, 1910, 1920, 1930)**, Anchor Ancestor [[People/W/Whalen/Whalen, John Warren 1860-08-12|Capt. John Warren Whalen]] was sworn under oath as an **Alien (`Al`)**. Because John was an Alien in June 1900, he held **unbroken British Subject / Canadian status** when son [[People/W/Whalen/Whalen, Hollis Vernon 1898-12-14|Hollis Vernon Whalen]] was born on December 14, 1898.
+   * Under pre-1977 Canadian jurisprudence, voluntary naturalization abroad severed Canadian status. In every decennial US Federal Census across a **30-year span (1900, 1910, 1920, 1930)**, Anchor Ancestor [[People/W/Whalen/Whalen, John Warren 1860-08-12\|Capt. John Warren Whalen]] was sworn under oath as an **Alien (`Al`)**. Because John was an Alien in June 1900, he held **unbroken British Subject / Canadian status** when son [[People/W/Whalen/Whalen, Hollis Vernon 1898-12-14\|Hollis Vernon Whalen]] was born on December 14, 1898.
 4. **Dual-Citizen by Birth Exemption**:
    * Involuntary acquisition of US citizenship by birth (*jus soli*) to a Canadian parent (*jus sanguinis*) **never severed Canadian descent**.
 
@@ -70,4 +70,4 @@ The combination of primary certified state birth records ($G0 \rightarrow G1 \ri
 1. **Option A: Immediate Filing on Balance of Probabilities (~85% Approval)**:
    * Submit current certified vital certificates, sworn census returns, forensic naturalization brief, and a Statutory Declaration on pre-1888 Canadian provincial civil registration.
 2. **Option B: Bulletproof Strategy (Recommended — 99.9% Approval)**:
-   * File the pre-formatted **[[00_Projects_and_Dashboards/2_Canadian_Citizenship_Archival_Request_Packet|Provincial Archival Request]]** with target church parish reels to attach a certified church baptismal seal.
+   * File the pre-formatted **[[00_Projects_and_Dashboards/2_Canadian_Citizenship_Archival_Request_Packet\|Provincial Archival Request]]** with target church parish reels to attach a certified church baptismal seal.

@@ -81,4 +81,4 @@ graph LR
 ---
 
 ## 🌳 Interactive Generational Tree
-See [[00_Projects_and_Dashboards/Family_Citizenship_Descent_Tree.canvas|Family_Citizenship_Descent_Tree.canvas]] for the interactive visual graph linking each primary facsimile to its corresponding ancestor profile in `People/`.
+See [[00_Projects_and_Dashboards/Family_Citizenship_Descent_Tree.canvas\|Family_Citizenship_Descent_Tree.canvas]] for the interactive visual graph linking each primary facsimile to its corresponding ancestor profile in `People/`.

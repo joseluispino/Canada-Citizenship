@@ -24,7 +24,7 @@ description: Certified physical reproduction orders, attached digital copies for
 **Subject:** Certified Archival Copy Request — Charlotte County Marriage Register (RS141B7 Register B, Page 92)  
 **Attached for Reference:** `1840Marriage-Whalen-Patrick&ElizaLeslie.png` (Digital Excerpt Attached)  
 **Online Database Reference:** [PANB Vital Statistics from Government Records (RS141)](https://archives.gnb.ca/Search/VISSE/?culture=en-CA)  
-**In-Vault Hypothesis Dossier:** [[Sources/Archival_Search_Hypotheses/Target-1845-Microfilm-PANB-REEL-F1574-CharlotteCountyMarriages|Target-1845-Microfilm-PANB-REEL-F1574-CharlotteCountyMarriages]]
+**In-Vault Hypothesis Dossier:** [[Sources/Archival_Search_Hypotheses/Target-1845-Microfilm-PANB-REEL-F1574-CharlotteCountyMarriages\|Target-1845-Microfilm-PANB-REEL-F1574-CharlotteCountyMarriages]]
 
 ```text
 Dear PANB Reference Archivist,
@@ -62,7 +62,7 @@ Lisa Michelle Phillips (Direct Lineal Descendant)
 **Attached for Reference:** `1861-Census-WestIsles-CharlotteNB-PatrickWhalinFamily-LAC-C1001-Display.jpg` (Full High-Resolution Schedule Attached)  
 **Live LAC Collection Permalink:** [LAC Census of 1861 — Item 4108535_00078](https://central.bac-lac.gc.ca/.item/?app=Census1861&op=img&id=4108535_00078)  
 **Canadiana Heritage Viewer:** [Canadiana Reel C-1001](https://heritage.canadiana.ca/view/oocihm.lac_reel_c1001)  
-**In-Vault Master Dossier:** [[Sources/Microfilms/1861-Census-WestIsles-CharlotteNB-PatrickWhalinFamily-LAC-C1001|1861-Census-WestIsles-CharlotteNB-PatrickWhalinFamily-LAC-C1001]]
+**In-Vault Master Dossier:** [[Sources/Microfilms/1861-Census-WestIsles-CharlotteNB-PatrickWhalinFamily-LAC-C1001\|1861-Census-WestIsles-CharlotteNB-PatrickWhalinFamily-LAC-C1001]]
 
 ```text
 Dear Library and Archives Canada Reproduction Services,
@@ -95,7 +95,7 @@ Lisa Michelle Phillips
 ```
 
 ### 🖼️ Reference Facsimile Attachment (Order 2)
-![[Sources/Microfilms/1861-Census-WestIsles-CharlotteNB-PatrickWhalinFamily-LAC-C1001-Display.jpg|850]]
+![[Sources/Microfilms/1861-Census-WestIsles-CharlotteNB-PatrickWhalinFamily-LAC-C1001-Display.jpg\|850]]
 
 ---
 
@@ -107,7 +107,7 @@ Lisa Michelle Phillips
 **Attached for Reference:** `1851-Census-WestIsles-CharlotteNB-PatrickWhalinFamily-LAC-C995-Display.jpg` (Attached for Reference)  
 **Live LAC Collection Permalink:** [LAC Census of 1851 — Item e002292404](https://central.bac-lac.gc.ca/.item/?app=Census1851&op=img&id=e002292404)  
 **Canadiana Heritage Viewer:** [Canadiana Reel C-995](https://heritage.canadiana.ca/view/oocihm.lac_reel_c995)  
-**In-Vault Master Dossier:** [[Sources/Microfilms/1851-Census-WestIsles-CharlotteNB-PatrickWhalinFamily-LAC-C995|1851-Census-WestIsles-CharlotteNB-PatrickWhalinFamily-LAC-C995]]
+**In-Vault Master Dossier:** [[Sources/Microfilms/1851-Census-WestIsles-CharlotteNB-PatrickWhalinFamily-LAC-C995\|1851-Census-WestIsles-CharlotteNB-PatrickWhalinFamily-LAC-C995]]
 
 ```text
 Dear Library and Archives Canada Reproduction Services,
@@ -139,7 +139,7 @@ Lisa Michelle Phillips
 ```
 
 ### 🖼️ Reference Facsimile Attachment (Order 3)
-![[Sources/Microfilms/1851-Census-WestIsles-CharlotteNB-PatrickWhalinFamily-LAC-C995-Display.jpg|850]]
+![[Sources/Microfilms/1851-Census-WestIsles-CharlotteNB-PatrickWhalinFamily-LAC-C995-Display.jpg\|850]]
 
 ---
 
@@ -151,7 +151,7 @@ Lisa Michelle Phillips
 **Subject:** Genealogical Search Request — Church of England (Anglican) Parish Register: John Warren Whalen (1860, West Isles / St. Andrews)  
 **Attached for Reference:** Research Hypothesis Brief & Microfilm Reel Finding Aid Reference  
 **Online Database Finding Aid:** [PANB Microfilm Reel F-1096 Finding Aid](https://archives.gnb.ca/Search/Microfilm/PANB-F1096) & [PANB Reel F-1110 Finding Aid](https://archives.gnb.ca/Search/Microfilm/PANB-F1110)  
-**In-Vault Hypothesis Dossier:** [[Sources/Archival_Search_Hypotheses/Target-1860-Microfilm-PANB-Anglican-WestIsles-JohnWarrenWhalen|Target-1860-Microfilm-PANB-Anglican-WestIsles-JohnWarrenWhalen]]
+**In-Vault Hypothesis Dossier:** [[Sources/Archival_Search_Hypotheses/Target-1860-Microfilm-PANB-Anglican-WestIsles-JohnWarrenWhalen\|Target-1860-Microfilm-PANB-Anglican-WestIsles-JohnWarrenWhalen]]
 
 ```text
 Dear PANB Reference Archivist,

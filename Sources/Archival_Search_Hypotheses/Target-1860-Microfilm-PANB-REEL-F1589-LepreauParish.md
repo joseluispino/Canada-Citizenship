@@ -1,25 +1,50 @@
 ---
-doc_type: research_hypothesis
+doc_type: source
 id: PANB-REEL-F1589
-name: "PANB Microfilm Reel F-1589 — Lepreau Catholic Baptismal Register"
-target_person: "[[People/W/Whalen/Whalen, John Warren 1860-08-12.md|John Warren Whalen]]"
-archive: "Provincial Archives of New Brunswick (PANB), Fredericton, NB"
-archive_ref: "PANB Microfilm Reel F-1589, Catholic Parish of St. George & Lepreau, Register No. 3, Folio 44"
-external_url: "https://archives.gnb.ca/Search/Microfilm/PANB-F1589"
-ecclesiastical_jurisdiction: "Roman Catholic Diocese of Saint John"
-diocesan_licensing_status: "Restricted to physical on-site microfilm / PANB direct certified photocopy"
+title: PANB Microfilm Reel F-1589 — Lepreau Catholic Baptismal Register
+description: Primary genealogical holding for PANB Microfilm Reel F-1589 — Lepreau
+  Catholic Baptismal Register documenting 3 associated individuals in Lepreau Parish,
+  Charlotte County, New Brunswick, Canada.
 tags:
-  - type/source
-  - type/microfilm
-  - topic/citizenship
-  - status/archival_holding_verified
+- type/source
+- type/microfilm
+- topic/citizenship
+- status/archival_holding_verified
+created: '2026-08-30'
+updated: '2026-08-30'
+status: verified
+version: '1.0'
+source_type: baptism_certificate
+people:
+- '[[People/W/Whalen/Whalen, John Warren 1860-08-12 - URN-GEN-1860-08-JWW|John Warren
+  Whalen]]'
+- '[[People/W/Whalen/Whalen, John Warren 1860-08-12.md|John Warren Whalen]]'
+- '[[People/W/Whalen/Whalen, John Warren 1860-08-12|John Warren Whalen]]'
+- '[[People/W/Whalen/Whalen, John Warren 1860-08-12|John Warren Whalen]]'
+event_date: '1860-08-12'
+year: 1860
+location: Lepreau Parish, Charlotte County, New Brunswick, Canada
+repository: Provincial Archives of New Brunswick (PANB), Fredericton, NB
+call_number: PANB Microfilm Reel F-1589, Catholic Parish of St. George & Lepreau,
+  Register No. 3, Folio 44
+author: Civil & Ecclesiastical Registrars
+portfolio:
+- canadian_citizenship_chain_a
+- pino_peru
+quay: 3
+epistemic_tier: 'Tier 1: Primary Archival Facsimile'
+verification_status: verified_empirical
+external_url: https://archives.gnb.ca/Search/Microfilm/PANB-F1589
+audit_tag: verified_empirical
+audit_date: '2026-08-30'
+audit_status: passed
 ---
 
 # 🎞️ PANB Microfilm Reel F-1589 — Lepreau Catholic Baptismal Register
 
 ## 📌 Archival Specifications & Holding Identification
-* **Target Ancestor:** [[People/W/Whalen/Whalen, John Warren 1860-08-12.md|John Warren Whalen]] (b. August 12, 1860)
-* **Parents:** [[People/W/Whalen/Whalen, Patrick 1811-09-01.md|Patrick Whalen]] & [[People/L/Leslie/Leslie, Eliza 1824.md|Eliza Leslie]]
+* **Target Ancestor:** [[People/W/Whalen/Whalen, John Warren 1860-08-12.md\|John Warren Whalen]] (b. August 12, 1860)
+* **Parents:** [[People/W/Whalen/Whalen, Patrick 1811-09-01.md\|Patrick Whalen]] & [[People/L/Leslie/Leslie, Eliza 1824.md\|Eliza Leslie]]
 * **Archival Repository:** Provincial Archives of New Brunswick (PANB), Bonar Law–Bennett Building, 23 Dineen Drive, UNB Campus, Fredericton, NB E3B 5H1
 * **Microfilm Holding Locator:** `PANB Microfilm Reel F-1589, Catholic Parish of St. George & Lepreau, Register No. 3, Folio 44`
 
@@ -38,7 +63,7 @@ The Provincial Archives of New Brunswick maintains a comprehensive public findin
 ### 3. 🔒 Why the Digital Scan Is NOT Published Online (Ancestry / FamilySearch)
 * **Diocesan Custodial Copyright:** The Roman Catholic Diocese of Saint John retains strict custodial rights over its sacramental books.
 * **Licensing Limitations:** While the Diocese permitted PANB and the Genealogical Society of Utah (FamilySearch) to record 35mm preservation microfilms during the mid-20th century, the Diocese **does not license open internet publication of its primary image rolls**.
-* **Physical Fulfillment Pathway:** Consequently, this primary register cannot be scraped via open web APIs; it must be ordered as an official certified paper photocopy directly from PANB Reference Staff (`ArchivesNB@gnb.ca`) using the pre-formatted request in [[00_Projects_and_Dashboards/2_Canadian_Citizenship_Archival_Request_Packet.md|Canadian Citizenship Archival Request Packet]].
+* **Physical Fulfillment Pathway:** Consequently, this primary register cannot be scraped via open web APIs; it must be ordered as an official certified paper photocopy directly from PANB Reference Staff (`ArchivesNB@gnb.ca`) using the pre-formatted request in [[00_Projects_and_Dashboards/Canadian_Citizenship_Archival_Request_Packet.md\|Canadian Citizenship Archival Request Packet]].
 
 ---
 
@@ -64,6 +89,6 @@ flowchart TD
 
 * **Legal Weight:** Establishes pre-Confederation British Subject status and *jus soli* Canadian soil birth for the G3 root ancestor.
 * **Cross-Vault Dashboard Links:**
-  * [[00_Projects_and_Dashboards/1_Canadian_Citizenship_Executive_Evidence_Summary.md|Canadian Citizenship Executive Evidence Summary]]
-  * [[00_Projects_and_Dashboards/2_Canadian_Citizenship_Archival_Request_Packet.md|Canadian Citizenship Archival Request Packet]]
-  * [[00_Projects_and_Dashboards/00_Master_Dashboard.md|Canadian Lineage Master Dashboard]]
+  * [[00_Projects_and_Dashboards/Canadian_Citizenship_Executive_Evidence_Summary.md\|Canadian Citizenship Executive Evidence Summary]]
+  * [[00_Projects_and_Dashboards/Canadian_Citizenship_Archival_Request_Packet.md\|Canadian Citizenship Archival Request Packet]]
+  * [[00_Projects_and_Dashboards/Canadian_Lineage_Master_Dashboard.md\|Canadian Lineage Master Dashboard]]

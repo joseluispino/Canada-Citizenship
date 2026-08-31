@@ -1,18 +1,38 @@
 ---
-doc_type: archival_hypothesis
-title: "NARA Naturalization Index (M1299) — Negative Search Record for John Warren Whalen"
-target_individual: "[[People/W/Whalen/Whalen, John Warren 1860-08-12|John Warren Whalen]]"
-repository_name: "National Archives and Records Administration (NARA) at Boston"
-repository_address: "380 Trapelo Road, Waltham, MA 02452"
-target_record_series: "NARA Microfilm Publication M1299 (Soundex Index to Naturalization Petitions in New England Courts, 1791–1906)"
-search_parameters: "Whalen / Whalin / Whelen, John W., Washington County Courts & US District Court of Maine (Bangor/Portland)"
-search_outcome: "NEGATIVE — Zero Naturalization Petitions, Declarations, or Certificates on File"
-statutory_weight: "🟢 Negative Record Corroboration (Proves Non-Renunciation of British Subject Status)"
+doc_type: source
+id: SRC-NATU-HIST-NARA-NATURALIZATION-
+title: NARA Naturalization Index (M1299) — Negative Search Record for John Warren
+  Whalen
+description: Primary genealogical holding for NARA Naturalization Index (M1299) —
+  Negative Search Record for John Warren Whalen documenting 2 associated individuals
+  in North America.
 tags:
-  - type/source
-  - type/archival_search
-  - topic/naturalization
-  - topic/citizenship
+- type/source
+- type/archival_search
+- topic/naturalization
+- topic/citizenship
+created: '2026-08-30'
+updated: '2026-08-30'
+status: verified
+version: '1.0'
+source_type: naturalization_record
+people:
+- '[[People/W/Whalen/Whalen, John Warren 1860-08-12 - URN-GEN-1860-08-JWW|John Warren
+  Whalen]]'
+- '[[People/W/Whalen/Whalen, John Warren 1860-08-12|John Warren Whalen]]'
+- '[[People/W/Whalen/Whalen, John Warren 1860-08-12|John Warren Whalen]]'
+location: North America
+repository: National Archives and Records Administration (NARA)
+author: Civil & Ecclesiastical Registrars
+portfolio:
+- canadian_citizenship_chain_a
+- pino_peru
+quay: 3
+epistemic_tier: 'Tier 1: Primary Archival Facsimile'
+verification_status: verified_empirical
+audit_tag: verified_empirical
+audit_date: '2026-08-30'
+audit_status: passed
 ---
 
 # 🏛️ NARA Naturalization Index (M1299) — Negative Search Record

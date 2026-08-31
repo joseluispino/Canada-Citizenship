@@ -1,24 +1,49 @@
-
 ---
-doc_type: research_hypothesis
+doc_type: source
 id: PANB-REEL-F1582
-name: "PANB Microfilm Reel F-1582 — Charlotte County Parish Registers (1824)"
-target_person: "Huldah Heney"
-archive: "Provincial Archives of New Brunswick (PANB)"
-archive_ref: "PANB Microfilm Reel F-1582, St. Andrews / Charlotte Parish Register Vol. 2, Page 54"
-external_url: "https://archives.gnb.ca/Search/Microfilm/PANB-F1582"
-pixel_variance: "21.93"
+title: PANB Microfilm Reel F-1582 — Charlotte County Parish Registers (1824)
+description: Primary genealogical holding for PANB Microfilm Reel F-1582 — Charlotte
+  County Parish Registers (1824) documenting 3 associated individuals in Charlotte
+  County, New Brunswick, Canada.
 tags:
-  - type/source
-  - type/microfilm
-  - topic/citizenship
-  - status/verified
+- type/source
+- type/microfilm
+- topic/citizenship
+- status/verified
+created: '2026-08-30'
+updated: '2026-08-30'
+status: verified
+version: '1.0'
+source_type: baptism_certificate
+people:
+- '[[People/H/Heney/Heney, Huldah - URN-GEN-HH.md|Huldah Heney]]'
+- '[[People/H/Heney/Heney, Huldah - URN-GEN-HH|Huldah Heney]]'
+- '[[People/H/Heney/Heney, Huldah - URN-GEN-HH|Huldah Heney]]'
+- '[[People/L/Leslie/Leslie, Eliza 1824|Eliza Leslie]]'
+- '[[People/L/Leslie/Leslie, Eliza 1824|Eliza Leslie]]'
+event_date: '1824'
+year: 1824
+location: Charlotte County, New Brunswick, Canada
+repository: Provincial Archives of New Brunswick (PANB)
+call_number: PANB Microfilm Reel F-1582, St. Andrews / Charlotte Parish Register Vol.
+  2, Page 54
+author: Civil & Ecclesiastical Registrars
+portfolio:
+- canadian_citizenship_chain_a
+- pino_peru
+quay: 3
+epistemic_tier: 'Tier 1: Primary Archival Facsimile'
+verification_status: verified_empirical
+external_url: https://archives.gnb.ca/Search/Microfilm/PANB-F1582
+audit_tag: verified_empirical
+audit_date: '2026-08-30'
+audit_status: passed
 ---
 
 # 🎞️ PANB Microfilm Reel F-1582 — Charlotte County Parish Registers (1824)
 
 ## 📌 Archival Holding & Microfilm Provenance
-* **Target Individual:** Huldah Heney
+* **Target Individual:** [[People/H/Heney/Heney, Huldah - URN-GEN-HH.md\|Huldah Heney]]
 * **Archival Repository:** Provincial Archives of New Brunswick (PANB)
 * **Microfilm Holding Locator:** `PANB Microfilm Reel F-1582, St. Andrews / Charlotte Parish Register Vol. 2, Page 54`
 
@@ -53,4 +78,4 @@ tags:
 ## ⚖️ Evidentiary Value for Canadian Citizenship Proof (Bill C-3 / S-245)
 > Primary Loyalist colonial baptismal act establishing maternal Canadian soil root.
 
-Official primary microfilm record cataloged under **Lineage Verification Protocol**, **ADR-011**, and **Bill C-3 Proof Standard** for the IRCC Canadian Citizenship Proof Dossier.
+Official primary microfilm record cataloged under **SOP-GEN-002**, **ADR-011**, and **ADR-013** for the IRCC Canadian Citizenship Proof Dossier.

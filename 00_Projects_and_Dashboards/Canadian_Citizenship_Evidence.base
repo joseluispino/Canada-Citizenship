@@ -1,0 +1,57 @@
+filters:
+  and:
+    - doc_type == "source"
+    - portfolio contains "canadian_citizenship_chain_a"
+properties:
+  exhibit_code:
+    displayName: Exhibit
+  ircc_pillar:
+    displayName: Evidentiary Pillar
+  year:
+    displayName: Year
+  source_type:
+    displayName: Document Type
+  file.name:
+    displayName: Certified Archival Dossier
+  people:
+    displayName: Verified Ancestors
+  repository:
+    displayName: Custodial Archive
+  location:
+    displayName: Sovereign Jurisdiction
+  quay:
+    displayName: Certainty (QUAY)
+  acquisition_status:
+    displayName: Certified Physical Status
+views:
+  - type: table
+    name: 🍁 7-Pillar IRCC Evidence Matrix (Sorted by Exhibit)
+    order:
+      - exhibit_code
+      - year
+      - file.name
+      - repository
+  - type: table
+    name: 🏛️ Certified Vital Certificates & Microfilms (Pillars 1 & 2)
+    filters:
+      and:
+        - quay == 3
+    order:
+      - year
+      - file.name
+      - repository
+  - type: table
+    name: 📊 Longitudinal Census Triangulation (Pillar 3)
+    filters:
+      and:
+        - source_type == "census"
+    order:
+      - year
+      - file.name
+  - type: table
+    name: 📋 All Canadian Lineage Holdings
+    order:
+      - year
+      - source_type
+      - file.name
+      - people

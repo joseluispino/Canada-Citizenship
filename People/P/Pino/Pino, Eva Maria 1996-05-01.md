@@ -1,28 +1,28 @@
 ---
 doc_type: person
 tags:
-  - topic/community/family
-  - affiliation/citizenship_chain_a
+- topic/community/family
+- affiliation/citizenship_chain_a
 id: URN-TEST-1996-05-EMP
 name: Eva Maria Pino
 birth_date: 1996-05-01
 birth_place: Berkeley, Alameda County, California, USA
 locations_lived:
-  - Berkeley, Alameda County, California, USA
-  - Westlake Village, California, USA
+- Berkeley, Alameda County, California, USA
+- Westlake Village, California, USA
 parents:
-  - "[[Phillips, Lisa Michelle 1967-10-12|Lisa Michelle Phillips]]"
-  - "[[Pino, Jose Luis 1968-06-18|Jose Luis Pino]]"
+- '[[Phillips, Lisa Michelle 1967-10-12|Lisa Michelle Phillips]]'
+- '[[Pino, Jose Luis 1968-06-18|Jose Luis Pino]]'
 siblings:
-  - "[[Pino, Ana Maria 1990-09-05|Ana Maria Pino]]"
-  - "[[Pino, Elena Maria 1992-03-09|Elena Maria Pino]]"
-  - "[[Pino, Maria Isabel 1994-10-27|Maria Isabel Pino]]"
-  - "[[Pino, Alister Jude 1998-05-07|Alister Jude Pino]]"
+- '[[Pino, Ana Maria 1990-09-05|Ana Maria Pino]]'
+- '[[Pino, Elena Maria 1992-03-09|Elena Maria Pino]]'
+- '[[Pino, Maria Isabel 1994-10-27|Maria Isabel Pino]]'
+- '[[Pino, Alister Jude 1998-05-07|Alister Jude Pino]]'
 spouse: []
 children: []
 citizenship_status: us_citizen_canadian_descent_applicant
 citizenship_project_lineage:
-  - Chain A
+- Chain A
 citizenship_generation: G_Minus_1
 citizenship_proof_status: complete
 document_status: complete
@@ -31,30 +31,31 @@ proven_tier: primary_vital_records
 data_origin: certified_vital_records
 sex: F
 sources:
-  - "[[Pino Phillips, Eva Maria.pdf]]"
-  - "[[EvaMariaPino.cit0001e.4.12.2026.pdf]]"
-  - "[[imm5476e-Eva.Maria.Pino.pdf]]"
-  - "[[EvaMariaPino.cit0001e.4.13.2026.pdf]]"
-  - "[[Eva birth certificate.pdf]]"
-  - "[[Eva - Hoja declaratoria inscripcion nacimiento NY consulate.pdf]]"
-  - "[[apostille Eva birth certificate.pdf]]"
-  - "[[Eva - Anexo 1 Signed.pdf]]"
-  - "[[PETICION DE CITA LEY DE MEMORIA DEMOCRATICA NYC.pdf]]"
-  - "[[Eva Datos.pdf]]"
-  - "[[Eva 5.5 Microsoft Word - Hoja datos nacimiento para imprimir.doc.pdf]]"
-  - "[[Passport and license- Eva.pdf]]"
-  - "[[Signed - Consultate Letter.pdf]]"
-  - "[[Anexo 5- Eva.pdf]]"
-  - "[[Authorization-registro-civil for Eva Maria Pino.pdf]]"
+- '[[Pino Phillips, Eva Maria.pdf]]'
+- '[[EvaMariaPino.cit0001e.4.12.2026.pdf]]'
+- '[[imm5476e-Eva.Maria.Pino.pdf]]'
+- '[[EvaMariaPino.cit0001e.4.13.2026.pdf]]'
+- '[[Eva birth certificate.pdf]]'
+- '[[Eva - Hoja declaratoria inscripcion nacimiento NY consulate.pdf]]'
+- '[[apostille Eva birth certificate.pdf]]'
+- '[[Eva - Anexo 1 Signed.pdf]]'
+- '[[PETICION DE CITA LEY DE MEMORIA DEMOCRATICA NYC.pdf]]'
+- '[[Eva Datos.pdf]]'
+- '[[Eva 5.5 Microsoft Word - Hoja datos nacimiento para imprimir.doc.pdf]]'
+- '[[Passport and license- Eva.pdf]]'
+- '[[Signed - Consultate Letter.pdf]]'
+- '[[Anexo 5- Eva.pdf]]'
+- '[[Authorization-registro-civil for Eva Maria Pino.pdf]]'
 audit_tag: verified_empirical
 audit_date: 2026-08-30
 audit_status: passed
 ---
 
+
 # 👤 Eva Maria Pino (1996–Present)
 
 ## 📌 Executive Summary
-**Eva Maria Pino** (born May 1, 1996) is the fourth daughter of Lead Applicant [[Phillips, Lisa Michelle 1967-10-12|Lisa Michelle Phillips]] and [[Pino, Jose Luis 1968-06-18|Jose Luis Pino]] (Generation G-1 in Chain A). Born at Alta Bates Medical Center in Berkeley, Alameda County, California. Under Bill C-3 / S-245, Eva Maria is 100% exempt from the substantial connection test (born prior to Dec 15, 2025) and entitled to a Canadian citizenship certificate by descent.
+**Eva Maria Pino** (born May 1, 1996) is the fourth daughter of Lead Applicant [[Phillips, Lisa Michelle 1967-10-12\|Lisa Michelle Phillips]] and [[Pino, Jose Luis 1968-06-18\|Jose Luis Pino]] (Generation G-1 in Chain A). Born at Alta Bates Medical Center in Berkeley, Alameda County, California. Under Bill C-3 / S-245, Eva Maria is 100% exempt from the substantial connection test (born prior to Dec 15, 2025) and entitled to a Canadian citizenship certificate by descent.
 
 ## 🌳 Family Tree & Dynamic Lineage Graph
 
@@ -69,4 +70,23 @@ direction: TD
 * **Birth:** 1996-05-01 at Alta Bates Medical Center, 2450 Ashby Avenue, Berkeley, Alameda County, California (*State of California Certificate of Live Birth*, State File No. 1 051996 150259, Local Reg. 1-96-61 001443, naming father Jose Luis Pino and mother Lisa Michelle Phillips).
 
 ## 📄 Source Documents & Archival Evidence
-* **Primary Birth Certificate:** [[Pino Phillips, Eva Maria.pdf]] (State of California Certificate of Live Birth).
+
+```base
+filters:
+  and:
+    - doc_type == "source"
+    - file.hasLink("Pino, Eva Maria 1996-05-01.md")
+views:
+  - type: table
+    name: Corroborating Evidence
+    order:
+      - year
+      - source_type
+      - file.name
+      - repository
+```
+
+### 📋 Primary Archival Holdings
+The following verified primary source documents substantiate the vital statistics, family relationships, and legal status in this profile:
+* **Evidence Search:** Primary archival records indexed via master `Evidence_Inventory.base`.
+
