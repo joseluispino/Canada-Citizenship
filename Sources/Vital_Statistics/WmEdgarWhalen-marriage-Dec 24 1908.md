@@ -9,7 +9,7 @@ tags:
 - topic/marriage_certificate
 - provenance/primary_facsimile
 created: '2026-08-30'
-updated: '2026-08-30'
+updated: '2026-08-31'
 status: verified
 version: '1.0'
 source_type: marriage_certificate
@@ -25,12 +25,12 @@ portfolio:
 quay: 3
 epistemic_tier: 'Tier 1: Primary Archival Facsimile'
 verification_status: verified_empirical
-media_file: '[[Sources/Vital_Statistics/WmEdgarWhalen-marriage-Dec 24 1908.jpg]]'
-master_asset: '[[Sources/Vital_Statistics/WmEdgarWhalen-marriage-Dec 24 1908.jpg]]'
-display_asset: '[[Sources/Vital_Statistics/WmEdgarWhalen-marriage-Dec 24 1908.jpg]]'
+media_file: '[[WmEdgarWhalen-marriage-Dec 24 1908.jpg]]'
+master_asset: '[[WmEdgarWhalen-marriage-Dec 24 1908.jpg]]'
+display_asset: '[[WmEdgarWhalen-marriage-Dec 24 1908.jpg]]'
 sha256: 0b6d9bc9d6a5525c06680d48a759993c6d4586c8a535b0078061c216e8e9c82a
 audit_tag: verified_empirical
-audit_date: '2026-08-30'
+audit_date: '2026-08-31'
 audit_status: passed
 ---
 
@@ -40,10 +40,10 @@ audit_status: passed
 ---
 
 ## 🏛️ Archival Asset Lineage & Multi-Format Facsimiles
-![[[Sources/Vital_Statistics/WmEdgarWhalen-marriage-Dec 24 1908.jpg]]|850]
+![[WmEdgarWhalen-marriage-Dec 24 1908.jpg|850]]
 
 * **Physical Asset Holdings:**
-  * 🗄️ **Master Scan (Pristine Bitstream):** [[Sources/Vital_Statistics/WmEdgarWhalen-marriage-Dec 24 1908.jpg]]
+  * 🗄️ **Master Scan (Pristine Bitstream):** [[WmEdgarWhalen-marriage-Dec 24 1908.jpg]]
 
 ---
 

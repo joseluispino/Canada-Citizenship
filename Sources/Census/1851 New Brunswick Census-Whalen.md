@@ -9,7 +9,7 @@ tags:
 - topic/census
 - provenance/primary_facsimile
 created: '2026-08-30'
-updated: '2026-08-30'
+updated: '2026-08-31'
 status: verified
 version: '1.0'
 source_type: census
@@ -25,12 +25,12 @@ portfolio:
 quay: 3
 epistemic_tier: 'Tier 1: Primary Archival Facsimile'
 verification_status: verified_empirical
-media_file: '[[Sources/Census/1851 New Brunswick Census-Whalen.jpg]]'
-master_asset: '[[Sources/Census/1851 New Brunswick Census-Whalen.jpg]]'
-display_asset: '[[Sources/Census/1851 New Brunswick Census-Whalen.jpg]]'
+media_file: '[[1851 New Brunswick Census-Whalen.jpg]]'
+master_asset: '[[1851 New Brunswick Census-Whalen.jpg]]'
+display_asset: '[[1851 New Brunswick Census-Whalen.jpg]]'
 sha256: 68c28bd266c1c43084735a7462b5a19a539659762ef3d40f150ab237c60220fe
 audit_tag: verified_empirical
-audit_date: '2026-08-30'
+audit_date: '2026-08-31'
 audit_status: passed
 ---
 
@@ -40,10 +40,10 @@ audit_status: passed
 ---
 
 ## 🏛️ Archival Asset Lineage & Multi-Format Facsimiles
-![[[Sources/Census/1851 New Brunswick Census-Whalen.jpg]]|850]
+![[1851 New Brunswick Census-Whalen.jpg|850]]
 
 * **Physical Asset Holdings:**
-  * 🗄️ **Master Scan (Pristine Bitstream):** [[Sources/Census/1851 New Brunswick Census-Whalen.jpg]]
+  * 🗄️ **Master Scan (Pristine Bitstream):** [[1851 New Brunswick Census-Whalen.jpg]]
 
 ---
 

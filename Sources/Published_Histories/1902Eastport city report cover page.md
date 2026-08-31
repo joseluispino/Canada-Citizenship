@@ -9,7 +9,7 @@ tags:
 - topic/source_record
 - provenance/primary_facsimile
 created: '2026-08-30'
-updated: '2026-08-30'
+updated: '2026-08-31'
 status: verified
 version: '1.0'
 source_type: source_record
@@ -23,12 +23,12 @@ portfolio:
 quay: 3
 epistemic_tier: 'Tier 1: Primary Archival Facsimile'
 verification_status: verified_empirical
-media_file: '[[Sources/Published_Histories/1902Eastport city report cover page.png]]'
-master_asset: '[[Sources/Published_Histories/1902Eastport city report cover page.png]]'
-display_asset: '[[Sources/Published_Histories/1902Eastport city report cover page.png]]'
+media_file: '[[1902Eastport city report cover page.png]]'
+master_asset: '[[1902Eastport city report cover page.png]]'
+display_asset: '[[1902Eastport city report cover page.png]]'
 sha256: ffe64b554f37b5a6774a61becfc53648a9f394c74d5f3b86f260b4aced595cc9
 audit_tag: verified_empirical
-audit_date: '2026-08-30'
+audit_date: '2026-08-31'
 audit_status: passed
 ---
 
@@ -38,10 +38,10 @@ audit_status: passed
 ---
 
 ## 🏛️ Archival Asset Lineage & Multi-Format Facsimiles
-![[[Sources/Published_Histories/1902Eastport city report cover page.png]]|850]
+![[1902Eastport city report cover page.png|850]]
 
 * **Physical Asset Holdings:**
-  * 🗄️ **Master Scan (Pristine Bitstream):** [[Sources/Published_Histories/1902Eastport city report cover page.png]]
+  * 🗄️ **Master Scan (Pristine Bitstream):** [[1902Eastport city report cover page.png]]
 
 ---
 

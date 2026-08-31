@@ -9,12 +9,12 @@ tags:
 - topic/death_certificate
 - provenance/primary_facsimile
 created: '2026-08-30'
-updated: '2026-08-30'
+updated: '2026-08-31'
 status: verified
 version: '1.0'
 source_type: death_certificate
 people:
-- '[[People/D/Dudley/Attie J. Dudley - URN-GEN-GED-I342588971788|Attie J. Dudley]]'
+- '[[Attie J. Dudley - URN-GEN-GED-I342588971788|Attie J. Dudley]]'
 location: North America
 repository: National Archives & Archival Registries
 author: Civil & Ecclesiastical Registrars
@@ -24,12 +24,12 @@ portfolio:
 quay: 3
 epistemic_tier: 'Tier 1: Primary Archival Facsimile'
 verification_status: verified_empirical
-media_file: '[[Sources/Vital_Statistics/1933Death-Whalen-MattieDudley.png]]'
-master_asset: '[[Sources/Vital_Statistics/1933Death-Whalen-MattieDudley.png]]'
-display_asset: '[[Sources/Vital_Statistics/1933Death-Whalen-MattieDudley.png]]'
+media_file: '[[1933Death-Whalen-MattieDudley.png]]'
+master_asset: '[[1933Death-Whalen-MattieDudley.png]]'
+display_asset: '[[1933Death-Whalen-MattieDudley.png]]'
 sha256: b0f560a25c0293e0a8d2abec1eb1fd39fdf8604f10e5d69493e76d77e7bb11ec
 audit_tag: verified_empirical
-audit_date: '2026-08-30'
+audit_date: '2026-08-31'
 audit_status: passed
 ---
 
@@ -39,10 +39,10 @@ audit_status: passed
 ---
 
 ## 🏛️ Archival Asset Lineage & Multi-Format Facsimiles
-![[[Sources/Vital_Statistics/1933Death-Whalen-MattieDudley.png]]|850]
+![[1933Death-Whalen-MattieDudley.png|850]]
 
 * **Physical Asset Holdings:**
-  * 🗄️ **Master Scan (Pristine Bitstream):** [[Sources/Vital_Statistics/1933Death-Whalen-MattieDudley.png]]
+  * 🗄️ **Master Scan (Pristine Bitstream):** [[1933Death-Whalen-MattieDudley.png]]
 
 ---
 
@@ -50,7 +50,7 @@ audit_status: passed
 
 | Field / Item | Document Record Value | Corroborated Vault Profile | Evidentiary Significance |
 | :--- | :--- | :--- | :--- |
-| **Documented Person** | `Attie J. Dudley` | [[People/D/Dudley/Attie J. Dudley - URN-GEN-GED-I342588971788\|Attie J. Dudley]] | Verified primary subject/kinship anchor. |
+| **Documented Person** | `Attie J. Dudley` | [[Attie J. Dudley - URN-GEN-GED-I342588971788\|Attie J. Dudley]] | Verified primary subject/kinship anchor. |
 | **Jurisdiction** | `North America` | — | Establishes physical and sovereign territorial locus. |
 | **Custodial Archive** | `National Archives & Archival Registries` | — | Certified archival custody chain. |
 
@@ -58,7 +58,7 @@ audit_status: passed
 
 ## 👥 Corroborated Entities & Kinship Network
 The following individuals are formally documented and substantiated within this record:
-* **Verified Profile:** [[People/D/Dudley/Attie J. Dudley - URN-GEN-GED-I342588971788\|Attie J. Dudley]]
+* **Verified Profile:** [[Attie J. Dudley - URN-GEN-GED-I342588971788|Attie J. Dudley]]
 
 ---
 

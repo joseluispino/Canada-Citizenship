@@ -9,19 +9,14 @@ tags:
 - topic/source_record
 - provenance/primary_facsimile
 created: '2026-08-30'
-updated: '2026-08-30'
+updated: '2026-08-31'
 status: verified
 version: '1.0'
 source_type: source_record
 people:
-- '[[People/D/Dunklee/Dunklee, Alice Evelyn 1906 - URN-GEN-1906-AED|Alice Evelyn
-  Dunklee]]'
-- '[[People/D/Dunklee/Dunklee, Alice Evelyn 1906 - URN-GEN-1906-AED|Alice Evelyn Dunklee]]'
-- '[[People/H/Hale/Alice Hale - URN-GEN-GED-I342567171607|Alice Hale]]'
-- '[[People/W/Whalen/Whalen, Hollis Vernon 1898-12-14 - URN-GEN-1898-12-HVW|Hollis
-  Vernon Whalen]]'
-- '[[People/W/Whalen/Whalen, Hollis Vernon 1898-12-14|Hollis Vernon Whalen]]'
-- '[[People/W/Whalen/Whalen, Hollis Vernon 1898-12-14|Hollis Vernon Whalen]]'
+- '[[Alice Hale - URN-GEN-GED-I342567171607|Alice Hale]]'
+- '[[Dunklee, Alice Evelyn 1906 - URN-GEN-1906-AED|Alice Evelyn Dunklee]]'
+- '[[Whalen, Hollis Vernon 1898-12-14|Hollis Vernon Whalen]]'
 location: North America
 repository: National Archives & Archival Registries
 author: Civil & Ecclesiastical Registrars
@@ -31,12 +26,12 @@ portfolio:
 quay: 3
 epistemic_tier: 'Tier 1: Primary Archival Facsimile'
 verification_status: verified_empirical
-media_file: '[[Sources/Vital_Statistics/Whalen tombstone Hollis Alice.jpg]]'
-master_asset: '[[Sources/Vital_Statistics/Whalen tombstone Hollis Alice.jpg]]'
-display_asset: '[[Sources/Vital_Statistics/Whalen tombstone Hollis Alice.jpg]]'
+media_file: '[[Whalen tombstone Hollis Alice.jpg]]'
+master_asset: '[[Whalen tombstone Hollis Alice.jpg]]'
+display_asset: '[[Whalen tombstone Hollis Alice.jpg]]'
 sha256: be1b44c4e386309572ba6635a68c6d4e04df3053e7839b277aa807d20319e98d
 audit_tag: verified_empirical
-audit_date: '2026-08-30'
+audit_date: '2026-08-31'
 audit_status: passed
 ---
 
@@ -46,10 +41,10 @@ audit_status: passed
 ---
 
 ## 🏛️ Archival Asset Lineage & Multi-Format Facsimiles
-![[[Sources/Vital_Statistics/Whalen tombstone Hollis Alice.jpg]]|850]
+![[Whalen tombstone Hollis Alice.jpg|850]]
 
 * **Physical Asset Holdings:**
-  * 🗄️ **Master Scan (Pristine Bitstream):** [[Sources/Vital_Statistics/Whalen tombstone Hollis Alice.jpg]]
+  * 🗄️ **Master Scan (Pristine Bitstream):** [[Whalen tombstone Hollis Alice.jpg]]
 
 ---
 
@@ -57,10 +52,9 @@ audit_status: passed
 
 | Field / Item | Document Record Value | Corroborated Vault Profile | Evidentiary Significance |
 | :--- | :--- | :--- | :--- |
-| **Documented Person** | `Alice Evelyn Dunklee` | [[People/D/Dunklee/Dunklee, Alice Evelyn 1906 - URN-GEN-1906-AED\|Alice Evelyn Dunklee]] | Verified primary subject/kinship anchor. |
-| **Documented Person** | `Alice Hale` | [[People/H/Hale/Alice Hale - URN-GEN-GED-I342567171607\|Alice Hale]] | Verified primary subject/kinship anchor. |
-| **Documented Person** | `Hollis Vernon Whalen` | [[People/W/Whalen/Whalen, Hollis Vernon 1898-12-14 - URN-GEN-1898-12-HVW\|Hollis Vernon Whalen]] | Verified primary subject/kinship anchor. |
-| **Documented Person** | `Hollis Vernon Whalen` | [[People/W/Whalen/Whalen, Hollis Vernon 1898-12-14\|Hollis Vernon Whalen]] | Verified primary subject/kinship anchor. |
+| **Documented Person** | `Alice Hale` | [[Alice Hale - URN-GEN-GED-I342567171607\|Alice Hale]] | Verified primary subject/kinship anchor. |
+| **Documented Person** | `Alice Evelyn Dunklee` | [[Dunklee, Alice Evelyn 1906 - URN-GEN-1906-AED\|Alice Evelyn Dunklee]] | Verified primary subject/kinship anchor. |
+| **Documented Person** | `Hollis Vernon Whalen` | [[Whalen, Hollis Vernon 1898-12-14\|Hollis Vernon Whalen]] | Verified primary subject/kinship anchor. |
 | **Jurisdiction** | `North America` | — | Establishes physical and sovereign territorial locus. |
 | **Custodial Archive** | `National Archives & Archival Registries` | — | Certified archival custody chain. |
 
@@ -68,10 +62,9 @@ audit_status: passed
 
 ## 👥 Corroborated Entities & Kinship Network
 The following individuals are formally documented and substantiated within this record:
-* **Verified Profile:** [[People/D/Dunklee/Dunklee, Alice Evelyn 1906 - URN-GEN-1906-AED\|Alice Evelyn Dunklee]]
-* **Verified Profile:** [[People/H/Hale/Alice Hale - URN-GEN-GED-I342567171607\|Alice Hale]]
-* **Verified Profile:** [[People/W/Whalen/Whalen, Hollis Vernon 1898-12-14 - URN-GEN-1898-12-HVW\|Hollis Vernon Whalen]]
-* **Verified Profile:** [[People/W/Whalen/Whalen, Hollis Vernon 1898-12-14\|Hollis Vernon Whalen]]
+* **Verified Profile:** [[Alice Hale - URN-GEN-GED-I342567171607|Alice Hale]]
+* **Verified Profile:** [[Dunklee, Alice Evelyn 1906 - URN-GEN-1906-AED|Alice Evelyn Dunklee]]
+* **Verified Profile:** [[Whalen, Hollis Vernon 1898-12-14|Hollis Vernon Whalen]]
 
 ---
 

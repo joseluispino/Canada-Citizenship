@@ -9,7 +9,7 @@ tags:
 - topic/census
 - provenance/primary_facsimile
 created: '2026-08-30'
-updated: '2026-08-30'
+updated: '2026-08-31'
 status: verified
 version: '1.0'
 source_type: census
@@ -25,12 +25,12 @@ portfolio:
 quay: 3
 epistemic_tier: 'Tier 1: Primary Archival Facsimile'
 verification_status: verified_empirical
-media_file: '[[Sources/Census/New Brunswick 1851 Census.png]]'
-master_asset: '[[Sources/Census/New Brunswick 1851 Census.png]]'
-display_asset: '[[Sources/Census/New Brunswick 1851 Census.png]]'
+media_file: '[[New Brunswick 1851 Census.png]]'
+master_asset: '[[New Brunswick 1851 Census.png]]'
+display_asset: '[[New Brunswick 1851 Census.png]]'
 sha256: 07d074e39428b8f1a807442b95e2c55f54d3d72ce48f0a6d8f3c28f9abd82d03
 audit_tag: verified_empirical
-audit_date: '2026-08-30'
+audit_date: '2026-08-31'
 audit_status: passed
 ---
 
@@ -40,10 +40,10 @@ audit_status: passed
 ---
 
 ## 🏛️ Archival Asset Lineage & Multi-Format Facsimiles
-![[[Sources/Census/New Brunswick 1851 Census.png]]|850]
+![[New Brunswick 1851 Census.png|850]]
 
 * **Physical Asset Holdings:**
-  * 🗄️ **Master Scan (Pristine Bitstream):** [[Sources/Census/New Brunswick 1851 Census.png]]
+  * 🗄️ **Master Scan (Pristine Bitstream):** [[New Brunswick 1851 Census.png]]
 
 ---
 

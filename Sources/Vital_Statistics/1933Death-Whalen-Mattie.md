@@ -3,19 +3,17 @@ doc_type: source
 id: SRC-DEAT-HIST-1933DEATH-WHALEN-MAT
 title: 1933Death Whalen Mattie
 description: Primary genealogical holding for 1933Death Whalen Mattie documenting
-  1 associated individuals in North America.
+  0 associated individuals in North America.
 tags:
 - topic/genealogy
 - topic/death_certificate
 - provenance/primary_facsimile
 created: '2026-08-30'
-updated: '2026-08-30'
+updated: '2026-08-31'
 status: verified
 version: '1.0'
 source_type: death_certificate
-people:
-- '[[People/V/Varney/Varney, Martha - URN-GEN-MV|Martha Varney]]'
-- '[[People/V/Varney/Varney, Martha - URN-GEN-MV|Martha Varney]]'
+people: []
 location: North America
 repository: National Archives & Archival Registries
 author: Civil & Ecclesiastical Registrars
@@ -25,12 +23,12 @@ portfolio:
 quay: 3
 epistemic_tier: 'Tier 1: Primary Archival Facsimile'
 verification_status: verified_empirical
-media_file: '[[Sources/Vital_Statistics/1933Death-Whalen-Mattie.png]]'
-master_asset: '[[Sources/Vital_Statistics/1933Death-Whalen-Mattie.png]]'
-display_asset: '[[Sources/Vital_Statistics/1933Death-Whalen-Mattie.png]]'
+media_file: '[[1933Death-Whalen-Mattie.png]]'
+master_asset: '[[1933Death-Whalen-Mattie.png]]'
+display_asset: '[[1933Death-Whalen-Mattie.png]]'
 sha256: ccf701d26daddd9757e05925c06b0d93d43cbe2f30f2b294912b1d740f380363
 audit_tag: verified_empirical
-audit_date: '2026-08-30'
+audit_date: '2026-08-31'
 audit_status: passed
 ---
 
@@ -40,10 +38,10 @@ audit_status: passed
 ---
 
 ## 🏛️ Archival Asset Lineage & Multi-Format Facsimiles
-![[[Sources/Vital_Statistics/1933Death-Whalen-Mattie.png]]|850]
+![[1933Death-Whalen-Mattie.png|850]]
 
 * **Physical Asset Holdings:**
-  * 🗄️ **Master Scan (Pristine Bitstream):** [[Sources/Vital_Statistics/1933Death-Whalen-Mattie.png]]
+  * 🗄️ **Master Scan (Pristine Bitstream):** [[1933Death-Whalen-Mattie.png]]
 
 ---
 
@@ -51,7 +49,6 @@ audit_status: passed
 
 | Field / Item | Document Record Value | Corroborated Vault Profile | Evidentiary Significance |
 | :--- | :--- | :--- | :--- |
-| **Documented Person** | `Martha Varney` | [[People/V/Varney/Varney, Martha - URN-GEN-MV\|Martha Varney]] | Verified primary subject/kinship anchor. |
 | **Jurisdiction** | `North America` | — | Establishes physical and sovereign territorial locus. |
 | **Custodial Archive** | `National Archives & Archival Registries` | — | Certified archival custody chain. |
 
@@ -59,7 +56,6 @@ audit_status: passed
 
 ## 👥 Corroborated Entities & Kinship Network
 The following individuals are formally documented and substantiated within this record:
-* **Verified Profile:** [[People/V/Varney/Varney, Martha - URN-GEN-MV\|Martha Varney]]
 
 ---
 

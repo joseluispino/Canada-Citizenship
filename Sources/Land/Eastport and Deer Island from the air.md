@@ -9,7 +9,7 @@ tags:
 - topic/land_deed
 - provenance/primary_facsimile
 created: '2026-08-30'
-updated: '2026-08-30'
+updated: '2026-08-31'
 status: verified
 version: '1.0'
 source_type: land_deed
@@ -23,12 +23,12 @@ portfolio:
 quay: 3
 epistemic_tier: 'Tier 1: Primary Archival Facsimile'
 verification_status: verified_empirical
-media_file: '[[Sources/Land/Eastport and Deer Island from the air.png]]'
-master_asset: '[[Sources/Land/Eastport and Deer Island from the air.png]]'
-display_asset: '[[Sources/Land/Eastport and Deer Island from the air.png]]'
+media_file: '[[Eastport and Deer Island from the air.png]]'
+master_asset: '[[Eastport and Deer Island from the air.png]]'
+display_asset: '[[Eastport and Deer Island from the air.png]]'
 sha256: f4a58eab19cbce38ef51848eca03ecd78b4f528dc2920ae0dc34cd45eca0d6e8
 audit_tag: verified_empirical
-audit_date: '2026-08-30'
+audit_date: '2026-08-31'
 audit_status: passed
 ---
 
@@ -38,10 +38,10 @@ audit_status: passed
 ---
 
 ## 🏛️ Archival Asset Lineage & Multi-Format Facsimiles
-![[[Sources/Land/Eastport and Deer Island from the air.png]]|850]
+![[Eastport and Deer Island from the air.png|850]]
 
 * **Physical Asset Holdings:**
-  * 🗄️ **Master Scan (Pristine Bitstream):** [[Sources/Land/Eastport and Deer Island from the air.png]]
+  * 🗄️ **Master Scan (Pristine Bitstream):** [[Eastport and Deer Island from the air.png]]
 
 ---
 

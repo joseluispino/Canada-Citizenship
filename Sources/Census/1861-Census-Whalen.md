@@ -9,7 +9,7 @@ tags:
 - topic/census
 - provenance/primary_facsimile
 created: '2026-08-30'
-updated: '2026-08-30'
+updated: '2026-08-31'
 status: verified
 version: '1.0'
 source_type: census
@@ -25,12 +25,12 @@ portfolio:
 quay: 3
 epistemic_tier: 'Tier 1: Primary Archival Facsimile'
 verification_status: verified_empirical
-media_file: '[[Sources/Census/1861-Census-Whalen-Enhanced-Contrast.jpg]]'
-master_asset: '[[Sources/Census/1861-Census-Whalen-Enhanced-Contrast.jpg]]'
-display_asset: '[[Sources/Census/1861-Census-Whalen-Enhanced-Contrast.jpg]]'
+media_file: '[[1861-Census-Whalen-Enhanced-Contrast.jpg]]'
+master_asset: '[[1861-Census-Whalen-Enhanced-Contrast.jpg]]'
+display_asset: '[[1861-Census-Whalen-Enhanced-Contrast.jpg]]'
 sha256: 9cbdb98a44e1e7a8dfdd8fb2e6de5d123b39164bcc1a11d54e6bdf06c57c8c51
 audit_tag: verified_empirical
-audit_date: '2026-08-30'
+audit_date: '2026-08-31'
 audit_status: passed
 ---
 
@@ -40,10 +40,10 @@ audit_status: passed
 ---
 
 ## 🏛️ Archival Asset Lineage & Multi-Format Facsimiles
-![[[Sources/Census/1861-Census-Whalen-Enhanced-Contrast.jpg]]|850]
+![[1861-Census-Whalen-Enhanced-Contrast.jpg|850]]
 
 * **Physical Asset Holdings:**
-  * 🗄️ **Master Scan (Pristine Bitstream):** [[Sources/Census/1861-Census-Whalen-Enhanced-Contrast.jpg]]
+  * 🗄️ **Master Scan (Pristine Bitstream):** [[1861-Census-Whalen-Enhanced-Contrast.jpg]]
 
 ---
 

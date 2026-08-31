@@ -9,15 +9,12 @@ tags:
 - topic/source_record
 - provenance/primary_facsimile
 created: '2026-08-30'
-updated: '2026-08-30'
+updated: '2026-08-31'
 status: verified
 version: '1.0'
 source_type: source_record
 people:
-- '[[People/W/Whalen/Whalen, Hollis Vernon 1898-12-14 - URN-GEN-1898-12-HVW|Hollis
-  Vernon Whalen]]'
-- '[[People/W/Whalen/Whalen, Hollis Vernon 1898-12-14|Hollis Vernon Whalen]]'
-- '[[People/W/Whalen/Whalen, Hollis Vernon 1898-12-14|Hollis Vernon Whalen]]'
+- '[[Whalen, Hollis Vernon 1898-12-14|Hollis Vernon Whalen]]'
 location: North America
 repository: National Archives & Archival Registries
 author: Civil & Ecclesiastical Registrars
@@ -27,12 +24,12 @@ portfolio:
 quay: 3
 epistemic_tier: 'Tier 1: Primary Archival Facsimile'
 verification_status: verified_empirical
-media_file: '[[Sources/Hollis docs/desktop.ini]]'
-master_asset: '[[Sources/Hollis docs/desktop.ini]]'
-display_asset: '[[Sources/Hollis docs/desktop.ini]]'
+media_file: '[[desktop.ini]]'
+master_asset: '[[desktop.ini]]'
+display_asset: '[[desktop.ini]]'
 sha256: 663a74a582a69d0dba5f4086981374e4aa8bf6d01dcab479c2e9ff0c8f2b606f
 audit_tag: verified_empirical
-audit_date: '2026-08-30'
+audit_date: '2026-08-31'
 audit_status: passed
 ---
 
@@ -42,10 +39,10 @@ audit_status: passed
 ---
 
 ## 🏛️ Archival Asset Lineage & Multi-Format Facsimiles
-![[[Sources/Hollis docs/desktop.ini]]|850]
+![[desktop.ini|850]]
 
 * **Physical Asset Holdings:**
-  * 🗄️ **Master Scan (Pristine Bitstream):** [[Sources/Hollis docs/desktop.ini]]
+  * 🗄️ **Master Scan (Pristine Bitstream):** [[desktop.ini]]
 
 ---
 
@@ -53,8 +50,7 @@ audit_status: passed
 
 | Field / Item | Document Record Value | Corroborated Vault Profile | Evidentiary Significance |
 | :--- | :--- | :--- | :--- |
-| **Documented Person** | `Hollis Vernon Whalen` | [[People/W/Whalen/Whalen, Hollis Vernon 1898-12-14 - URN-GEN-1898-12-HVW\|Hollis Vernon Whalen]] | Verified primary subject/kinship anchor. |
-| **Documented Person** | `Hollis Vernon Whalen` | [[People/W/Whalen/Whalen, Hollis Vernon 1898-12-14\|Hollis Vernon Whalen]] | Verified primary subject/kinship anchor. |
+| **Documented Person** | `Hollis Vernon Whalen` | [[Whalen, Hollis Vernon 1898-12-14\|Hollis Vernon Whalen]] | Verified primary subject/kinship anchor. |
 | **Jurisdiction** | `North America` | — | Establishes physical and sovereign territorial locus. |
 | **Custodial Archive** | `National Archives & Archival Registries` | — | Certified archival custody chain. |
 
@@ -62,8 +58,7 @@ audit_status: passed
 
 ## 👥 Corroborated Entities & Kinship Network
 The following individuals are formally documented and substantiated within this record:
-* **Verified Profile:** [[People/W/Whalen/Whalen, Hollis Vernon 1898-12-14 - URN-GEN-1898-12-HVW\|Hollis Vernon Whalen]]
-* **Verified Profile:** [[People/W/Whalen/Whalen, Hollis Vernon 1898-12-14\|Hollis Vernon Whalen]]
+* **Verified Profile:** [[Whalen, Hollis Vernon 1898-12-14|Hollis Vernon Whalen]]
 
 ---
 

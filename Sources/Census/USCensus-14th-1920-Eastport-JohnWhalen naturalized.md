@@ -10,7 +10,7 @@ tags:
 - topic/census
 - provenance/primary_facsimile
 created: '2026-08-30'
-updated: '2026-08-30'
+updated: '2026-08-31'
 status: verified
 version: '1.0'
 source_type: census
@@ -26,12 +26,12 @@ portfolio:
 quay: 3
 epistemic_tier: 'Tier 1: Primary Archival Facsimile'
 verification_status: verified_empirical
-media_file: '[[Sources/Census/USCensus-14th-1920-Eastport-JohnWhalen naturalized.jpg]]'
-master_asset: '[[Sources/Census/USCensus-14th-1920-Eastport-JohnWhalen naturalized.jpg]]'
-display_asset: '[[Sources/Census/USCensus-14th-1920-Eastport-JohnWhalen naturalized.jpg]]'
+media_file: '[[USCensus-14th-1920-Eastport-JohnWhalen naturalized.jpg]]'
+master_asset: '[[USCensus-14th-1920-Eastport-JohnWhalen naturalized.jpg]]'
+display_asset: '[[USCensus-14th-1920-Eastport-JohnWhalen naturalized.jpg]]'
 sha256: b050740ff64766c72c5f1b2c9c72aae2cfaa74babfebf8a970331ea7c5c76437
 audit_tag: verified_empirical
-audit_date: '2026-08-30'
+audit_date: '2026-08-31'
 audit_status: passed
 ---
 
@@ -41,10 +41,10 @@ audit_status: passed
 ---
 
 ## 🏛️ Archival Asset Lineage & Multi-Format Facsimiles
-![[[Sources/Census/USCensus-14th-1920-Eastport-JohnWhalen naturalized.jpg]]|850]
+![[USCensus-14th-1920-Eastport-JohnWhalen naturalized.jpg|850]]
 
 * **Physical Asset Holdings:**
-  * 🗄️ **Master Scan (Pristine Bitstream):** [[Sources/Census/USCensus-14th-1920-Eastport-JohnWhalen naturalized.jpg]]
+  * 🗄️ **Master Scan (Pristine Bitstream):** [[USCensus-14th-1920-Eastport-JohnWhalen naturalized.jpg]]
 
 ---
 

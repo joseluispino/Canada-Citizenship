@@ -9,7 +9,7 @@ tags:
 - topic/source_record
 - provenance/primary_facsimile
 created: '2026-08-30'
-updated: '2026-08-30'
+updated: '2026-08-31'
 status: verified
 version: '1.0'
 source_type: source_record
@@ -23,13 +23,13 @@ portfolio:
 quay: 3
 epistemic_tier: 'Tier 1: Primary Archival Facsimile'
 verification_status: verified_empirical
-media_file: '[[Sources/Published_Histories/Eastport Alms House Master John Whalen.jpg]]'
-master_asset: '[[Sources/Published_Histories/Eastport Alms House Master John Whalen.jpg]]'
-display_asset: '[[Sources/Published_Histories/Eastport Alms House Master John Whalen.jpg]]'
-pdf_asset: '[[Sources/Published_Histories/Eastport Alms House Master John Whalen.pdf]]'
+media_file: '[[Eastport Alms House Master John Whalen.jpg]]'
+master_asset: '[[Eastport Alms House Master John Whalen.jpg]]'
+display_asset: '[[Eastport Alms House Master John Whalen.jpg]]'
+pdf_asset: '[[Eastport Alms House Master John Whalen.pdf]]'
 sha256: 9a5154b26435f60ce3199635befd0408351679ead62884683ca19a4cd3fe3e5b
 audit_tag: verified_empirical
-audit_date: '2026-08-30'
+audit_date: '2026-08-31'
 audit_status: passed
 ---
 
@@ -39,11 +39,11 @@ audit_status: passed
 ---
 
 ## 🏛️ Archival Asset Lineage & Multi-Format Facsimiles
-![[[Sources/Published_Histories/Eastport Alms House Master John Whalen.jpg]]|850]
+![[Eastport Alms House Master John Whalen.jpg|850]]
 
 * **Physical Asset Holdings:**
-  * 🗄️ **Master Scan (Pristine Bitstream):** [[Sources/Published_Histories/Eastport Alms House Master John Whalen.jpg]]
-  * 📕 **Archival Document PDF:** [[Sources/Published_Histories/Eastport Alms House Master John Whalen.pdf]]
+  * 🗄️ **Master Scan (Pristine Bitstream):** [[Eastport Alms House Master John Whalen.jpg]]
+  * 📕 **Archival Document PDF:** [[Eastport Alms House Master John Whalen.pdf]]
 
 ---
 

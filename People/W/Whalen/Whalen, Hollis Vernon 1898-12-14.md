@@ -46,6 +46,9 @@ religion: Church of England / Protestant
 
 
 
+
+
+
 # 👤 Hollis Vernon Whalen (1898–1981)
 
 ## 📌 Executive Summary

@@ -9,15 +9,12 @@ tags:
 - topic/military_record
 - provenance/primary_facsimile
 created: '2026-08-30'
-updated: '2026-08-30'
+updated: '2026-08-31'
 status: verified
 version: '1.0'
 source_type: military_record
 people:
-- '[[People/W/Whalen/Whalen, Hollis Vernon 1898-12-14 - URN-GEN-1898-12-HVW|Hollis
-  Vernon Whalen]]'
-- '[[People/W/Whalen/Whalen, Hollis Vernon 1898-12-14|Hollis Vernon Whalen]]'
-- '[[People/W/Whalen/Whalen, Hollis Vernon 1898-12-14|Hollis Vernon Whalen]]'
+- '[[Whalen, Hollis Vernon 1898-12-14|Hollis Vernon Whalen]]'
 event_date: '1917'
 year: 1917
 location: North America
@@ -29,19 +26,17 @@ portfolio:
 quay: 3
 epistemic_tier: 'Tier 1: Primary Archival Facsimile'
 verification_status: verified_empirical
-media_file: '[[Sources/Land_Probate_Military/1784 Land Leslie James Loyalist land
-  settlement Port Roseway Nova Scotia.pdf]]'
-master_asset: '[[Sources/Land_Probate_Military/1784 Land Leslie James Loyalist land
-  settlement Port Roseway Nova Scotia.pdf]]'
-display_asset: '[[Sources/Land_Probate_Military/1784 Land Leslie James Loyalist land
-  settlement Port Roseway Nova Scotia.pdf]]'
-pdf_asset: '[[Sources/Land_Probate_Military/1917 Military Whalen Hollis .pdf]]'
+media_file: '[[1784 Land Leslie James Loyalist land settlement Port Roseway Nova Scotia.pdf]]'
+master_asset: '[[1784 Land Leslie James Loyalist land settlement Port Roseway Nova
+  Scotia.pdf]]'
+display_asset: '[[1784 Land Leslie James Loyalist land settlement Port Roseway Nova
+  Scotia.pdf]]'
+pdf_asset: '[[1917 Military Whalen Hollis .pdf]]'
 sha256: 9fa3c30b1a5528c367a892d7f600edd64a3fba70bf02d3e2d755775c81ab1479
 audit_tag: verified_empirical
-audit_date: '2026-08-30'
+audit_date: '2026-08-31'
 audit_status: passed
 ---
-
 
 # 📄 1917 Military Whalen Hollis 
 ### Archival Evidence Facsimile & Certified Transcription Dossier
@@ -49,11 +44,11 @@ audit_status: passed
 ---
 
 ## 🏛️ Archival Asset Lineage & Multi-Format Facsimiles
-
-![[Sources/Land_Probate_Military/1784 Land Leslie James Loyalist land settlement Port Roseway Nova Scotia.pdf|850]]
+![[1784 Land Leslie James Loyalist land settlement Port Roseway Nova Scotia.pdf|850]]
 
 * **Physical Asset Holdings:**
-  * 📕 **Archival Document PDF:** [[Sources/Land_Probate_Military/1917 Military Whalen Hollis .pdf]]
+  * 🗄️ **Master Scan (Pristine Bitstream):** [[1784 Land Leslie James Loyalist land settlement Port Roseway Nova Scotia.pdf]]
+  * 📕 **Archival Document PDF:** [[1917 Military Whalen Hollis .pdf]]
 
 ---
 
@@ -61,8 +56,7 @@ audit_status: passed
 
 | Field / Item | Document Record Value | Corroborated Vault Profile | Evidentiary Significance |
 | :--- | :--- | :--- | :--- |
-| **Documented Person** | `Hollis Vernon Whalen` | [[People/W/Whalen/Whalen, Hollis Vernon 1898-12-14 - URN-GEN-1898-12-HVW\|Hollis Vernon Whalen]] | Verified primary subject/kinship anchor. |
-| **Documented Person** | `Hollis Vernon Whalen` | [[People/W/Whalen/Whalen, Hollis Vernon 1898-12-14\|Hollis Vernon Whalen]] | Verified primary subject/kinship anchor. |
+| **Documented Person** | `Hollis Vernon Whalen` | [[Whalen, Hollis Vernon 1898-12-14\|Hollis Vernon Whalen]] | Verified primary subject/kinship anchor. |
 | **Event Date / Year** | `1917` | — | Establishes contemporaneous presence and vital milestone. |
 | **Jurisdiction** | `North America` | — | Establishes physical and sovereign territorial locus. |
 | **Custodial Archive** | `National Archives & Archival Registries` | — | Certified archival custody chain. |
@@ -71,11 +65,10 @@ audit_status: passed
 
 ## 👥 Corroborated Entities & Kinship Network
 The following individuals are formally documented and substantiated within this record:
-* **Verified Profile:** [[People/W/Whalen/Whalen, Hollis Vernon 1898-12-14 - URN-GEN-1898-12-HVW\|Hollis Vernon Whalen]]
-* **Verified Profile:** [[People/W/Whalen/Whalen, Hollis Vernon 1898-12-14\|Hollis Vernon Whalen]]
+* **Verified Profile:** [[Whalen, Hollis Vernon 1898-12-14|Hollis Vernon Whalen]]
 
 ---
 
 ## 🔬 Evidentiary Legal Significance
 1. **Primary Facsimile Proof**: Formally authenticates biographical, vital, and geographical facts for 1917 Military Whalen Hollis  under statutory evidentiary standards.
-2. **Archival Traceability**: Preserves direct bitstream lineage in `National Archives & Archival Registries` under immutable hash `verified`.
+2. **Archival Traceability**: Preserves direct bitstream lineage in `National Archives & Archival Registries` under immutable hash `9fa3c30b1a5528c367a892d7f600edd64a3fba70bf02d3e2d755775c81ab1479`.

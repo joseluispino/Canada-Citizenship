@@ -9,14 +9,13 @@ tags:
 - topic/death_certificate
 - provenance/primary_facsimile
 created: '2026-08-30'
-updated: '2026-08-30'
+updated: '2026-08-31'
 status: verified
 version: '1.0'
 source_type: death_certificate
 people:
-- '[[People/T/Thornton/Sarah H. Thornton - URN-GEN-GED-I342559184848|Sarah H. Thornton]]'
-- '[[People/W/Whalen/Sarah E. Whalen - URN-GEN-GED-I342669159858|Sarah E. Whalen]]'
-- '[[People/W/Whalen/Sarah E. Whalen - URN-GEN-GED-I342669159858|Sarah E. Whalen]]'
+- '[[Sarah E. Whalen - URN-GEN-GED-I342669159858|Sarah E. Whalen]]'
+- '[[Sarah H. Thornton - URN-GEN-GED-I342559184848|Sarah H. Thornton]]'
 location: North America
 repository: National Archives & Archival Registries
 author: Civil & Ecclesiastical Registrars
@@ -26,12 +25,12 @@ portfolio:
 quay: 3
 epistemic_tier: 'Tier 1: Primary Archival Facsimile'
 verification_status: verified_empirical
-media_file: '[[Sources/Vital_Statistics/1908Death-SarahWhalenThornton.jpg]]'
-master_asset: '[[Sources/Vital_Statistics/1908Death-SarahWhalenThornton.jpg]]'
-display_asset: '[[Sources/Vital_Statistics/1908Death-SarahWhalenThornton.jpg]]'
+media_file: '[[1908Death-SarahWhalenThornton.jpg]]'
+master_asset: '[[1908Death-SarahWhalenThornton.jpg]]'
+display_asset: '[[1908Death-SarahWhalenThornton.jpg]]'
 sha256: f9d6e1304cb6602268a6f6d01c98ad016d7557e165266a37f2122bb224a8f118
 audit_tag: verified_empirical
-audit_date: '2026-08-30'
+audit_date: '2026-08-31'
 audit_status: passed
 ---
 
@@ -41,10 +40,10 @@ audit_status: passed
 ---
 
 ## 🏛️ Archival Asset Lineage & Multi-Format Facsimiles
-![[[Sources/Vital_Statistics/1908Death-SarahWhalenThornton.jpg]]|850]
+![[1908Death-SarahWhalenThornton.jpg|850]]
 
 * **Physical Asset Holdings:**
-  * 🗄️ **Master Scan (Pristine Bitstream):** [[Sources/Vital_Statistics/1908Death-SarahWhalenThornton.jpg]]
+  * 🗄️ **Master Scan (Pristine Bitstream):** [[1908Death-SarahWhalenThornton.jpg]]
 
 ---
 
@@ -52,8 +51,8 @@ audit_status: passed
 
 | Field / Item | Document Record Value | Corroborated Vault Profile | Evidentiary Significance |
 | :--- | :--- | :--- | :--- |
-| **Documented Person** | `Sarah H. Thornton` | [[People/T/Thornton/Sarah H. Thornton - URN-GEN-GED-I342559184848\|Sarah H. Thornton]] | Verified primary subject/kinship anchor. |
-| **Documented Person** | `Sarah E. Whalen` | [[People/W/Whalen/Sarah E. Whalen - URN-GEN-GED-I342669159858\|Sarah E. Whalen]] | Verified primary subject/kinship anchor. |
+| **Documented Person** | `Sarah E. Whalen` | [[Sarah E. Whalen - URN-GEN-GED-I342669159858\|Sarah E. Whalen]] | Verified primary subject/kinship anchor. |
+| **Documented Person** | `Sarah H. Thornton` | [[Sarah H. Thornton - URN-GEN-GED-I342559184848\|Sarah H. Thornton]] | Verified primary subject/kinship anchor. |
 | **Jurisdiction** | `North America` | — | Establishes physical and sovereign territorial locus. |
 | **Custodial Archive** | `National Archives & Archival Registries` | — | Certified archival custody chain. |
 
@@ -61,8 +60,8 @@ audit_status: passed
 
 ## 👥 Corroborated Entities & Kinship Network
 The following individuals are formally documented and substantiated within this record:
-* **Verified Profile:** [[People/T/Thornton/Sarah H. Thornton - URN-GEN-GED-I342559184848\|Sarah H. Thornton]]
-* **Verified Profile:** [[People/W/Whalen/Sarah E. Whalen - URN-GEN-GED-I342669159858\|Sarah E. Whalen]]
+* **Verified Profile:** [[Sarah E. Whalen - URN-GEN-GED-I342669159858|Sarah E. Whalen]]
+* **Verified Profile:** [[Sarah H. Thornton - URN-GEN-GED-I342559184848|Sarah H. Thornton]]
 
 ---
 

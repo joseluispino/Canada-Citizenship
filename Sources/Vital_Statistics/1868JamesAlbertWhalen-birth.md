@@ -9,15 +9,13 @@ tags:
 - topic/birth_certificate
 - provenance/primary_facsimile
 created: '2026-08-30'
-updated: '2026-08-30'
+updated: '2026-08-31'
 status: verified
 version: '1.0'
 source_type: birth_certificate
 people:
-- '[[People/W/Whalen/James W Whalen - URN-GEN-GED-I342588678600|James W Whalen]]'
-- '[[People/W/Whalen/James W Whalen - URN-GEN-GED-I342588678600|James W Whalen]]'
-- '[[People/W/Whalen/James Whalen - URN-GEN-GED-I342588678537|James Whalen]]'
-- '[[People/W/Whalen/James Whalen - URN-GEN-GED-I342588678537|James Whalen]]'
+- '[[James W Whalen - URN-GEN-GED-I342588678600|James W Whalen]]'
+- '[[James Whalen - URN-GEN-GED-I342588678537|James Whalen]]'
 location: North America
 repository: National Archives & Archival Registries
 author: Civil & Ecclesiastical Registrars
@@ -27,12 +25,12 @@ portfolio:
 quay: 3
 epistemic_tier: 'Tier 1: Primary Archival Facsimile'
 verification_status: verified_empirical
-media_file: '[[Sources/Vital_Statistics/1868JamesAlbertWhalen-birth.jpg]]'
-master_asset: '[[Sources/Vital_Statistics/1868JamesAlbertWhalen-birth.jpg]]'
-display_asset: '[[Sources/Vital_Statistics/1868JamesAlbertWhalen-birth.jpg]]'
+media_file: '[[1868JamesAlbertWhalen-birth.jpg]]'
+master_asset: '[[1868JamesAlbertWhalen-birth.jpg]]'
+display_asset: '[[1868JamesAlbertWhalen-birth.jpg]]'
 sha256: 961651853a83c64f841dabad437e3c266b21db143fcaf9e86ed01b8fda5ad02c
 audit_tag: verified_empirical
-audit_date: '2026-08-30'
+audit_date: '2026-08-31'
 audit_status: passed
 ---
 
@@ -42,10 +40,10 @@ audit_status: passed
 ---
 
 ## 🏛️ Archival Asset Lineage & Multi-Format Facsimiles
-![[[Sources/Vital_Statistics/1868JamesAlbertWhalen-birth.jpg]]|850]
+![[1868JamesAlbertWhalen-birth.jpg|850]]
 
 * **Physical Asset Holdings:**
-  * 🗄️ **Master Scan (Pristine Bitstream):** [[Sources/Vital_Statistics/1868JamesAlbertWhalen-birth.jpg]]
+  * 🗄️ **Master Scan (Pristine Bitstream):** [[1868JamesAlbertWhalen-birth.jpg]]
 
 ---
 
@@ -53,8 +51,8 @@ audit_status: passed
 
 | Field / Item | Document Record Value | Corroborated Vault Profile | Evidentiary Significance |
 | :--- | :--- | :--- | :--- |
-| **Documented Person** | `James W Whalen` | [[People/W/Whalen/James W Whalen - URN-GEN-GED-I342588678600\|James W Whalen]] | Verified primary subject/kinship anchor. |
-| **Documented Person** | `James Whalen` | [[People/W/Whalen/James Whalen - URN-GEN-GED-I342588678537\|James Whalen]] | Verified primary subject/kinship anchor. |
+| **Documented Person** | `James W Whalen` | [[James W Whalen - URN-GEN-GED-I342588678600\|James W Whalen]] | Verified primary subject/kinship anchor. |
+| **Documented Person** | `James Whalen` | [[James Whalen - URN-GEN-GED-I342588678537\|James Whalen]] | Verified primary subject/kinship anchor. |
 | **Jurisdiction** | `North America` | — | Establishes physical and sovereign territorial locus. |
 | **Custodial Archive** | `National Archives & Archival Registries` | — | Certified archival custody chain. |
 
@@ -62,8 +60,8 @@ audit_status: passed
 
 ## 👥 Corroborated Entities & Kinship Network
 The following individuals are formally documented and substantiated within this record:
-* **Verified Profile:** [[People/W/Whalen/James W Whalen - URN-GEN-GED-I342588678600\|James W Whalen]]
-* **Verified Profile:** [[People/W/Whalen/James Whalen - URN-GEN-GED-I342588678537\|James Whalen]]
+* **Verified Profile:** [[James W Whalen - URN-GEN-GED-I342588678600|James W Whalen]]
+* **Verified Profile:** [[James Whalen - URN-GEN-GED-I342588678537|James Whalen]]
 
 ---
 

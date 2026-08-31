@@ -9,15 +9,12 @@ tags:
 - topic/source_record
 - provenance/primary_facsimile
 created: '2026-08-30'
-updated: '2026-08-30'
+updated: '2026-08-31'
 status: verified
 version: '1.0'
 source_type: source_record
 people:
-- '[[People/W/Whalen/Whalen, Hollis Vernon 1898-12-14 - URN-GEN-1898-12-HVW|Hollis
-  Vernon Whalen]]'
-- '[[People/W/Whalen/Whalen, Hollis Vernon 1898-12-14|Hollis Vernon Whalen]]'
-- '[[People/W/Whalen/Whalen, Hollis Vernon 1898-12-14|Hollis Vernon Whalen]]'
+- '[[Whalen, Hollis Vernon 1898-12-14|Hollis Vernon Whalen]]'
 event_date: '2025-04-25'
 year: 2025
 location: North America
@@ -29,15 +26,12 @@ portfolio:
 quay: 3
 epistemic_tier: 'Tier 1: Primary Archival Facsimile'
 verification_status: verified_empirical
-media_file: '[[Sources/Hollis docs/scanned familydocuments/Screenshot 2025-04-25 at
-  10.49.12 AM.png]]'
-master_asset: '[[Sources/Hollis docs/scanned familydocuments/Screenshot 2025-04-25
-  at 10.49.12 AM.png]]'
-display_asset: '[[Sources/Hollis docs/scanned familydocuments/Screenshot 2025-04-25
-  at 10.49.12 AM.png]]'
+media_file: '[[Screenshot 2025-04-25 at 10.49.12 AM.png]]'
+master_asset: '[[Screenshot 2025-04-25 at 10.49.12 AM.png]]'
+display_asset: '[[Screenshot 2025-04-25 at 10.49.12 AM.png]]'
 sha256: bf31f8f4226989ab688c82f5cf105bbffc33f27d50e2cb648c88eac78e671f24
 audit_tag: verified_empirical
-audit_date: '2026-08-30'
+audit_date: '2026-08-31'
 audit_status: passed
 ---
 
@@ -47,10 +41,10 @@ audit_status: passed
 ---
 
 ## 🏛️ Archival Asset Lineage & Multi-Format Facsimiles
-![[[Sources/Hollis docs/scanned familydocuments/Screenshot 2025-04-25 at 10.49.12 AM.png]]|850]
+![[Screenshot 2025-04-25 at 10.49.12 AM.png|850]]
 
 * **Physical Asset Holdings:**
-  * 🗄️ **Master Scan (Pristine Bitstream):** [[Sources/Hollis docs/scanned familydocuments/Screenshot 2025-04-25 at 10.49.12 AM.png]]
+  * 🗄️ **Master Scan (Pristine Bitstream):** [[Screenshot 2025-04-25 at 10.49.12 AM.png]]
 
 ---
 
@@ -58,8 +52,7 @@ audit_status: passed
 
 | Field / Item | Document Record Value | Corroborated Vault Profile | Evidentiary Significance |
 | :--- | :--- | :--- | :--- |
-| **Documented Person** | `Hollis Vernon Whalen` | [[People/W/Whalen/Whalen, Hollis Vernon 1898-12-14 - URN-GEN-1898-12-HVW\|Hollis Vernon Whalen]] | Verified primary subject/kinship anchor. |
-| **Documented Person** | `Hollis Vernon Whalen` | [[People/W/Whalen/Whalen, Hollis Vernon 1898-12-14\|Hollis Vernon Whalen]] | Verified primary subject/kinship anchor. |
+| **Documented Person** | `Hollis Vernon Whalen` | [[Whalen, Hollis Vernon 1898-12-14\|Hollis Vernon Whalen]] | Verified primary subject/kinship anchor. |
 | **Event Date / Year** | `2025` | — | Establishes contemporaneous presence and vital milestone. |
 | **Jurisdiction** | `North America` | — | Establishes physical and sovereign territorial locus. |
 | **Custodial Archive** | `National Archives & Archival Registries` | — | Certified archival custody chain. |
@@ -68,8 +61,7 @@ audit_status: passed
 
 ## 👥 Corroborated Entities & Kinship Network
 The following individuals are formally documented and substantiated within this record:
-* **Verified Profile:** [[People/W/Whalen/Whalen, Hollis Vernon 1898-12-14 - URN-GEN-1898-12-HVW\|Hollis Vernon Whalen]]
-* **Verified Profile:** [[People/W/Whalen/Whalen, Hollis Vernon 1898-12-14\|Hollis Vernon Whalen]]
+* **Verified Profile:** [[Whalen, Hollis Vernon 1898-12-14|Hollis Vernon Whalen]]
 
 ---
 

@@ -9,7 +9,7 @@ tags:
 - topic/birth_certificate
 - provenance/primary_facsimile
 created: '2026-08-30'
-updated: '2026-08-30'
+updated: '2026-08-31'
 status: verified
 version: '1.0'
 source_type: birth_certificate
@@ -23,12 +23,12 @@ portfolio:
 quay: 3
 epistemic_tier: 'Tier 1: Primary Archival Facsimile'
 verification_status: verified_empirical
-media_file: '[[Sources/Vital_Statistics/1912Birth-HVWhalen.jpg]]'
-master_asset: '[[Sources/Vital_Statistics/1912Birth-HVWhalen.jpg]]'
-display_asset: '[[Sources/Vital_Statistics/1912Birth-HVWhalen.jpg]]'
+media_file: '[[1912Birth-HVWhalen.jpg]]'
+master_asset: '[[1912Birth-HVWhalen.jpg]]'
+display_asset: '[[1912Birth-HVWhalen.jpg]]'
 sha256: 6ca11d005e9783167dca6d0f7481f41620acc1f48f11f133a553b55d3ba97ecf
 audit_tag: verified_empirical
-audit_date: '2026-08-30'
+audit_date: '2026-08-31'
 audit_status: passed
 ---
 
@@ -38,10 +38,10 @@ audit_status: passed
 ---
 
 ## 🏛️ Archival Asset Lineage & Multi-Format Facsimiles
-![[[Sources/Vital_Statistics/1912Birth-HVWhalen.jpg]]|850]
+![[1912Birth-HVWhalen.jpg|850]]
 
 * **Physical Asset Holdings:**
-  * 🗄️ **Master Scan (Pristine Bitstream):** [[Sources/Vital_Statistics/1912Birth-HVWhalen.jpg]]
+  * 🗄️ **Master Scan (Pristine Bitstream):** [[1912Birth-HVWhalen.jpg]]
 
 ---
 

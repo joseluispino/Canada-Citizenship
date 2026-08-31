@@ -9,14 +9,14 @@ tags:
 - topic/military_record
 - provenance/primary_facsimile
 created: '2026-08-30'
-updated: '2026-08-30'
+updated: '2026-08-31'
 status: verified
 version: '1.0'
 source_type: military_record
 people:
-- '[[People/F/Flinn/Patrick Flinn - URN-GEN-GED-I342671628663|Patrick Flinn]]'
-- '[[People/F/Flinn/Patrick Flinn Jr - URN-GEN-GED-I342688434582|Patrick Flinn Jr]]'
-- '[[People/W/Whalen/Whalen, Patrick 1811-09-01 - URN-GEN-1811-09-PW|Patrick Whalen]]'
+- '[[Patrick Flinn - URN-GEN-GED-I342671628663|Patrick Flinn]]'
+- '[[Patrick Flinn Jr - URN-GEN-GED-I342688434582|Patrick Flinn Jr]]'
+- '[[Whalen, Patrick 1811-09-01|Patrick Whalen]]'
 location: North America
 repository: National Archives & Archival Registries
 author: Civil & Ecclesiastical Registrars
@@ -26,14 +26,12 @@ portfolio:
 quay: 3
 epistemic_tier: 'Tier 1: Primary Archival Facsimile'
 verification_status: verified_empirical
-media_file: '[[Sources/Published_Histories/MusterRoll Patrick Flinn Burgoyne''s Regiment.jpg]]'
-master_asset: '[[Sources/Published_Histories/MusterRoll Patrick Flinn Burgoyne''s
-  Regiment.jpg]]'
-display_asset: '[[Sources/Published_Histories/MusterRoll Patrick Flinn Burgoyne''s
-  Regiment.jpg]]'
+media_file: '[[MusterRoll Patrick Flinn Burgoyne''s Regiment.jpg]]'
+master_asset: '[[MusterRoll Patrick Flinn Burgoyne''s Regiment.jpg]]'
+display_asset: '[[MusterRoll Patrick Flinn Burgoyne''s Regiment.jpg]]'
 sha256: b5f3d765b4655341c2eac988bb752b13d06c67c69a148895b7cacb18c5fdde3d
 audit_tag: verified_empirical
-audit_date: '2026-08-30'
+audit_date: '2026-08-31'
 audit_status: passed
 ---
 
@@ -43,10 +41,10 @@ audit_status: passed
 ---
 
 ## 🏛️ Archival Asset Lineage & Multi-Format Facsimiles
-![[[Sources/Published_Histories/MusterRoll Patrick Flinn Burgoyne's Regiment.jpg]]|850]
+![[MusterRoll Patrick Flinn Burgoyne's Regiment.jpg|850]]
 
 * **Physical Asset Holdings:**
-  * 🗄️ **Master Scan (Pristine Bitstream):** [[Sources/Published_Histories/MusterRoll Patrick Flinn Burgoyne's Regiment.jpg]]
+  * 🗄️ **Master Scan (Pristine Bitstream):** [[MusterRoll Patrick Flinn Burgoyne's Regiment.jpg]]
 
 ---
 
@@ -54,9 +52,9 @@ audit_status: passed
 
 | Field / Item | Document Record Value | Corroborated Vault Profile | Evidentiary Significance |
 | :--- | :--- | :--- | :--- |
-| **Documented Person** | `Patrick Flinn` | [[People/F/Flinn/Patrick Flinn - URN-GEN-GED-I342671628663\|Patrick Flinn]] | Verified primary subject/kinship anchor. |
-| **Documented Person** | `Patrick Flinn Jr` | [[People/F/Flinn/Patrick Flinn Jr - URN-GEN-GED-I342688434582\|Patrick Flinn Jr]] | Verified primary subject/kinship anchor. |
-| **Documented Person** | `Patrick Whalen` | [[People/W/Whalen/Whalen, Patrick 1811-09-01 - URN-GEN-1811-09-PW\|Patrick Whalen]] | Verified primary subject/kinship anchor. |
+| **Documented Person** | `Patrick Flinn` | [[Patrick Flinn - URN-GEN-GED-I342671628663\|Patrick Flinn]] | Verified primary subject/kinship anchor. |
+| **Documented Person** | `Patrick Flinn Jr` | [[Patrick Flinn Jr - URN-GEN-GED-I342688434582\|Patrick Flinn Jr]] | Verified primary subject/kinship anchor. |
+| **Documented Person** | `Patrick Whalen` | [[Whalen, Patrick 1811-09-01\|Patrick Whalen]] | Verified primary subject/kinship anchor. |
 | **Jurisdiction** | `North America` | — | Establishes physical and sovereign territorial locus. |
 | **Custodial Archive** | `National Archives & Archival Registries` | — | Certified archival custody chain. |
 
@@ -64,9 +62,9 @@ audit_status: passed
 
 ## 👥 Corroborated Entities & Kinship Network
 The following individuals are formally documented and substantiated within this record:
-* **Verified Profile:** [[People/F/Flinn/Patrick Flinn - URN-GEN-GED-I342671628663\|Patrick Flinn]]
-* **Verified Profile:** [[People/F/Flinn/Patrick Flinn Jr - URN-GEN-GED-I342688434582\|Patrick Flinn Jr]]
-* **Verified Profile:** [[People/W/Whalen/Whalen, Patrick 1811-09-01 - URN-GEN-1811-09-PW\|Patrick Whalen]]
+* **Verified Profile:** [[Patrick Flinn - URN-GEN-GED-I342671628663|Patrick Flinn]]
+* **Verified Profile:** [[Patrick Flinn Jr - URN-GEN-GED-I342688434582|Patrick Flinn Jr]]
+* **Verified Profile:** [[Whalen, Patrick 1811-09-01|Patrick Whalen]]
 
 ---
 

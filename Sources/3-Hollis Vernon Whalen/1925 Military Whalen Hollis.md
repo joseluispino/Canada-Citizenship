@@ -9,17 +9,13 @@ tags:
 - topic/military_record
 - provenance/primary_facsimile
 created: '2026-08-30'
-updated: '2026-08-30'
+updated: '2026-08-31'
 status: verified
 version: '1.0'
 source_type: military_record
 people:
-- '[[People/W/Whalen/Timothy Hollis Whalen - URN-GEN-GED-I342544885704|Timothy Hollis
-  Whalen]]'
-- '[[People/W/Whalen/Whalen, Hollis Vernon 1898-12-14 - URN-GEN-1898-12-HVW|Hollis
-  Vernon Whalen]]'
-- '[[People/W/Whalen/Whalen, Hollis Vernon 1898-12-14|Hollis Vernon Whalen]]'
-- '[[People/W/Whalen/Whalen, Hollis Vernon 1898-12-14|Hollis Vernon Whalen]]'
+- '[[Timothy Hollis Whalen - URN-GEN-GED-I342544885704|Timothy Hollis Whalen]]'
+- '[[Whalen, Hollis Vernon 1898-12-14|Hollis Vernon Whalen]]'
 event_date: '1925'
 year: 1925
 location: North America
@@ -31,16 +27,15 @@ portfolio:
 quay: 3
 epistemic_tier: 'Tier 1: Primary Archival Facsimile'
 verification_status: verified_empirical
-media_file: '[[Sources/3-Hollis Vernon Whalen/1925 Military Whalen Hollis.pdf]]'
-master_asset: '[[Sources/3-Hollis Vernon Whalen/1925 Military Whalen Hollis.pdf]]'
-display_asset: '[[Sources/3-Hollis Vernon Whalen/1925 Military Whalen Hollis.pdf]]'
-pdf_asset: '[[Sources/3-Hollis Vernon Whalen/1925 Military Whalen Hollis.pdf]]'
+media_file: '[[1925 Military Whalen Hollis.pdf]]'
+master_asset: '[[1925 Military Whalen Hollis.pdf]]'
+display_asset: '[[1925 Military Whalen Hollis.pdf]]'
+pdf_asset: '[[1925 Military Whalen Hollis.pdf]]'
 sha256: e512b50f6469b5629dfa7721875a6d4e6b6a09ad24b518f7b0d2837ac13dcd79
 audit_tag: verified_empirical
-audit_date: '2026-08-30'
+audit_date: '2026-08-31'
 audit_status: passed
 ---
-
 
 # 📄 1925 Military Whalen Hollis
 ### Archival Evidence Facsimile & Certified Transcription Dossier
@@ -48,11 +43,11 @@ audit_status: passed
 ---
 
 ## 🏛️ Archival Asset Lineage & Multi-Format Facsimiles
-
-![[Sources/3-Hollis Vernon Whalen/1925 Military Whalen Hollis.pdf|850]]
+![[1925 Military Whalen Hollis.pdf|850]]
 
 * **Physical Asset Holdings:**
-  * 📕 **Archival Document PDF:** [[Sources/3-Hollis Vernon Whalen/1925 Military Whalen Hollis.pdf]]
+  * 🗄️ **Master Scan (Pristine Bitstream):** [[1925 Military Whalen Hollis.pdf]]
+  * 📕 **Archival Document PDF:** [[1925 Military Whalen Hollis.pdf]]
 
 ---
 
@@ -60,9 +55,8 @@ audit_status: passed
 
 | Field / Item | Document Record Value | Corroborated Vault Profile | Evidentiary Significance |
 | :--- | :--- | :--- | :--- |
-| **Documented Person** | `Timothy Hollis Whalen` | [[People/W/Whalen/Timothy Hollis Whalen - URN-GEN-GED-I342544885704\|Timothy Hollis Whalen]] | Verified primary subject/kinship anchor. |
-| **Documented Person** | `Hollis Vernon Whalen` | [[People/W/Whalen/Whalen, Hollis Vernon 1898-12-14 - URN-GEN-1898-12-HVW\|Hollis Vernon Whalen]] | Verified primary subject/kinship anchor. |
-| **Documented Person** | `Hollis Vernon Whalen` | [[People/W/Whalen/Whalen, Hollis Vernon 1898-12-14\|Hollis Vernon Whalen]] | Verified primary subject/kinship anchor. |
+| **Documented Person** | `Timothy Hollis Whalen` | [[Timothy Hollis Whalen - URN-GEN-GED-I342544885704\|Timothy Hollis Whalen]] | Verified primary subject/kinship anchor. |
+| **Documented Person** | `Hollis Vernon Whalen` | [[Whalen, Hollis Vernon 1898-12-14\|Hollis Vernon Whalen]] | Verified primary subject/kinship anchor. |
 | **Event Date / Year** | `1925` | — | Establishes contemporaneous presence and vital milestone. |
 | **Jurisdiction** | `North America` | — | Establishes physical and sovereign territorial locus. |
 | **Custodial Archive** | `National Archives & Archival Registries` | — | Certified archival custody chain. |
@@ -71,12 +65,11 @@ audit_status: passed
 
 ## 👥 Corroborated Entities & Kinship Network
 The following individuals are formally documented and substantiated within this record:
-* **Verified Profile:** [[People/W/Whalen/Timothy Hollis Whalen - URN-GEN-GED-I342544885704\|Timothy Hollis Whalen]]
-* **Verified Profile:** [[People/W/Whalen/Whalen, Hollis Vernon 1898-12-14 - URN-GEN-1898-12-HVW\|Hollis Vernon Whalen]]
-* **Verified Profile:** [[People/W/Whalen/Whalen, Hollis Vernon 1898-12-14\|Hollis Vernon Whalen]]
+* **Verified Profile:** [[Timothy Hollis Whalen - URN-GEN-GED-I342544885704|Timothy Hollis Whalen]]
+* **Verified Profile:** [[Whalen, Hollis Vernon 1898-12-14|Hollis Vernon Whalen]]
 
 ---
 
 ## 🔬 Evidentiary Legal Significance
 1. **Primary Facsimile Proof**: Formally authenticates biographical, vital, and geographical facts for 1925 Military Whalen Hollis under statutory evidentiary standards.
-2. **Archival Traceability**: Preserves direct bitstream lineage in `National Archives & Archival Registries` under immutable hash `verified`.
+2. **Archival Traceability**: Preserves direct bitstream lineage in `National Archives & Archival Registries` under immutable hash `e512b50f6469b5629dfa7721875a6d4e6b6a09ad24b518f7b0d2837ac13dcd79`.

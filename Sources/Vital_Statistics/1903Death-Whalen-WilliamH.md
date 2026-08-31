@@ -9,15 +9,13 @@ tags:
 - topic/death_certificate
 - provenance/primary_facsimile
 created: '2026-08-30'
-updated: '2026-08-30'
+updated: '2026-08-31'
 status: verified
 version: '1.0'
 source_type: death_certificate
 people:
-- '[[People/W/Whalen/William F Whalen - URN-GEN-GED-I342588678331|William F Whalen]]'
-- '[[People/W/Whalen/William F Whalen - URN-GEN-GED-I342588678331|William F Whalen]]'
-- '[[People/W/Whalen/William Whalen - URN-GEN-GED-I342669281321|William Whalen]]'
-- '[[People/W/Whalen/William Whalen - URN-GEN-GED-I342669281321|William Whalen]]'
+- '[[William F Whalen - URN-GEN-GED-I342588678331|William F Whalen]]'
+- '[[William Whalen - URN-GEN-GED-I342669281321|William Whalen]]'
 location: North America
 repository: National Archives & Archival Registries
 author: Civil & Ecclesiastical Registrars
@@ -27,12 +25,12 @@ portfolio:
 quay: 3
 epistemic_tier: 'Tier 1: Primary Archival Facsimile'
 verification_status: verified_empirical
-media_file: '[[Sources/Vital_Statistics/1903Death-Whalen-WilliamH.jpg]]'
-master_asset: '[[Sources/Vital_Statistics/1903Death-Whalen-WilliamH.jpg]]'
-display_asset: '[[Sources/Vital_Statistics/1903Death-Whalen-WilliamH.jpg]]'
+media_file: '[[1903Death-Whalen-WilliamH.jpg]]'
+master_asset: '[[1903Death-Whalen-WilliamH.jpg]]'
+display_asset: '[[1903Death-Whalen-WilliamH.jpg]]'
 sha256: e0e4c2e33b6cf378223aa043b67b5845bf90b3137a1c352f18bc3176c41033ba
 audit_tag: verified_empirical
-audit_date: '2026-08-30'
+audit_date: '2026-08-31'
 audit_status: passed
 ---
 
@@ -42,10 +40,10 @@ audit_status: passed
 ---
 
 ## 🏛️ Archival Asset Lineage & Multi-Format Facsimiles
-![[[Sources/Vital_Statistics/1903Death-Whalen-WilliamH.jpg]]|850]
+![[1903Death-Whalen-WilliamH.jpg|850]]
 
 * **Physical Asset Holdings:**
-  * 🗄️ **Master Scan (Pristine Bitstream):** [[Sources/Vital_Statistics/1903Death-Whalen-WilliamH.jpg]]
+  * 🗄️ **Master Scan (Pristine Bitstream):** [[1903Death-Whalen-WilliamH.jpg]]
 
 ---
 
@@ -53,8 +51,8 @@ audit_status: passed
 
 | Field / Item | Document Record Value | Corroborated Vault Profile | Evidentiary Significance |
 | :--- | :--- | :--- | :--- |
-| **Documented Person** | `William F Whalen` | [[People/W/Whalen/William F Whalen - URN-GEN-GED-I342588678331\|William F Whalen]] | Verified primary subject/kinship anchor. |
-| **Documented Person** | `William Whalen` | [[People/W/Whalen/William Whalen - URN-GEN-GED-I342669281321\|William Whalen]] | Verified primary subject/kinship anchor. |
+| **Documented Person** | `William F Whalen` | [[William F Whalen - URN-GEN-GED-I342588678331\|William F Whalen]] | Verified primary subject/kinship anchor. |
+| **Documented Person** | `William Whalen` | [[William Whalen - URN-GEN-GED-I342669281321\|William Whalen]] | Verified primary subject/kinship anchor. |
 | **Jurisdiction** | `North America` | — | Establishes physical and sovereign territorial locus. |
 | **Custodial Archive** | `National Archives & Archival Registries` | — | Certified archival custody chain. |
 
@@ -62,8 +60,8 @@ audit_status: passed
 
 ## 👥 Corroborated Entities & Kinship Network
 The following individuals are formally documented and substantiated within this record:
-* **Verified Profile:** [[People/W/Whalen/William F Whalen - URN-GEN-GED-I342588678331\|William F Whalen]]
-* **Verified Profile:** [[People/W/Whalen/William Whalen - URN-GEN-GED-I342669281321\|William Whalen]]
+* **Verified Profile:** [[William F Whalen - URN-GEN-GED-I342588678331|William F Whalen]]
+* **Verified Profile:** [[William Whalen - URN-GEN-GED-I342669281321|William Whalen]]
 
 ---
 

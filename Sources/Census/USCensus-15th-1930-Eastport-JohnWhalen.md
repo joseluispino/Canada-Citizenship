@@ -9,7 +9,7 @@ tags:
 - topic/census
 - provenance/primary_facsimile
 created: '2026-08-30'
-updated: '2026-08-30'
+updated: '2026-08-31'
 status: verified
 version: '1.0'
 source_type: census
@@ -25,12 +25,12 @@ portfolio:
 quay: 3
 epistemic_tier: 'Tier 1: Primary Archival Facsimile'
 verification_status: verified_empirical
-media_file: '[[Sources/Census/USCensus-15th-1930-Eastport-JohnWhalen.jpg]]'
-master_asset: '[[Sources/Census/USCensus-15th-1930-Eastport-JohnWhalen.jpg]]'
-display_asset: '[[Sources/Census/USCensus-15th-1930-Eastport-JohnWhalen.jpg]]'
+media_file: '[[USCensus-15th-1930-Eastport-JohnWhalen.jpg]]'
+master_asset: '[[USCensus-15th-1930-Eastport-JohnWhalen.jpg]]'
+display_asset: '[[USCensus-15th-1930-Eastport-JohnWhalen.jpg]]'
 sha256: d07c8d15f278e6029c37470f7c858f004a6d8c9f4956f78891eda81421c70183
 audit_tag: verified_empirical
-audit_date: '2026-08-30'
+audit_date: '2026-08-31'
 audit_status: passed
 ---
 
@@ -40,10 +40,10 @@ audit_status: passed
 ---
 
 ## 🏛️ Archival Asset Lineage & Multi-Format Facsimiles
-![[[Sources/Census/USCensus-15th-1930-Eastport-JohnWhalen.jpg]]|850]
+![[USCensus-15th-1930-Eastport-JohnWhalen.jpg|850]]
 
 * **Physical Asset Holdings:**
-  * 🗄️ **Master Scan (Pristine Bitstream):** [[Sources/Census/USCensus-15th-1930-Eastport-JohnWhalen.jpg]]
+  * 🗄️ **Master Scan (Pristine Bitstream):** [[USCensus-15th-1930-Eastport-JohnWhalen.jpg]]
 
 ---
 

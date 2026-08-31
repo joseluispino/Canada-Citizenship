@@ -9,7 +9,7 @@ tags:
 - topic/census
 - provenance/primary_facsimile
 created: '2026-08-30'
-updated: '2026-08-30'
+updated: '2026-08-31'
 status: verified
 version: '1.0'
 source_type: census
@@ -25,12 +25,12 @@ portfolio:
 quay: 3
 epistemic_tier: 'Tier 1: Primary Archival Facsimile'
 verification_status: verified_empirical
-media_file: '[[Sources/Census/USCensusB-12th-1900-Eastport-Almshouse.jpg]]'
-master_asset: '[[Sources/Census/USCensusB-12th-1900-Eastport-Almshouse.jpg]]'
-display_asset: '[[Sources/Census/USCensusB-12th-1900-Eastport-Almshouse.jpg]]'
+media_file: '[[USCensusB-12th-1900-Eastport-Almshouse.jpg]]'
+master_asset: '[[USCensusB-12th-1900-Eastport-Almshouse.jpg]]'
+display_asset: '[[USCensusB-12th-1900-Eastport-Almshouse.jpg]]'
 sha256: 34e62fbd4693d094e035382918975b597a1f9553e82289611f1ad9733db0e808
 audit_tag: verified_empirical
-audit_date: '2026-08-30'
+audit_date: '2026-08-31'
 audit_status: passed
 ---
 
@@ -40,10 +40,10 @@ audit_status: passed
 ---
 
 ## 🏛️ Archival Asset Lineage & Multi-Format Facsimiles
-![[[Sources/Census/USCensusB-12th-1900-Eastport-Almshouse.jpg]]|850]
+![[USCensusB-12th-1900-Eastport-Almshouse.jpg|850]]
 
 * **Physical Asset Holdings:**
-  * 🗄️ **Master Scan (Pristine Bitstream):** [[Sources/Census/USCensusB-12th-1900-Eastport-Almshouse.jpg]]
+  * 🗄️ **Master Scan (Pristine Bitstream):** [[USCensusB-12th-1900-Eastport-Almshouse.jpg]]
 
 ---
 

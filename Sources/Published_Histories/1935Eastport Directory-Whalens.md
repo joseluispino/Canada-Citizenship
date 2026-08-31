@@ -9,7 +9,7 @@ tags:
 - topic/city_directory
 - provenance/primary_facsimile
 created: '2026-08-30'
-updated: '2026-08-30'
+updated: '2026-08-31'
 status: verified
 version: '1.0'
 source_type: city_directory
@@ -23,12 +23,12 @@ portfolio:
 quay: 3
 epistemic_tier: 'Tier 1: Primary Archival Facsimile'
 verification_status: verified_empirical
-media_file: '[[Sources/Published_Histories/1935Eastport Directory-Whalens.png]]'
-master_asset: '[[Sources/Published_Histories/1935Eastport Directory-Whalens.png]]'
-display_asset: '[[Sources/Published_Histories/1935Eastport Directory-Whalens.png]]'
+media_file: '[[1935Eastport Directory-Whalens.png]]'
+master_asset: '[[1935Eastport Directory-Whalens.png]]'
+display_asset: '[[1935Eastport Directory-Whalens.png]]'
 sha256: f781026d6af4fb628c59fd3c5988c48ae3e8c242d1c74a34f22a0396a9a51f8e
 audit_tag: verified_empirical
-audit_date: '2026-08-30'
+audit_date: '2026-08-31'
 audit_status: passed
 ---
 
@@ -38,10 +38,10 @@ audit_status: passed
 ---
 
 ## 🏛️ Archival Asset Lineage & Multi-Format Facsimiles
-![[[Sources/Published_Histories/1935Eastport Directory-Whalens.png]]|850]
+![[1935Eastport Directory-Whalens.png|850]]
 
 * **Physical Asset Holdings:**
-  * 🗄️ **Master Scan (Pristine Bitstream):** [[Sources/Published_Histories/1935Eastport Directory-Whalens.png]]
+  * 🗄️ **Master Scan (Pristine Bitstream):** [[1935Eastport Directory-Whalens.png]]
 
 ---
 

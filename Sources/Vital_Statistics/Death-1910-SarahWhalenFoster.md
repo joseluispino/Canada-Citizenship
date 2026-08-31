@@ -9,14 +9,13 @@ tags:
 - topic/death_certificate
 - provenance/primary_facsimile
 created: '2026-08-30'
-updated: '2026-08-30'
+updated: '2026-08-31'
 status: verified
 version: '1.0'
 source_type: death_certificate
 people:
-- '[[People/F/Foster/Sarah Foster - URN-GEN-GED-I342591041581|Sarah Foster]]'
-- '[[People/W/Whalen/Sarah E. Whalen - URN-GEN-GED-I342669159858|Sarah E. Whalen]]'
-- '[[People/W/Whalen/Sarah E. Whalen - URN-GEN-GED-I342669159858|Sarah E. Whalen]]'
+- '[[Sarah E. Whalen - URN-GEN-GED-I342669159858|Sarah E. Whalen]]'
+- '[[Sarah Foster - URN-GEN-GED-I342591041581|Sarah Foster]]'
 event_date: '1910'
 year: 1910
 location: North America
@@ -28,12 +27,12 @@ portfolio:
 quay: 3
 epistemic_tier: 'Tier 1: Primary Archival Facsimile'
 verification_status: verified_empirical
-media_file: '[[Sources/Vital_Statistics/Death-1910-SarahWhalenFoster.jpg]]'
-master_asset: '[[Sources/Vital_Statistics/Death-1910-SarahWhalenFoster.jpg]]'
-display_asset: '[[Sources/Vital_Statistics/Death-1910-SarahWhalenFoster.jpg]]'
+media_file: '[[Death-1910-SarahWhalenFoster.jpg]]'
+master_asset: '[[Death-1910-SarahWhalenFoster.jpg]]'
+display_asset: '[[Death-1910-SarahWhalenFoster.jpg]]'
 sha256: 45288f381980a34543d136de528881ef13301a08914685c1aac1acbc21da232f
 audit_tag: verified_empirical
-audit_date: '2026-08-30'
+audit_date: '2026-08-31'
 audit_status: passed
 ---
 
@@ -43,10 +42,10 @@ audit_status: passed
 ---
 
 ## 🏛️ Archival Asset Lineage & Multi-Format Facsimiles
-![[[Sources/Vital_Statistics/Death-1910-SarahWhalenFoster.jpg]]|850]
+![[Death-1910-SarahWhalenFoster.jpg|850]]
 
 * **Physical Asset Holdings:**
-  * 🗄️ **Master Scan (Pristine Bitstream):** [[Sources/Vital_Statistics/Death-1910-SarahWhalenFoster.jpg]]
+  * 🗄️ **Master Scan (Pristine Bitstream):** [[Death-1910-SarahWhalenFoster.jpg]]
 
 ---
 
@@ -54,8 +53,8 @@ audit_status: passed
 
 | Field / Item | Document Record Value | Corroborated Vault Profile | Evidentiary Significance |
 | :--- | :--- | :--- | :--- |
-| **Documented Person** | `Sarah Foster` | [[People/F/Foster/Sarah Foster - URN-GEN-GED-I342591041581\|Sarah Foster]] | Verified primary subject/kinship anchor. |
-| **Documented Person** | `Sarah E. Whalen` | [[People/W/Whalen/Sarah E. Whalen - URN-GEN-GED-I342669159858\|Sarah E. Whalen]] | Verified primary subject/kinship anchor. |
+| **Documented Person** | `Sarah E. Whalen` | [[Sarah E. Whalen - URN-GEN-GED-I342669159858\|Sarah E. Whalen]] | Verified primary subject/kinship anchor. |
+| **Documented Person** | `Sarah Foster` | [[Sarah Foster - URN-GEN-GED-I342591041581\|Sarah Foster]] | Verified primary subject/kinship anchor. |
 | **Event Date / Year** | `1910` | — | Establishes contemporaneous presence and vital milestone. |
 | **Jurisdiction** | `North America` | — | Establishes physical and sovereign territorial locus. |
 | **Custodial Archive** | `National Archives & Archival Registries` | — | Certified archival custody chain. |
@@ -64,8 +63,8 @@ audit_status: passed
 
 ## 👥 Corroborated Entities & Kinship Network
 The following individuals are formally documented and substantiated within this record:
-* **Verified Profile:** [[People/F/Foster/Sarah Foster - URN-GEN-GED-I342591041581\|Sarah Foster]]
-* **Verified Profile:** [[People/W/Whalen/Sarah E. Whalen - URN-GEN-GED-I342669159858\|Sarah E. Whalen]]
+* **Verified Profile:** [[Sarah E. Whalen - URN-GEN-GED-I342669159858|Sarah E. Whalen]]
+* **Verified Profile:** [[Sarah Foster - URN-GEN-GED-I342591041581|Sarah Foster]]
 
 ---
 

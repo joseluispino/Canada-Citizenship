@@ -31,24 +31,15 @@ proven_tier: primary_vital_records
 data_origin: certified_vital_records
 sex: F
 sources:
-- '[[Pino Phillips, Maria Isabel.pdf]]'
-- '[[MariaIsabelPino cit0001e 4.5.2026.pdf]]'
-- '[[imm5476e-Maria.Isabel.Pino.pdf]]'
-- '[[MariaIsabelPino cit0001e 4.2.2026.pdf]]'
-- '[[Hoja datos nacimiento para imprimir.pdf]]'
-- '[[Isabel -Anexo 1.pdf]]'
-- '[[Isabel''s apostilled birth certificate.pdf]]'
-- '[[Isabel - Hoja declaratoria inscripcion nacimiento LA consulate .pdf]]'
-- '[[Isabel passport.jpg]]'
-- '[[Isabel Consulate Letter.pdf]]'
-- '[[Isabel''s conservatorship apostilled.pdf]]'
-- '[[Isabel state ID.jpg]]'
-- '[[Anexo 5 - Isabel.pdf]]'
-- '[[Authorization-registro-civil for Maria Isabel Pino.pdf]]'
+- '[[Sources/Published_Histories/MariaIsabelPino cit0001e 4.5.2026]]'
+- '[[Sources/Published_Histories/MariaIsabelPino cit0001e 4.2.2026]]'
 audit_tag: verified_empirical
 audit_date: 2026-08-30
 audit_status: passed
 ---
+
+
+
 
 
 

@@ -9,15 +9,12 @@ tags:
 - topic/birth_certificate
 - provenance/primary_facsimile
 created: '2026-08-30'
-updated: '2026-08-30'
+updated: '2026-08-31'
 status: verified
 version: '1.0'
 source_type: birth_certificate
 people:
-- '[[People/W/Whalen/Whalen, Shirley Ann 1936-09-02 - URN-GEN-1936-09-SWP|Shirley
-  Ann Whalen]]'
-- '[[People/W/Whalen/Whalen, Shirley Ann 1936-09-02|Shirley Ann Whalen]]'
-- '[[People/W/Whalen/Whalen, Shirley Ann 1936-09-02|Shirley Ann Whalen]]'
+- '[[Whalen, Shirley Ann 1936-09-02|Shirley Ann Whalen]]'
 event_date: '1936'
 year: 1936
 location: North America
@@ -29,12 +26,12 @@ portfolio:
 quay: 3
 epistemic_tier: 'Tier 1: Primary Archival Facsimile'
 verification_status: verified_empirical
-media_file: '[[Sources/Vital_Statistics/Birth-1936-ShirleyAnnWhalen.jpg]]'
-master_asset: '[[Sources/Vital_Statistics/Birth-1936-ShirleyAnnWhalen.jpg]]'
-display_asset: '[[Sources/Vital_Statistics/Birth-1936-ShirleyAnnWhalen.jpg]]'
+media_file: '[[Birth-1936-ShirleyAnnWhalen.jpg]]'
+master_asset: '[[Birth-1936-ShirleyAnnWhalen.jpg]]'
+display_asset: '[[Birth-1936-ShirleyAnnWhalen.jpg]]'
 sha256: 70a7a2a9a36047f4f40a958d923e74d33315cae9561e99eea289ccd56e846b0a
 audit_tag: verified_empirical
-audit_date: '2026-08-30'
+audit_date: '2026-08-31'
 audit_status: passed
 ---
 
@@ -44,10 +41,10 @@ audit_status: passed
 ---
 
 ## 🏛️ Archival Asset Lineage & Multi-Format Facsimiles
-![[[Sources/Vital_Statistics/Birth-1936-ShirleyAnnWhalen.jpg]]|850]
+![[Birth-1936-ShirleyAnnWhalen.jpg|850]]
 
 * **Physical Asset Holdings:**
-  * 🗄️ **Master Scan (Pristine Bitstream):** [[Sources/Vital_Statistics/Birth-1936-ShirleyAnnWhalen.jpg]]
+  * 🗄️ **Master Scan (Pristine Bitstream):** [[Birth-1936-ShirleyAnnWhalen.jpg]]
 
 ---
 
@@ -55,8 +52,7 @@ audit_status: passed
 
 | Field / Item | Document Record Value | Corroborated Vault Profile | Evidentiary Significance |
 | :--- | :--- | :--- | :--- |
-| **Documented Person** | `Shirley Ann Whalen` | [[People/W/Whalen/Whalen, Shirley Ann 1936-09-02 - URN-GEN-1936-09-SWP\|Shirley Ann Whalen]] | Verified primary subject/kinship anchor. |
-| **Documented Person** | `Shirley Ann Whalen` | [[People/W/Whalen/Whalen, Shirley Ann 1936-09-02\|Shirley Ann Whalen]] | Verified primary subject/kinship anchor. |
+| **Documented Person** | `Shirley Ann Whalen` | [[Whalen, Shirley Ann 1936-09-02\|Shirley Ann Whalen]] | Verified primary subject/kinship anchor. |
 | **Event Date / Year** | `1936` | — | Establishes contemporaneous presence and vital milestone. |
 | **Jurisdiction** | `North America` | — | Establishes physical and sovereign territorial locus. |
 | **Custodial Archive** | `National Archives & Archival Registries` | — | Certified archival custody chain. |
@@ -65,8 +61,7 @@ audit_status: passed
 
 ## 👥 Corroborated Entities & Kinship Network
 The following individuals are formally documented and substantiated within this record:
-* **Verified Profile:** [[People/W/Whalen/Whalen, Shirley Ann 1936-09-02 - URN-GEN-1936-09-SWP\|Shirley Ann Whalen]]
-* **Verified Profile:** [[People/W/Whalen/Whalen, Shirley Ann 1936-09-02\|Shirley Ann Whalen]]
+* **Verified Profile:** [[Whalen, Shirley Ann 1936-09-02|Shirley Ann Whalen]]
 
 ---
 

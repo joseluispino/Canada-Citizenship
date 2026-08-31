@@ -77,6 +77,9 @@ immigration_year: 1880
 
 
 
+
+
+
 # ⚓ Capt. John Warren Whalen (1860–1936)
 
 ## 📌 Executive Summary

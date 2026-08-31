@@ -9,21 +9,15 @@ tags:
 - topic/land_deed
 - provenance/primary_facsimile
 created: '2026-08-30'
-updated: '2026-08-30'
+updated: '2026-08-31'
 status: verified
 version: '1.0'
 source_type: land_deed
 people:
-- '[[People/L/Leslie/Eliza H Leslie - URN-GEN-GED-I342469845465|Eliza H Leslie]]'
-- '[[People/L/Leslie/Eliza H Leslie - URN-GEN-GED-I342469845465|Eliza H Leslie]]'
-- '[[People/L/Leslie/Elizabeth Ellen Leslie - URN-GEN-GED-I342588974929|Elizabeth
-  Ellen Leslie]]'
-- '[[People/L/Leslie/James Leslie - URN-GEN-GED-I342588963623|James Leslie]]'
-- '[[People/L/Leslie/James Leslie Jr - URN-GEN-GED-I342588719967|James Leslie Jr]]'
-- '[[People/L/Leslie/Leslie, Eliza 1820 - URN-GEN-1820-EL|Eliza Leslie]]'
-- '[[People/L/Leslie/Leslie, Eliza 1820 - URN-GEN-1820-EL|Eliza Leslie]]'
-- '[[People/L/Leslie/Leslie, Eliza 1824|Eliza Leslie]]'
-- '[[People/L/Leslie/Leslie, Eliza 1824|Eliza Leslie]]'
+- '[[Leslie, Eliza 1824|Eliza H Leslie]]'
+- '[[Elizabeth Ellen Leslie - URN-GEN-GED-I342588974929|Elizabeth Ellen Leslie]]'
+- '[[James Leslie - URN-GEN-GED-I342588963623|James Leslie]]'
+- '[[James Leslie Jr - URN-GEN-GED-I342588719967|James Leslie Jr]]'
 location: North America
 repository: National Archives & Archival Registries
 author: Civil & Ecclesiastical Registrars
@@ -33,14 +27,12 @@ portfolio:
 quay: 3
 epistemic_tier: 'Tier 1: Primary Archival Facsimile'
 verification_status: verified_empirical
-media_file: '[[Sources/Land/1784Land-Leslie-James Loyalist land settlement Port Roseway.png]]'
-master_asset: '[[Sources/Land/1784Land-Leslie-James Loyalist land settlement Port
-  Roseway.png]]'
-display_asset: '[[Sources/Land/1784Land-Leslie-James Loyalist land settlement Port
-  Roseway.png]]'
+media_file: '[[1784Land-Leslie-James Loyalist land settlement Port Roseway.png]]'
+master_asset: '[[1784Land-Leslie-James Loyalist land settlement Port Roseway.png]]'
+display_asset: '[[1784Land-Leslie-James Loyalist land settlement Port Roseway.png]]'
 sha256: 03357fb24bc12e15c01257df98978dc9075230ac9386eb7f8614340e69beb261
 audit_tag: verified_empirical
-audit_date: '2026-08-30'
+audit_date: '2026-08-31'
 audit_status: passed
 ---
 
@@ -50,10 +42,10 @@ audit_status: passed
 ---
 
 ## 🏛️ Archival Asset Lineage & Multi-Format Facsimiles
-![[[Sources/Land/1784Land-Leslie-James Loyalist land settlement Port Roseway.png]]|850]
+![[1784Land-Leslie-James Loyalist land settlement Port Roseway.png|850]]
 
 * **Physical Asset Holdings:**
-  * 🗄️ **Master Scan (Pristine Bitstream):** [[Sources/Land/1784Land-Leslie-James Loyalist land settlement Port Roseway.png]]
+  * 🗄️ **Master Scan (Pristine Bitstream):** [[1784Land-Leslie-James Loyalist land settlement Port Roseway.png]]
 
 ---
 
@@ -61,12 +53,10 @@ audit_status: passed
 
 | Field / Item | Document Record Value | Corroborated Vault Profile | Evidentiary Significance |
 | :--- | :--- | :--- | :--- |
-| **Documented Person** | `Eliza H Leslie` | [[People/L/Leslie/Eliza H Leslie - URN-GEN-GED-I342469845465\|Eliza H Leslie]] | Verified primary subject/kinship anchor. |
-| **Documented Person** | `Elizabeth Ellen Leslie` | [[People/L/Leslie/Elizabeth Ellen Leslie - URN-GEN-GED-I342588974929\|Elizabeth Ellen Leslie]] | Verified primary subject/kinship anchor. |
-| **Documented Person** | `James Leslie` | [[People/L/Leslie/James Leslie - URN-GEN-GED-I342588963623\|James Leslie]] | Verified primary subject/kinship anchor. |
-| **Documented Person** | `James Leslie Jr` | [[People/L/Leslie/James Leslie Jr - URN-GEN-GED-I342588719967\|James Leslie Jr]] | Verified primary subject/kinship anchor. |
-| **Documented Person** | `Eliza Leslie` | [[People/L/Leslie/Leslie, Eliza 1820 - URN-GEN-1820-EL\|Eliza Leslie]] | Verified primary subject/kinship anchor. |
-| **Documented Person** | `Eliza Leslie` | [[People/L/Leslie/Leslie, Eliza 1824\|Eliza Leslie]] | Verified primary subject/kinship anchor. |
+| **Documented Person** | `Eliza H Leslie` | [[Leslie, Eliza 1824\|Eliza H Leslie]] | Verified primary subject/kinship anchor. |
+| **Documented Person** | `Elizabeth Ellen Leslie` | [[Elizabeth Ellen Leslie - URN-GEN-GED-I342588974929\|Elizabeth Ellen Leslie]] | Verified primary subject/kinship anchor. |
+| **Documented Person** | `James Leslie` | [[James Leslie - URN-GEN-GED-I342588963623\|James Leslie]] | Verified primary subject/kinship anchor. |
+| **Documented Person** | `James Leslie Jr` | [[James Leslie Jr - URN-GEN-GED-I342588719967\|James Leslie Jr]] | Verified primary subject/kinship anchor. |
 | **Jurisdiction** | `North America` | — | Establishes physical and sovereign territorial locus. |
 | **Custodial Archive** | `National Archives & Archival Registries` | — | Certified archival custody chain. |
 
@@ -74,12 +64,10 @@ audit_status: passed
 
 ## 👥 Corroborated Entities & Kinship Network
 The following individuals are formally documented and substantiated within this record:
-* **Verified Profile:** [[People/L/Leslie/Eliza H Leslie - URN-GEN-GED-I342469845465\|Eliza H Leslie]]
-* **Verified Profile:** [[People/L/Leslie/Elizabeth Ellen Leslie - URN-GEN-GED-I342588974929\|Elizabeth Ellen Leslie]]
-* **Verified Profile:** [[People/L/Leslie/James Leslie - URN-GEN-GED-I342588963623\|James Leslie]]
-* **Verified Profile:** [[People/L/Leslie/James Leslie Jr - URN-GEN-GED-I342588719967\|James Leslie Jr]]
-* **Verified Profile:** [[People/L/Leslie/Leslie, Eliza 1820 - URN-GEN-1820-EL\|Eliza Leslie]]
-* **Verified Profile:** [[People/L/Leslie/Leslie, Eliza 1824\|Eliza Leslie]]
+* **Verified Profile:** [[Leslie, Eliza 1824|Eliza H Leslie]]
+* **Verified Profile:** [[Elizabeth Ellen Leslie - URN-GEN-GED-I342588974929|Elizabeth Ellen Leslie]]
+* **Verified Profile:** [[James Leslie - URN-GEN-GED-I342588963623|James Leslie]]
+* **Verified Profile:** [[James Leslie Jr - URN-GEN-GED-I342588719967|James Leslie Jr]]
 
 ---
 

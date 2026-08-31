@@ -9,13 +9,12 @@ tags:
 - topic/source_record
 - provenance/primary_facsimile
 created: '2026-08-30'
-updated: '2026-08-30'
+updated: '2026-08-31'
 status: verified
 version: '1.0'
 source_type: source_record
 people:
-- '[[People/W/Whalen/Whalen, Leonard Seymour 1890-09-10 - URN-GEN-1890-09-LSW|Leonard
-  Seymour Whalen]]'
+- '[[Whalen, Leonard Seymour 1890-09-10 - URN-GEN-1890-09-LSW|Leonard Seymour Whalen]]'
 location: North America
 repository: National Archives & Archival Registries
 author: Civil & Ecclesiastical Registrars
@@ -25,13 +24,12 @@ portfolio:
 quay: 3
 epistemic_tier: 'Tier 1: Primary Archival Facsimile'
 verification_status: verified_empirical
-media_file: '[[Sources/Published_Histories/WWII draft card for Leonard Seymour Whalen.jpg]]'
-master_asset: '[[Sources/Published_Histories/WWII draft card for Leonard Seymour Whalen.jpg]]'
-display_asset: '[[Sources/Published_Histories/WWII draft card for Leonard Seymour
-  Whalen.jpg]]'
+media_file: '[[WWII draft card for Leonard Seymour Whalen.jpg]]'
+master_asset: '[[WWII draft card for Leonard Seymour Whalen.jpg]]'
+display_asset: '[[WWII draft card for Leonard Seymour Whalen.jpg]]'
 sha256: d9b1c8bbe6af8112976c5f65fd267a7ac0fd39d4c41cfdf1e2e5381e713e1746
 audit_tag: verified_empirical
-audit_date: '2026-08-30'
+audit_date: '2026-08-31'
 audit_status: passed
 ---
 
@@ -41,10 +39,10 @@ audit_status: passed
 ---
 
 ## 🏛️ Archival Asset Lineage & Multi-Format Facsimiles
-![[[Sources/Published_Histories/WWII draft card for Leonard Seymour Whalen.jpg]]|850]
+![[WWII draft card for Leonard Seymour Whalen.jpg|850]]
 
 * **Physical Asset Holdings:**
-  * 🗄️ **Master Scan (Pristine Bitstream):** [[Sources/Published_Histories/WWII draft card for Leonard Seymour Whalen.jpg]]
+  * 🗄️ **Master Scan (Pristine Bitstream):** [[WWII draft card for Leonard Seymour Whalen.jpg]]
 
 ---
 
@@ -52,7 +50,7 @@ audit_status: passed
 
 | Field / Item | Document Record Value | Corroborated Vault Profile | Evidentiary Significance |
 | :--- | :--- | :--- | :--- |
-| **Documented Person** | `Leonard Seymour Whalen` | [[People/W/Whalen/Whalen, Leonard Seymour 1890-09-10 - URN-GEN-1890-09-LSW\|Leonard Seymour Whalen]] | Verified primary subject/kinship anchor. |
+| **Documented Person** | `Leonard Seymour Whalen` | [[Whalen, Leonard Seymour 1890-09-10 - URN-GEN-1890-09-LSW\|Leonard Seymour Whalen]] | Verified primary subject/kinship anchor. |
 | **Jurisdiction** | `North America` | — | Establishes physical and sovereign territorial locus. |
 | **Custodial Archive** | `National Archives & Archival Registries` | — | Certified archival custody chain. |
 
@@ -60,7 +58,7 @@ audit_status: passed
 
 ## 👥 Corroborated Entities & Kinship Network
 The following individuals are formally documented and substantiated within this record:
-* **Verified Profile:** [[People/W/Whalen/Whalen, Leonard Seymour 1890-09-10 - URN-GEN-1890-09-LSW\|Leonard Seymour Whalen]]
+* **Verified Profile:** [[Whalen, Leonard Seymour 1890-09-10 - URN-GEN-1890-09-LSW|Leonard Seymour Whalen]]
 
 ---
 

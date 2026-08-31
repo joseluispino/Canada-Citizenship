@@ -3,23 +3,19 @@ doc_type: source
 id: SRC-CENS-1900-1900-HOLLISWHALEN-US
 title: 1900 HollisWhalen US Census p2
 description: Primary genealogical holding for 1900 HollisWhalen US Census p2 documenting
-  2 associated individuals in North America.
+  3 associated individuals in North America.
 tags:
 - topic/genealogy
 - topic/census
 - provenance/primary_facsimile
 created: '2026-08-30'
-updated: '2026-08-30'
+updated: '2026-08-31'
 status: verified
 version: '1.0'
 source_type: census
 people:
-- '[[People/W/Whalen/Timothy Hollis Whalen - URN-GEN-GED-I342544885704|Timothy Hollis
-  Whalen]]'
-- '[[People/W/Whalen/Whalen, Hollis Vernon 1898-12-14 - URN-GEN-1898-12-HVW|Hollis
-  Vernon Whalen]]'
-- '[[People/W/Whalen/Whalen, Hollis Vernon 1898-12-14|Hollis Vernon Whalen]]'
-- '[[People/W/Whalen/Whalen, Hollis Vernon 1898-12-14|Hollis Vernon Whalen]]'
+- '[[Timothy Hollis Whalen - URN-GEN-GED-I342544885704|Timothy Hollis Whalen]]'
+- '[[Whalen, Hollis Vernon 1898-12-14|Hollis Vernon Whalen]]'
 event_date: '1900'
 year: 1900
 location: North America
@@ -31,12 +27,12 @@ portfolio:
 quay: 3
 epistemic_tier: 'Tier 1: Primary Archival Facsimile'
 verification_status: verified_empirical
-media_file: '[[Sources/3-Hollis Vernon Whalen/1900-HollisWhalen-US-Census-p2-line1.jpg]]'
-master_asset: '[[Sources/3-Hollis Vernon Whalen/1900-HollisWhalen-US-Census-p2-line1.jpg]]'
-display_asset: '[[Sources/3-Hollis Vernon Whalen/1900-HollisWhalen-US-Census-p2-line1.jpg]]'
+media_file: '[[1900-HollisWhalen-US-Census-p2-line1.jpg]]'
+master_asset: '[[1900-HollisWhalen-US-Census-p2-line1.jpg]]'
+display_asset: '[[1900-HollisWhalen-US-Census-p2-line1.jpg]]'
 sha256: c4352a68ed0d6fdf6f826373c30b2ffd34cf36c9d4f9f521989ded565e182ec6
 audit_tag: verified_empirical
-audit_date: '2026-08-30'
+audit_date: '2026-08-31'
 audit_status: passed
 ---
 
@@ -46,10 +42,10 @@ audit_status: passed
 ---
 
 ## 🏛️ Archival Asset Lineage & Multi-Format Facsimiles
-![[[Sources/3-Hollis Vernon Whalen/1900-HollisWhalen-US-Census-p2-line1.jpg]]|850]
+![[1900-HollisWhalen-US-Census-p2-line1.jpg|850]]
 
 * **Physical Asset Holdings:**
-  * 🗄️ **Master Scan (Pristine Bitstream):** [[Sources/3-Hollis Vernon Whalen/1900-HollisWhalen-US-Census-p2-line1.jpg]]
+  * 🗄️ **Master Scan (Pristine Bitstream):** [[1900-HollisWhalen-US-Census-p2-line1.jpg]]
 
 ---
 
@@ -57,8 +53,8 @@ audit_status: passed
 
 | Field / Item | Document Record Value | Corroborated Vault Profile | Evidentiary Significance |
 | :--- | :--- | :--- | :--- |
-| **Documented Person** | `Hollis Vernon Whalen` | [[People/W/Whalen/Whalen, Hollis Vernon 1898-12-14 - URN-GEN-1898-12-HVW\|Hollis Vernon Whalen]] | Verified primary subject/kinship anchor. |
-| **Documented Person** | `Hollis Vernon Whalen` | [[People/W/Whalen/Whalen, Hollis Vernon 1898-12-14\|Hollis Vernon Whalen]] | Verified primary subject/kinship anchor. |
+| **Documented Person** | `Timothy Hollis Whalen` | [[Timothy Hollis Whalen - URN-GEN-GED-I342544885704\|Timothy Hollis Whalen]] | Verified primary subject/kinship anchor. |
+| **Documented Person** | `Hollis Vernon Whalen` | [[Whalen, Hollis Vernon 1898-12-14\|Hollis Vernon Whalen]] | Verified primary subject/kinship anchor. |
 | **Event Date / Year** | `1900` | — | Establishes contemporaneous presence and vital milestone. |
 | **Jurisdiction** | `North America` | — | Establishes physical and sovereign territorial locus. |
 | **Custodial Archive** | `National Archives and Records Administration (NARA)` | — | Certified archival custody chain. |
@@ -67,8 +63,8 @@ audit_status: passed
 
 ## 👥 Corroborated Entities & Kinship Network
 The following individuals are formally documented and substantiated within this record:
-* **Verified Profile:** [[People/W/Whalen/Whalen, Hollis Vernon 1898-12-14 - URN-GEN-1898-12-HVW\|Hollis Vernon Whalen]]
-* **Verified Profile:** [[People/W/Whalen/Whalen, Hollis Vernon 1898-12-14\|Hollis Vernon Whalen]]
+* **Verified Profile:** [[Timothy Hollis Whalen - URN-GEN-GED-I342544885704|Timothy Hollis Whalen]]
+* **Verified Profile:** [[Whalen, Hollis Vernon 1898-12-14|Hollis Vernon Whalen]]
 
 ---
 

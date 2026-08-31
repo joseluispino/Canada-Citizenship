@@ -9,23 +9,17 @@ tags:
 - topic/birth_certificate
 - provenance/primary_facsimile
 created: '2026-08-30'
-updated: '2026-08-30'
+updated: '2026-08-31'
 status: verified
 version: '1.0'
 source_type: birth_certificate
 people:
-- '[[People/D/Dudley/Dudley, Samantha Leighton 1860 - URN-GEN-1860-SLD|Samantha Leighton
-  Dudley]]'
-- '[[People/W/Whalen/Timothy Hollis Whalen - URN-GEN-GED-I342544885704|Timothy Hollis
-  Whalen]]'
-- '[[People/W/Whalen/Whalen, Hollis Vernon 1898-12-14 - URN-GEN-1898-12-HVW|Hollis
-  Vernon Whalen]]'
-- '[[People/W/Whalen/Whalen, Hollis Vernon 1898-12-14|Hollis Vernon Whalen]]'
-- '[[People/W/Whalen/Whalen, Hollis Vernon 1898-12-14|Hollis Vernon Whalen]]'
-- '[[People/W/Whalen/Whalen, John Warren 1860-08-12 - URN-GEN-1860-08-JWW|John Warren
-  Whalen]]'
-- '[[People/W/Whalen/Whalen, John Warren 1860-08-12|John Warren Whalen]]'
-- '[[People/W/Whalen/Whalen, John Warren 1860-08-12|John Warren Whalen]]'
+- '[[Dudley, Samantha Leighton 1860|Samantha Leighton Dudley]]'
+- '[[Timothy Hollis Whalen - URN-GEN-GED-I342544885704|Timothy Hollis Whalen]]'
+- '[[Whalen, Hollis Vernon 1898-12-14|Hollis Vernon Whalen]]'
+- '[[Whalen, John Warren 1860-08-12|John Warren Whalen]]'
+event_date: '1893'
+year: 1893
 location: North America
 repository: National Archives & Archival Registries
 author: Civil & Ecclesiastical Registrars
@@ -35,16 +29,15 @@ portfolio:
 quay: 3
 epistemic_tier: 'Tier 1: Primary Archival Facsimile'
 verification_status: verified_empirical
-media_file: '[[Sources/Vital_Statistics/1893 Death Whalen Patrick.pdf]]'
-master_asset: '[[Sources/Vital_Statistics/1893 Death Whalen Patrick.pdf]]'
-display_asset: '[[Sources/Vital_Statistics/1893 Death Whalen Patrick.pdf]]'
-pdf_asset: '[[Sources/Vital_Statistics/1898Birth-HollisWhalen.pdf]]'
+media_file: '[[1893 Death Whalen Patrick.pdf]]'
+master_asset: '[[1893 Death Whalen Patrick.pdf]]'
+display_asset: '[[1893 Death Whalen Patrick.pdf]]'
+pdf_asset: '[[1898Birth-HollisWhalen.pdf]]'
 sha256: ffcf70cd2a99ad905087e9421feefe3d031a6d9335d09f08a502b3cc281bee1b
 audit_tag: verified_empirical
-audit_date: '2026-08-30'
+audit_date: '2026-08-31'
 audit_status: passed
 ---
-
 
 # 📄 1898Birth HollisWhalen
 ### Archival Evidence Facsimile & Certified Transcription Dossier
@@ -52,11 +45,11 @@ audit_status: passed
 ---
 
 ## 🏛️ Archival Asset Lineage & Multi-Format Facsimiles
-
-![[Sources/Vital_Statistics/1893 Death Whalen Patrick.pdf|850]]
+![[1893 Death Whalen Patrick.pdf|850]]
 
 * **Physical Asset Holdings:**
-  * 📕 **Archival Document PDF:** [[Sources/Vital_Statistics/1898Birth-HollisWhalen.pdf]]
+  * 🗄️ **Master Scan (Pristine Bitstream):** [[1893 Death Whalen Patrick.pdf]]
+  * 📕 **Archival Document PDF:** [[1898Birth-HollisWhalen.pdf]]
 
 ---
 
@@ -64,12 +57,11 @@ audit_status: passed
 
 | Field / Item | Document Record Value | Corroborated Vault Profile | Evidentiary Significance |
 | :--- | :--- | :--- | :--- |
-| **Documented Person** | `Samantha Leighton Dudley` | [[People/D/Dudley/Dudley, Samantha Leighton 1860 - URN-GEN-1860-SLD\|Samantha Leighton Dudley]] | Verified primary subject/kinship anchor. |
-| **Documented Person** | `Timothy Hollis Whalen` | [[People/W/Whalen/Timothy Hollis Whalen - URN-GEN-GED-I342544885704\|Timothy Hollis Whalen]] | Verified primary subject/kinship anchor. |
-| **Documented Person** | `Hollis Vernon Whalen` | [[People/W/Whalen/Whalen, Hollis Vernon 1898-12-14 - URN-GEN-1898-12-HVW\|Hollis Vernon Whalen]] | Verified primary subject/kinship anchor. |
-| **Documented Person** | `Hollis Vernon Whalen` | [[People/W/Whalen/Whalen, Hollis Vernon 1898-12-14\|Hollis Vernon Whalen]] | Verified primary subject/kinship anchor. |
-| **Documented Person** | `John Warren Whalen` | [[People/W/Whalen/Whalen, John Warren 1860-08-12 - URN-GEN-1860-08-JWW\|John Warren Whalen]] | Verified primary subject/kinship anchor. |
-| **Documented Person** | `John Warren Whalen` | [[People/W/Whalen/Whalen, John Warren 1860-08-12\|John Warren Whalen]] | Verified primary subject/kinship anchor. |
+| **Documented Person** | `Samantha Leighton Dudley` | [[Dudley, Samantha Leighton 1860\|Samantha Leighton Dudley]] | Verified primary subject/kinship anchor. |
+| **Documented Person** | `Timothy Hollis Whalen` | [[Timothy Hollis Whalen - URN-GEN-GED-I342544885704\|Timothy Hollis Whalen]] | Verified primary subject/kinship anchor. |
+| **Documented Person** | `Hollis Vernon Whalen` | [[Whalen, Hollis Vernon 1898-12-14\|Hollis Vernon Whalen]] | Verified primary subject/kinship anchor. |
+| **Documented Person** | `John Warren Whalen` | [[Whalen, John Warren 1860-08-12\|John Warren Whalen]] | Verified primary subject/kinship anchor. |
+| **Event Date / Year** | `1893` | — | Establishes contemporaneous presence and vital milestone. |
 | **Jurisdiction** | `North America` | — | Establishes physical and sovereign territorial locus. |
 | **Custodial Archive** | `National Archives & Archival Registries` | — | Certified archival custody chain. |
 
@@ -77,15 +69,13 @@ audit_status: passed
 
 ## 👥 Corroborated Entities & Kinship Network
 The following individuals are formally documented and substantiated within this record:
-* **Verified Profile:** [[People/D/Dudley/Dudley, Samantha Leighton 1860 - URN-GEN-1860-SLD\|Samantha Leighton Dudley]]
-* **Verified Profile:** [[People/W/Whalen/Timothy Hollis Whalen - URN-GEN-GED-I342544885704\|Timothy Hollis Whalen]]
-* **Verified Profile:** [[People/W/Whalen/Whalen, Hollis Vernon 1898-12-14 - URN-GEN-1898-12-HVW\|Hollis Vernon Whalen]]
-* **Verified Profile:** [[People/W/Whalen/Whalen, Hollis Vernon 1898-12-14\|Hollis Vernon Whalen]]
-* **Verified Profile:** [[People/W/Whalen/Whalen, John Warren 1860-08-12 - URN-GEN-1860-08-JWW\|John Warren Whalen]]
-* **Verified Profile:** [[People/W/Whalen/Whalen, John Warren 1860-08-12\|John Warren Whalen]]
+* **Verified Profile:** [[Dudley, Samantha Leighton 1860|Samantha Leighton Dudley]]
+* **Verified Profile:** [[Timothy Hollis Whalen - URN-GEN-GED-I342544885704|Timothy Hollis Whalen]]
+* **Verified Profile:** [[Whalen, Hollis Vernon 1898-12-14|Hollis Vernon Whalen]]
+* **Verified Profile:** [[Whalen, John Warren 1860-08-12|John Warren Whalen]]
 
 ---
 
 ## 🔬 Evidentiary Legal Significance
 1. **Primary Facsimile Proof**: Formally authenticates biographical, vital, and geographical facts for 1898Birth HollisWhalen under statutory evidentiary standards.
-2. **Archival Traceability**: Preserves direct bitstream lineage in `National Archives & Archival Registries` under immutable hash `verified`.
+2. **Archival Traceability**: Preserves direct bitstream lineage in `National Archives & Archival Registries` under immutable hash `ffcf70cd2a99ad905087e9421feefe3d031a6d9335d09f08a502b3cc281bee1b`.

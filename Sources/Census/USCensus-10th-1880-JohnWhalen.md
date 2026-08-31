@@ -9,7 +9,7 @@ tags:
 - topic/census
 - provenance/primary_facsimile
 created: '2026-08-30'
-updated: '2026-08-30'
+updated: '2026-08-31'
 status: verified
 version: '1.0'
 source_type: census
@@ -25,12 +25,12 @@ portfolio:
 quay: 3
 epistemic_tier: 'Tier 1: Primary Archival Facsimile'
 verification_status: verified_empirical
-media_file: '[[Sources/Census/USCensus-10th-1880-JohnWhalen.jpg]]'
-master_asset: '[[Sources/Census/USCensus-10th-1880-JohnWhalen.jpg]]'
-display_asset: '[[Sources/Census/USCensus-10th-1880-JohnWhalen.jpg]]'
+media_file: '[[USCensus-10th-1880-JohnWhalen.jpg]]'
+master_asset: '[[USCensus-10th-1880-JohnWhalen.jpg]]'
+display_asset: '[[USCensus-10th-1880-JohnWhalen.jpg]]'
 sha256: 58b1f85dbb7f55d6dcc011b31afe15bf3a95a2fef0326ba223aec92ab3a1872e
 audit_tag: verified_empirical
-audit_date: '2026-08-30'
+audit_date: '2026-08-31'
 audit_status: passed
 ---
 
@@ -40,10 +40,10 @@ audit_status: passed
 ---
 
 ## 🏛️ Archival Asset Lineage & Multi-Format Facsimiles
-![[[Sources/Census/USCensus-10th-1880-JohnWhalen.jpg]]|850]
+![[USCensus-10th-1880-JohnWhalen.jpg|850]]
 
 * **Physical Asset Holdings:**
-  * 🗄️ **Master Scan (Pristine Bitstream):** [[Sources/Census/USCensus-10th-1880-JohnWhalen.jpg]]
+  * 🗄️ **Master Scan (Pristine Bitstream):** [[USCensus-10th-1880-JohnWhalen.jpg]]
 
 ---
 

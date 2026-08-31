@@ -9,7 +9,7 @@ tags:
 - topic/city_directory
 - provenance/primary_facsimile
 created: '2026-08-30'
-updated: '2026-08-30'
+updated: '2026-08-31'
 status: verified
 version: '1.0'
 source_type: city_directory
@@ -23,12 +23,12 @@ portfolio:
 quay: 3
 epistemic_tier: 'Tier 1: Primary Archival Facsimile'
 verification_status: verified_empirical
-media_file: '[[Sources/Published_Histories/1902TownReport-Whalen-JohnW.png]]'
-master_asset: '[[Sources/Published_Histories/1902TownReport-Whalen-JohnW.png]]'
-display_asset: '[[Sources/Published_Histories/1902TownReport-Whalen-JohnW.png]]'
+media_file: '[[1902TownReport-Whalen-JohnW.png]]'
+master_asset: '[[1902TownReport-Whalen-JohnW.png]]'
+display_asset: '[[1902TownReport-Whalen-JohnW.png]]'
 sha256: b85ec3dcba839983707cd3da2acadd6bea61a37fb7b41f47ccd1104e6edce4d1
 audit_tag: verified_empirical
-audit_date: '2026-08-30'
+audit_date: '2026-08-31'
 audit_status: passed
 ---
 
@@ -38,10 +38,10 @@ audit_status: passed
 ---
 
 ## 🏛️ Archival Asset Lineage & Multi-Format Facsimiles
-![[[Sources/Published_Histories/1902TownReport-Whalen-JohnW.png]]|850]
+![[1902TownReport-Whalen-JohnW.png|850]]
 
 * **Physical Asset Holdings:**
-  * 🗄️ **Master Scan (Pristine Bitstream):** [[Sources/Published_Histories/1902TownReport-Whalen-JohnW.png]]
+  * 🗄️ **Master Scan (Pristine Bitstream):** [[1902TownReport-Whalen-JohnW.png]]
 
 ---
 

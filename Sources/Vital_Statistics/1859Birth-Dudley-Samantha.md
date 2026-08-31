@@ -9,13 +9,12 @@ tags:
 - topic/birth_certificate
 - provenance/primary_facsimile
 created: '2026-08-30'
-updated: '2026-08-30'
+updated: '2026-08-31'
 status: verified
 version: '1.0'
 source_type: birth_certificate
 people:
-- '[[People/D/Dudley/Dudley, Samantha 1862 - URN-GEN-1862-SD|Samantha Dudley]]'
-- '[[People/D/Dudley/Dudley, Samantha 1862 - URN-GEN-1862-SD|Samantha Dudley]]'
+- '[[Dudley, Samantha 1862 - URN-GEN-1862-SD|Samantha Dudley]]'
 location: North America
 repository: National Archives & Archival Registries
 author: Civil & Ecclesiastical Registrars
@@ -25,12 +24,12 @@ portfolio:
 quay: 3
 epistemic_tier: 'Tier 1: Primary Archival Facsimile'
 verification_status: verified_empirical
-media_file: '[[Sources/Vital_Statistics/1859Birth-Dudley-Samantha.png]]'
-master_asset: '[[Sources/Vital_Statistics/1859Birth-Dudley-Samantha.png]]'
-display_asset: '[[Sources/Vital_Statistics/1859Birth-Dudley-Samantha.png]]'
+media_file: '[[1859Birth-Dudley-Samantha.png]]'
+master_asset: '[[1859Birth-Dudley-Samantha.png]]'
+display_asset: '[[1859Birth-Dudley-Samantha.png]]'
 sha256: bcde1f99f322cb5ea3987a3252294569f5d9509f13eacd1f61a9cce6860180ea
 audit_tag: verified_empirical
-audit_date: '2026-08-30'
+audit_date: '2026-08-31'
 audit_status: passed
 ---
 
@@ -40,10 +39,10 @@ audit_status: passed
 ---
 
 ## 🏛️ Archival Asset Lineage & Multi-Format Facsimiles
-![[[Sources/Vital_Statistics/1859Birth-Dudley-Samantha.png]]|850]
+![[1859Birth-Dudley-Samantha.png|850]]
 
 * **Physical Asset Holdings:**
-  * 🗄️ **Master Scan (Pristine Bitstream):** [[Sources/Vital_Statistics/1859Birth-Dudley-Samantha.png]]
+  * 🗄️ **Master Scan (Pristine Bitstream):** [[1859Birth-Dudley-Samantha.png]]
 
 ---
 
@@ -51,7 +50,7 @@ audit_status: passed
 
 | Field / Item | Document Record Value | Corroborated Vault Profile | Evidentiary Significance |
 | :--- | :--- | :--- | :--- |
-| **Documented Person** | `Samantha Dudley` | [[People/D/Dudley/Dudley, Samantha 1862 - URN-GEN-1862-SD\|Samantha Dudley]] | Verified primary subject/kinship anchor. |
+| **Documented Person** | `Samantha Dudley` | [[Dudley, Samantha 1862 - URN-GEN-1862-SD\|Samantha Dudley]] | Verified primary subject/kinship anchor. |
 | **Jurisdiction** | `North America` | — | Establishes physical and sovereign territorial locus. |
 | **Custodial Archive** | `National Archives & Archival Registries` | — | Certified archival custody chain. |
 
@@ -59,7 +58,7 @@ audit_status: passed
 
 ## 👥 Corroborated Entities & Kinship Network
 The following individuals are formally documented and substantiated within this record:
-* **Verified Profile:** [[People/D/Dudley/Dudley, Samantha 1862 - URN-GEN-1862-SD\|Samantha Dudley]]
+* **Verified Profile:** [[Dudley, Samantha 1862 - URN-GEN-1862-SD|Samantha Dudley]]
 
 ---
 

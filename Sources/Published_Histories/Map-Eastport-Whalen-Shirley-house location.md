@@ -9,15 +9,12 @@ tags:
 - topic/source_record
 - provenance/primary_facsimile
 created: '2026-08-30'
-updated: '2026-08-30'
+updated: '2026-08-31'
 status: verified
 version: '1.0'
 source_type: source_record
 people:
-- '[[People/W/Whalen/Whalen, Shirley Ann 1936-09-02 - URN-GEN-1936-09-SWP|Shirley
-  Ann Whalen]]'
-- '[[People/W/Whalen/Whalen, Shirley Ann 1936-09-02|Shirley Ann Whalen]]'
-- '[[People/W/Whalen/Whalen, Shirley Ann 1936-09-02|Shirley Ann Whalen]]'
+- '[[Whalen, Shirley Ann 1936-09-02|Shirley Ann Whalen]]'
 location: Eastport, Washington County, Maine, USA
 repository: National Archives & Archival Registries
 author: Civil & Ecclesiastical Registrars
@@ -27,12 +24,12 @@ portfolio:
 quay: 3
 epistemic_tier: 'Tier 1: Primary Archival Facsimile'
 verification_status: verified_empirical
-media_file: '[[Sources/Published_Histories/Map-Eastport-Whalen-Shirley-house location.png]]'
-master_asset: '[[Sources/Published_Histories/Map-Eastport-Whalen-Shirley-house location.png]]'
-display_asset: '[[Sources/Published_Histories/Map-Eastport-Whalen-Shirley-house location.png]]'
+media_file: '[[Map-Eastport-Whalen-Shirley-house location.png]]'
+master_asset: '[[Map-Eastport-Whalen-Shirley-house location.png]]'
+display_asset: '[[Map-Eastport-Whalen-Shirley-house location.png]]'
 sha256: 2e7a20aa5cd00c5b2cb6baa7e39386d0dd9164f8dde103f520e5e9002478901a
 audit_tag: verified_empirical
-audit_date: '2026-08-30'
+audit_date: '2026-08-31'
 audit_status: passed
 ---
 
@@ -42,10 +39,10 @@ audit_status: passed
 ---
 
 ## 🏛️ Archival Asset Lineage & Multi-Format Facsimiles
-![[[Sources/Published_Histories/Map-Eastport-Whalen-Shirley-house location.png]]|850]
+![[Map-Eastport-Whalen-Shirley-house location.png|850]]
 
 * **Physical Asset Holdings:**
-  * 🗄️ **Master Scan (Pristine Bitstream):** [[Sources/Published_Histories/Map-Eastport-Whalen-Shirley-house location.png]]
+  * 🗄️ **Master Scan (Pristine Bitstream):** [[Map-Eastport-Whalen-Shirley-house location.png]]
 
 ---
 
@@ -53,8 +50,7 @@ audit_status: passed
 
 | Field / Item | Document Record Value | Corroborated Vault Profile | Evidentiary Significance |
 | :--- | :--- | :--- | :--- |
-| **Documented Person** | `Shirley Ann Whalen` | [[People/W/Whalen/Whalen, Shirley Ann 1936-09-02 - URN-GEN-1936-09-SWP\|Shirley Ann Whalen]] | Verified primary subject/kinship anchor. |
-| **Documented Person** | `Shirley Ann Whalen` | [[People/W/Whalen/Whalen, Shirley Ann 1936-09-02\|Shirley Ann Whalen]] | Verified primary subject/kinship anchor. |
+| **Documented Person** | `Shirley Ann Whalen` | [[Whalen, Shirley Ann 1936-09-02\|Shirley Ann Whalen]] | Verified primary subject/kinship anchor. |
 | **Jurisdiction** | `Eastport, Washington County, Maine, USA` | — | Establishes physical and sovereign territorial locus. |
 | **Custodial Archive** | `National Archives & Archival Registries` | — | Certified archival custody chain. |
 
@@ -62,8 +58,7 @@ audit_status: passed
 
 ## 👥 Corroborated Entities & Kinship Network
 The following individuals are formally documented and substantiated within this record:
-* **Verified Profile:** [[People/W/Whalen/Whalen, Shirley Ann 1936-09-02 - URN-GEN-1936-09-SWP\|Shirley Ann Whalen]]
-* **Verified Profile:** [[People/W/Whalen/Whalen, Shirley Ann 1936-09-02\|Shirley Ann Whalen]]
+* **Verified Profile:** [[Whalen, Shirley Ann 1936-09-02|Shirley Ann Whalen]]
 
 ---
 

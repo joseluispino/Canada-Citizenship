@@ -9,13 +9,12 @@ tags:
 - topic/source_record
 - provenance/primary_facsimile
 created: '2026-08-30'
-updated: '2026-08-30'
+updated: '2026-08-31'
 status: verified
 version: '1.0'
 source_type: source_record
 people:
-- '[[People/M/Mitchner/Mitchner, Abel - URN-GEN-AM|Abel Mitchener]]'
-- '[[People/M/Mitchner/Mitchner, Abel - URN-GEN-AM|Abel Mitchener]]'
+- '[[Mitchner, Abel - URN-GEN-AM|Abel Mitchener]]'
 location: North America
 repository: National Archives & Archival Registries
 author: Civil & Ecclesiastical Registrars
@@ -25,12 +24,12 @@ portfolio:
 quay: 3
 epistemic_tier: 'Tier 1: Primary Archival Facsimile'
 verification_status: verified_empirical
-media_file: '[[Sources/Vital_Statistics/1761Legal-Michener-Abel.png]]'
-master_asset: '[[Sources/Vital_Statistics/1761Legal-Michener-Abel.png]]'
-display_asset: '[[Sources/Vital_Statistics/1761Legal-Michener-Abel.png]]'
+media_file: '[[1761Legal-Michener-Abel.png]]'
+master_asset: '[[1761Legal-Michener-Abel.png]]'
+display_asset: '[[1761Legal-Michener-Abel.png]]'
 sha256: efb82132b78ab0594a2403f16fac7bcd37ba7680049088499827be73653e6ef7
 audit_tag: verified_empirical
-audit_date: '2026-08-30'
+audit_date: '2026-08-31'
 audit_status: passed
 ---
 
@@ -40,10 +39,10 @@ audit_status: passed
 ---
 
 ## 🏛️ Archival Asset Lineage & Multi-Format Facsimiles
-![[[Sources/Vital_Statistics/1761Legal-Michener-Abel.png]]|850]
+![[1761Legal-Michener-Abel.png|850]]
 
 * **Physical Asset Holdings:**
-  * 🗄️ **Master Scan (Pristine Bitstream):** [[Sources/Vital_Statistics/1761Legal-Michener-Abel.png]]
+  * 🗄️ **Master Scan (Pristine Bitstream):** [[1761Legal-Michener-Abel.png]]
 
 ---
 
@@ -51,7 +50,7 @@ audit_status: passed
 
 | Field / Item | Document Record Value | Corroborated Vault Profile | Evidentiary Significance |
 | :--- | :--- | :--- | :--- |
-| **Documented Person** | `Abel Mitchener` | [[People/M/Mitchner/Mitchner, Abel - URN-GEN-AM\|Abel Mitchener]] | Verified primary subject/kinship anchor. |
+| **Documented Person** | `Abel Mitchener` | [[Mitchner, Abel - URN-GEN-AM\|Abel Mitchener]] | Verified primary subject/kinship anchor. |
 | **Jurisdiction** | `North America` | — | Establishes physical and sovereign territorial locus. |
 | **Custodial Archive** | `National Archives & Archival Registries` | — | Certified archival custody chain. |
 
@@ -59,7 +58,7 @@ audit_status: passed
 
 ## 👥 Corroborated Entities & Kinship Network
 The following individuals are formally documented and substantiated within this record:
-* **Verified Profile:** [[People/M/Mitchner/Mitchner, Abel - URN-GEN-AM\|Abel Mitchener]]
+* **Verified Profile:** [[Mitchner, Abel - URN-GEN-AM|Abel Mitchener]]
 
 ---
 

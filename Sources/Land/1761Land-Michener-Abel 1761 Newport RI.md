@@ -9,13 +9,12 @@ tags:
 - topic/land_deed
 - provenance/primary_facsimile
 created: '2026-08-30'
-updated: '2026-08-30'
+updated: '2026-08-31'
 status: verified
 version: '1.0'
 source_type: land_deed
 people:
-- '[[People/M/Mitchner/Mitchner, Abel - URN-GEN-AM|Abel Mitchener]]'
-- '[[People/M/Mitchner/Mitchner, Abel - URN-GEN-AM|Abel Mitchener]]'
+- '[[Mitchner, Abel - URN-GEN-AM|Abel Mitchener]]'
 event_date: '1761'
 year: 1761
 location: North America
@@ -27,12 +26,12 @@ portfolio:
 quay: 3
 epistemic_tier: 'Tier 1: Primary Archival Facsimile'
 verification_status: verified_empirical
-media_file: '[[Sources/Land/1761Land-Michener-Abel 1761 Newport RI.png]]'
-master_asset: '[[Sources/Land/1761Land-Michener-Abel 1761 Newport RI.png]]'
-display_asset: '[[Sources/Land/1761Land-Michener-Abel 1761 Newport RI.png]]'
+media_file: '[[1761Land-Michener-Abel 1761 Newport RI.png]]'
+master_asset: '[[1761Land-Michener-Abel 1761 Newport RI.png]]'
+display_asset: '[[1761Land-Michener-Abel 1761 Newport RI.png]]'
 sha256: 7b2004a7bd3be517b24f7d80c23b1b23d3c61a39156af8204b64a49062b70920
 audit_tag: verified_empirical
-audit_date: '2026-08-30'
+audit_date: '2026-08-31'
 audit_status: passed
 ---
 
@@ -42,10 +41,10 @@ audit_status: passed
 ---
 
 ## 🏛️ Archival Asset Lineage & Multi-Format Facsimiles
-![[[Sources/Land/1761Land-Michener-Abel 1761 Newport RI.png]]|850]
+![[1761Land-Michener-Abel 1761 Newport RI.png|850]]
 
 * **Physical Asset Holdings:**
-  * 🗄️ **Master Scan (Pristine Bitstream):** [[Sources/Land/1761Land-Michener-Abel 1761 Newport RI.png]]
+  * 🗄️ **Master Scan (Pristine Bitstream):** [[1761Land-Michener-Abel 1761 Newport RI.png]]
 
 ---
 
@@ -53,7 +52,7 @@ audit_status: passed
 
 | Field / Item | Document Record Value | Corroborated Vault Profile | Evidentiary Significance |
 | :--- | :--- | :--- | :--- |
-| **Documented Person** | `Abel Mitchener` | [[People/M/Mitchner/Mitchner, Abel - URN-GEN-AM\|Abel Mitchener]] | Verified primary subject/kinship anchor. |
+| **Documented Person** | `Abel Mitchener` | [[Mitchner, Abel - URN-GEN-AM\|Abel Mitchener]] | Verified primary subject/kinship anchor. |
 | **Event Date / Year** | `1761` | — | Establishes contemporaneous presence and vital milestone. |
 | **Jurisdiction** | `North America` | — | Establishes physical and sovereign territorial locus. |
 | **Custodial Archive** | `National Archives & Archival Registries` | — | Certified archival custody chain. |
@@ -62,7 +61,7 @@ audit_status: passed
 
 ## 👥 Corroborated Entities & Kinship Network
 The following individuals are formally documented and substantiated within this record:
-* **Verified Profile:** [[People/M/Mitchner/Mitchner, Abel - URN-GEN-AM\|Abel Mitchener]]
+* **Verified Profile:** [[Mitchner, Abel - URN-GEN-AM|Abel Mitchener]]
 
 ---
 

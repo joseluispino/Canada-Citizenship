@@ -9,7 +9,7 @@ tags:
 - topic/death_certificate
 - provenance/primary_facsimile
 created: '2026-08-30'
-updated: '2026-08-30'
+updated: '2026-08-31'
 status: verified
 version: '1.0'
 source_type: death_certificate
@@ -25,12 +25,12 @@ portfolio:
 quay: 3
 epistemic_tier: 'Tier 1: Primary Archival Facsimile'
 verification_status: verified_empirical
-media_file: '[[Sources/Vital_Statistics/1932-Death-Whalen-Elva.png]]'
-master_asset: '[[Sources/Vital_Statistics/1932-Death-Whalen-Elva.png]]'
-display_asset: '[[Sources/Vital_Statistics/1932-Death-Whalen-Elva.png]]'
+media_file: '[[1932-Death-Whalen-Elva.png]]'
+master_asset: '[[1932-Death-Whalen-Elva.png]]'
+display_asset: '[[1932-Death-Whalen-Elva.png]]'
 sha256: b738c35b9e2637b0c05f8cd9653b49911779f0d597ecdbe2c82046093648a2ff
 audit_tag: verified_empirical
-audit_date: '2026-08-30'
+audit_date: '2026-08-31'
 audit_status: passed
 ---
 
@@ -40,10 +40,10 @@ audit_status: passed
 ---
 
 ## 🏛️ Archival Asset Lineage & Multi-Format Facsimiles
-![[[Sources/Vital_Statistics/1932-Death-Whalen-Elva.png]]|850]
+![[1932-Death-Whalen-Elva.png|850]]
 
 * **Physical Asset Holdings:**
-  * 🗄️ **Master Scan (Pristine Bitstream):** [[Sources/Vital_Statistics/1932-Death-Whalen-Elva.png]]
+  * 🗄️ **Master Scan (Pristine Bitstream):** [[1932-Death-Whalen-Elva.png]]
 
 ---
 

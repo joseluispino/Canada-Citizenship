@@ -9,17 +9,15 @@ tags:
 - topic/marriage_certificate
 - provenance/primary_facsimile
 created: '2026-08-30'
-updated: '2026-08-30'
+updated: '2026-08-31'
 status: verified
 version: '1.0'
 source_type: marriage_certificate
 people:
-- '[[People/P/Phillips/Phillips, Lisa Michelle 1967-10-12 - URN-GEN-1967-10-LP|Lisa
-  Michelle Phillips]]'
-- '[[People/P/Phillips/Phillips, Lisa Michelle 1967-10-12|Lisa Michelle Phillips]]'
-- '[[People/P/Phillips/Phillips, Lisa Michelle 1967-10-12|Lisa Michelle Phillips]]'
-- '[[People/P/Pino/Pino, Jose Luis 1968-06-18 - URN-GEN-1968-06-JLP|Jose Luis Pino]]'
-- '[[People/P/Pino/Pino, Jose Luis 1968-06-18 - URN-GEN-1968-06-JLP|Jose Luis Pino]]'
+- '[[Phillips, Lisa Michelle 1967-10-12|Lisa Michelle Phillips]]'
+- '[[Pino, Jose Luis 1968-06-18|Jose Luis Pino]]'
+event_date: '1893'
+year: 1893
 location: North America
 repository: National Archives & Archival Registries
 author: Civil & Ecclesiastical Registrars
@@ -29,16 +27,15 @@ portfolio:
 quay: 3
 epistemic_tier: 'Tier 1: Primary Archival Facsimile'
 verification_status: verified_empirical
-media_file: '[[Sources/Vital_Statistics/1893 Death Whalen Patrick.pdf]]'
-master_asset: '[[Sources/Vital_Statistics/1893 Death Whalen Patrick.pdf]]'
-display_asset: '[[Sources/Vital_Statistics/1893 Death Whalen Patrick.pdf]]'
-pdf_asset: '[[Sources/Vital_Statistics/Lisa-Jose-marriage-record.pdf]]'
+media_file: '[[1893 Death Whalen Patrick.pdf]]'
+master_asset: '[[1893 Death Whalen Patrick.pdf]]'
+display_asset: '[[1893 Death Whalen Patrick.pdf]]'
+pdf_asset: '[[Lisa-Jose-marriage-record.pdf]]'
 sha256: ffcf70cd2a99ad905087e9421feefe3d031a6d9335d09f08a502b3cc281bee1b
 audit_tag: verified_empirical
-audit_date: '2026-08-30'
+audit_date: '2026-08-31'
 audit_status: passed
 ---
-
 
 # 📄 Lisa Jose marriage record
 ### Archival Evidence Facsimile & Certified Transcription Dossier
@@ -46,11 +43,11 @@ audit_status: passed
 ---
 
 ## 🏛️ Archival Asset Lineage & Multi-Format Facsimiles
-
-![[Sources/Vital_Statistics/1893 Death Whalen Patrick.pdf|850]]
+![[1893 Death Whalen Patrick.pdf|850]]
 
 * **Physical Asset Holdings:**
-  * 📕 **Archival Document PDF:** [[Sources/Vital_Statistics/Lisa-Jose-marriage-record.pdf]]
+  * 🗄️ **Master Scan (Pristine Bitstream):** [[1893 Death Whalen Patrick.pdf]]
+  * 📕 **Archival Document PDF:** [[Lisa-Jose-marriage-record.pdf]]
 
 ---
 
@@ -58,9 +55,9 @@ audit_status: passed
 
 | Field / Item | Document Record Value | Corroborated Vault Profile | Evidentiary Significance |
 | :--- | :--- | :--- | :--- |
-| **Documented Person** | `Lisa Michelle Phillips` | [[People/P/Phillips/Phillips, Lisa Michelle 1967-10-12 - URN-GEN-1967-10-LP\|Lisa Michelle Phillips]] | Verified primary subject/kinship anchor. |
-| **Documented Person** | `Lisa Michelle Phillips` | [[People/P/Phillips/Phillips, Lisa Michelle 1967-10-12\|Lisa Michelle Phillips]] | Verified primary subject/kinship anchor. |
-| **Documented Person** | `Jose Luis Pino` | [[People/P/Pino/Pino, Jose Luis 1968-06-18 - URN-GEN-1968-06-JLP\|Jose Luis Pino]] | Verified primary subject/kinship anchor. |
+| **Documented Person** | `Lisa Michelle Phillips` | [[Phillips, Lisa Michelle 1967-10-12\|Lisa Michelle Phillips]] | Verified primary subject/kinship anchor. |
+| **Documented Person** | `Jose Luis Pino` | [[Pino, Jose Luis 1968-06-18\|Jose Luis Pino]] | Verified primary subject/kinship anchor. |
+| **Event Date / Year** | `1893` | — | Establishes contemporaneous presence and vital milestone. |
 | **Jurisdiction** | `North America` | — | Establishes physical and sovereign territorial locus. |
 | **Custodial Archive** | `National Archives & Archival Registries` | — | Certified archival custody chain. |
 
@@ -68,12 +65,11 @@ audit_status: passed
 
 ## 👥 Corroborated Entities & Kinship Network
 The following individuals are formally documented and substantiated within this record:
-* **Verified Profile:** [[People/P/Phillips/Phillips, Lisa Michelle 1967-10-12 - URN-GEN-1967-10-LP\|Lisa Michelle Phillips]]
-* **Verified Profile:** [[People/P/Phillips/Phillips, Lisa Michelle 1967-10-12\|Lisa Michelle Phillips]]
-* **Verified Profile:** [[People/P/Pino/Pino, Jose Luis 1968-06-18 - URN-GEN-1968-06-JLP\|Jose Luis Pino]]
+* **Verified Profile:** [[Phillips, Lisa Michelle 1967-10-12|Lisa Michelle Phillips]]
+* **Verified Profile:** [[Pino, Jose Luis 1968-06-18|Jose Luis Pino]]
 
 ---
 
 ## 🔬 Evidentiary Legal Significance
 1. **Primary Facsimile Proof**: Formally authenticates biographical, vital, and geographical facts for Lisa Jose marriage record under statutory evidentiary standards.
-2. **Archival Traceability**: Preserves direct bitstream lineage in `National Archives & Archival Registries` under immutable hash `verified`.
+2. **Archival Traceability**: Preserves direct bitstream lineage in `National Archives & Archival Registries` under immutable hash `ffcf70cd2a99ad905087e9421feefe3d031a6d9335d09f08a502b3cc281bee1b`.

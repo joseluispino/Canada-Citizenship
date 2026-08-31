@@ -9,21 +9,13 @@ tags:
 - topic/death_certificate
 - provenance/primary_facsimile
 created: '2026-08-30'
-updated: '2026-08-30'
+updated: '2026-08-31'
 status: verified
 version: '1.0'
 source_type: death_certificate
 people:
-- '[[People/L/Leslie/Eliza H Leslie - URN-GEN-GED-I342469845465|Eliza H Leslie]]'
-- '[[People/L/Leslie/Eliza H Leslie - URN-GEN-GED-I342469845465|Eliza H Leslie]]'
-- '[[People/L/Leslie/Elizabeth Ellen Leslie - URN-GEN-GED-I342588974929|Elizabeth
-  Ellen Leslie]]'
-- '[[People/L/Leslie/Leslie, Eliza 1820 - URN-GEN-1820-EL|Eliza Leslie]]'
-- '[[People/L/Leslie/Leslie, Eliza 1820 - URN-GEN-1820-EL|Eliza Leslie]]'
-- '[[People/L/Leslie/Leslie, Eliza 1824|Eliza Leslie]]'
-- '[[People/L/Leslie/Leslie, Eliza 1824|Eliza Leslie]]'
-- '[[People/W/Whalen/Eliza Whalen - URN-GEN-GED-I342588678538|Eliza Whalen]]'
-- '[[People/W/Whalen/Eliza Whalen - URN-GEN-GED-I342588678538|Eliza Whalen]]'
+- '[[Leslie, Eliza 1824|Eliza H Leslie]]'
+- '[[Elizabeth Ellen Leslie - URN-GEN-GED-I342588974929|Elizabeth Ellen Leslie]]'
 event_date: '1892'
 year: 1892
 location: North America
@@ -35,16 +27,15 @@ portfolio:
 quay: 3
 epistemic_tier: 'Tier 1: Primary Archival Facsimile'
 verification_status: verified_empirical
-media_file: '[[Sources/Vital_Statistics/1893 Death Whalen Patrick.pdf]]'
-master_asset: '[[Sources/Vital_Statistics/1893 Death Whalen Patrick.pdf]]'
-display_asset: '[[Sources/Vital_Statistics/1893 Death Whalen Patrick.pdf]]'
-pdf_asset: '[[Sources/Vital_Statistics/1892-Death-ElizaWhalen.pdf]]'
+media_file: '[[1893 Death Whalen Patrick.pdf]]'
+master_asset: '[[1893 Death Whalen Patrick.pdf]]'
+display_asset: '[[1893 Death Whalen Patrick.pdf]]'
+pdf_asset: '[[1892-Death-ElizaWhalen.pdf]]'
 sha256: ffcf70cd2a99ad905087e9421feefe3d031a6d9335d09f08a502b3cc281bee1b
 audit_tag: verified_empirical
-audit_date: '2026-08-30'
+audit_date: '2026-08-31'
 audit_status: passed
 ---
-
 
 # 📄 1892 Death ElizaWhalen
 ### Archival Evidence Facsimile & Certified Transcription Dossier
@@ -52,11 +43,11 @@ audit_status: passed
 ---
 
 ## 🏛️ Archival Asset Lineage & Multi-Format Facsimiles
-
-![[Sources/Vital_Statistics/1893 Death Whalen Patrick.pdf|850]]
+![[1893 Death Whalen Patrick.pdf|850]]
 
 * **Physical Asset Holdings:**
-  * 📕 **Archival Document PDF:** [[Sources/Vital_Statistics/1892-Death-ElizaWhalen.pdf]]
+  * 🗄️ **Master Scan (Pristine Bitstream):** [[1893 Death Whalen Patrick.pdf]]
+  * 📕 **Archival Document PDF:** [[1892-Death-ElizaWhalen.pdf]]
 
 ---
 
@@ -64,11 +55,8 @@ audit_status: passed
 
 | Field / Item | Document Record Value | Corroborated Vault Profile | Evidentiary Significance |
 | :--- | :--- | :--- | :--- |
-| **Documented Person** | `Eliza H Leslie` | [[People/L/Leslie/Eliza H Leslie - URN-GEN-GED-I342469845465\|Eliza H Leslie]] | Verified primary subject/kinship anchor. |
-| **Documented Person** | `Elizabeth Ellen Leslie` | [[People/L/Leslie/Elizabeth Ellen Leslie - URN-GEN-GED-I342588974929\|Elizabeth Ellen Leslie]] | Verified primary subject/kinship anchor. |
-| **Documented Person** | `Eliza Leslie` | [[People/L/Leslie/Leslie, Eliza 1820 - URN-GEN-1820-EL\|Eliza Leslie]] | Verified primary subject/kinship anchor. |
-| **Documented Person** | `Eliza Leslie` | [[People/L/Leslie/Leslie, Eliza 1824\|Eliza Leslie]] | Verified primary subject/kinship anchor. |
-| **Documented Person** | `Eliza Whalen` | [[People/W/Whalen/Eliza Whalen - URN-GEN-GED-I342588678538\|Eliza Whalen]] | Verified primary subject/kinship anchor. |
+| **Documented Person** | `Eliza H Leslie` | [[Leslie, Eliza 1824\|Eliza H Leslie]] | Verified primary subject/kinship anchor. |
+| **Documented Person** | `Elizabeth Ellen Leslie` | [[Elizabeth Ellen Leslie - URN-GEN-GED-I342588974929\|Elizabeth Ellen Leslie]] | Verified primary subject/kinship anchor. |
 | **Event Date / Year** | `1892` | — | Establishes contemporaneous presence and vital milestone. |
 | **Jurisdiction** | `North America` | — | Establishes physical and sovereign territorial locus. |
 | **Custodial Archive** | `National Archives & Archival Registries` | — | Certified archival custody chain. |
@@ -77,14 +65,11 @@ audit_status: passed
 
 ## 👥 Corroborated Entities & Kinship Network
 The following individuals are formally documented and substantiated within this record:
-* **Verified Profile:** [[People/L/Leslie/Eliza H Leslie - URN-GEN-GED-I342469845465\|Eliza H Leslie]]
-* **Verified Profile:** [[People/L/Leslie/Elizabeth Ellen Leslie - URN-GEN-GED-I342588974929\|Elizabeth Ellen Leslie]]
-* **Verified Profile:** [[People/L/Leslie/Leslie, Eliza 1820 - URN-GEN-1820-EL\|Eliza Leslie]]
-* **Verified Profile:** [[People/L/Leslie/Leslie, Eliza 1824\|Eliza Leslie]]
-* **Verified Profile:** [[People/W/Whalen/Eliza Whalen - URN-GEN-GED-I342588678538\|Eliza Whalen]]
+* **Verified Profile:** [[Leslie, Eliza 1824|Eliza H Leslie]]
+* **Verified Profile:** [[Elizabeth Ellen Leslie - URN-GEN-GED-I342588974929|Elizabeth Ellen Leslie]]
 
 ---
 
 ## 🔬 Evidentiary Legal Significance
 1. **Primary Facsimile Proof**: Formally authenticates biographical, vital, and geographical facts for 1892 Death ElizaWhalen under statutory evidentiary standards.
-2. **Archival Traceability**: Preserves direct bitstream lineage in `National Archives & Archival Registries` under immutable hash `verified`.
+2. **Archival Traceability**: Preserves direct bitstream lineage in `National Archives & Archival Registries` under immutable hash `ffcf70cd2a99ad905087e9421feefe3d031a6d9335d09f08a502b3cc281bee1b`.

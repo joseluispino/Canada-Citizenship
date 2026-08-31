@@ -9,7 +9,7 @@ tags:
 - topic/city_directory
 - provenance/primary_facsimile
 created: '2026-08-30'
-updated: '2026-08-30'
+updated: '2026-08-31'
 status: verified
 version: '1.0'
 source_type: city_directory
@@ -25,12 +25,12 @@ portfolio:
 quay: 3
 epistemic_tier: 'Tier 1: Primary Archival Facsimile'
 verification_status: verified_empirical
-media_file: '[[Sources/Published_Histories/1901 Eastport Directory.png]]'
-master_asset: '[[Sources/Published_Histories/1901 Eastport Directory.png]]'
-display_asset: '[[Sources/Published_Histories/1901 Eastport Directory.png]]'
+media_file: '[[1901 Eastport Directory.png]]'
+master_asset: '[[1901 Eastport Directory.png]]'
+display_asset: '[[1901 Eastport Directory.png]]'
 sha256: ca0763214fa9832716b554a68f5256175d02f8da0deedea1a198bce97ec4abbc
 audit_tag: verified_empirical
-audit_date: '2026-08-30'
+audit_date: '2026-08-31'
 audit_status: passed
 ---
 
@@ -40,10 +40,10 @@ audit_status: passed
 ---
 
 ## 🏛️ Archival Asset Lineage & Multi-Format Facsimiles
-![[[Sources/Published_Histories/1901 Eastport Directory.png]]|850]
+![[1901 Eastport Directory.png|850]]
 
 * **Physical Asset Holdings:**
-  * 🗄️ **Master Scan (Pristine Bitstream):** [[Sources/Published_Histories/1901 Eastport Directory.png]]
+  * 🗄️ **Master Scan (Pristine Bitstream):** [[1901 Eastport Directory.png]]
 
 ---
 

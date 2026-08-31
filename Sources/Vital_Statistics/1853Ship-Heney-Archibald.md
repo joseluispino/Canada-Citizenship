@@ -3,23 +3,20 @@ doc_type: source
 id: SRC-SOUR-HIST-1853SHIP-HENEY-ARCHI
 title: 1853Ship Heney Archibald
 description: Primary genealogical holding for 1853Ship Heney Archibald documenting
-  4 associated individuals in North America.
+  3 associated individuals in North America.
 tags:
 - topic/genealogy
 - topic/source_record
 - provenance/primary_facsimile
 created: '2026-08-30'
-updated: '2026-08-30'
+updated: '2026-08-31'
 status: verified
 version: '1.0'
 source_type: source_record
 people:
-- '[[People/Archived/Archibald T. Heney Sr. - URN-GEN-GED-I342688436717|Archibald
-  T. Heney Sr]]'
-- '[[People/H/HENEY/ARCHIBALD T HENEY - URN-GEN-GED-I342687318057|Archibald T Heney]]'
-- '[[People/H/Heney/Archibald Heney - URN-GEN-GED-I342688580461|Archibald Heney]]'
-- '[[People/H/Heney/Heney, Huldah - URN-GEN-HH|Huldah Heney]]'
-- '[[People/H/Heney/Heney, Huldah - URN-GEN-HH|Huldah Heney]]'
+- '[[ARCHIBALD T HENEY - URN-GEN-GED-I342687318057|Archibald T Heney]]'
+- '[[Archibald Heney - URN-GEN-GED-I342688580461|Archibald Heney]]'
+- '[[Archibald T. Heney Sr. - URN-GEN-GED-I342688436717|Archibald T. Heney Sr]]'
 location: North America
 repository: National Archives & Archival Registries
 author: Civil & Ecclesiastical Registrars
@@ -29,12 +26,12 @@ portfolio:
 quay: 3
 epistemic_tier: 'Tier 1: Primary Archival Facsimile'
 verification_status: verified_empirical
-media_file: '[[Sources/Vital_Statistics/1853Ship-Heney-Archibald.png]]'
-master_asset: '[[Sources/Vital_Statistics/1853Ship-Heney-Archibald.png]]'
-display_asset: '[[Sources/Vital_Statistics/1853Ship-Heney-Archibald.png]]'
+media_file: '[[1853Ship-Heney-Archibald.png]]'
+master_asset: '[[1853Ship-Heney-Archibald.png]]'
+display_asset: '[[1853Ship-Heney-Archibald.png]]'
 sha256: 077dcffe904394f25e64b88fd54468a786368b1b0211df895d3e6d3edbf3fe3c
 audit_tag: verified_empirical
-audit_date: '2026-08-30'
+audit_date: '2026-08-31'
 audit_status: passed
 ---
 
@@ -44,10 +41,10 @@ audit_status: passed
 ---
 
 ## 🏛️ Archival Asset Lineage & Multi-Format Facsimiles
-![[[Sources/Vital_Statistics/1853Ship-Heney-Archibald.png]]|850]
+![[1853Ship-Heney-Archibald.png|850]]
 
 * **Physical Asset Holdings:**
-  * 🗄️ **Master Scan (Pristine Bitstream):** [[Sources/Vital_Statistics/1853Ship-Heney-Archibald.png]]
+  * 🗄️ **Master Scan (Pristine Bitstream):** [[1853Ship-Heney-Archibald.png]]
 
 ---
 
@@ -55,10 +52,9 @@ audit_status: passed
 
 | Field / Item | Document Record Value | Corroborated Vault Profile | Evidentiary Significance |
 | :--- | :--- | :--- | :--- |
-| **Documented Person** | `Archibald T. Heney Sr` | [[People/Archived/Archibald T. Heney Sr. - URN-GEN-GED-I342688436717\|Archibald T. Heney Sr]] | Verified primary subject/kinship anchor. |
-| **Documented Person** | `Archibald T Heney` | [[People/H/HENEY/ARCHIBALD T HENEY - URN-GEN-GED-I342687318057\|Archibald T Heney]] | Verified primary subject/kinship anchor. |
-| **Documented Person** | `Archibald Heney` | [[People/H/Heney/Archibald Heney - URN-GEN-GED-I342688580461\|Archibald Heney]] | Verified primary subject/kinship anchor. |
-| **Documented Person** | `Huldah Heney` | [[People/H/Heney/Heney, Huldah - URN-GEN-HH\|Huldah Heney]] | Verified primary subject/kinship anchor. |
+| **Documented Person** | `Archibald T Heney` | [[ARCHIBALD T HENEY - URN-GEN-GED-I342687318057\|Archibald T Heney]] | Verified primary subject/kinship anchor. |
+| **Documented Person** | `Archibald Heney` | [[Archibald Heney - URN-GEN-GED-I342688580461\|Archibald Heney]] | Verified primary subject/kinship anchor. |
+| **Documented Person** | `Archibald T. Heney Sr` | [[Archibald T. Heney Sr. - URN-GEN-GED-I342688436717\|Archibald T. Heney Sr]] | Verified primary subject/kinship anchor. |
 | **Jurisdiction** | `North America` | — | Establishes physical and sovereign territorial locus. |
 | **Custodial Archive** | `National Archives & Archival Registries` | — | Certified archival custody chain. |
 
@@ -66,10 +62,9 @@ audit_status: passed
 
 ## 👥 Corroborated Entities & Kinship Network
 The following individuals are formally documented and substantiated within this record:
-* **Verified Profile:** [[People/Archived/Archibald T. Heney Sr. - URN-GEN-GED-I342688436717\|Archibald T. Heney Sr]]
-* **Verified Profile:** [[People/H/HENEY/ARCHIBALD T HENEY - URN-GEN-GED-I342687318057\|Archibald T Heney]]
-* **Verified Profile:** [[People/H/Heney/Archibald Heney - URN-GEN-GED-I342688580461\|Archibald Heney]]
-* **Verified Profile:** [[People/H/Heney/Heney, Huldah - URN-GEN-HH\|Huldah Heney]]
+* **Verified Profile:** [[ARCHIBALD T HENEY - URN-GEN-GED-I342687318057|Archibald T Heney]]
+* **Verified Profile:** [[Archibald Heney - URN-GEN-GED-I342688580461|Archibald Heney]]
+* **Verified Profile:** [[Archibald T. Heney Sr. - URN-GEN-GED-I342688436717|Archibald T. Heney Sr]]
 
 ---
 

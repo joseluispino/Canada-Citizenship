@@ -9,21 +9,16 @@ tags:
 - topic/military_record
 - provenance/primary_facsimile
 created: '2026-08-30'
-updated: '2026-08-30'
+updated: '2026-08-31'
 status: verified
 version: '1.0'
 source_type: military_record
 people:
-- '[[People/W/Whalen/Evelyn Whalen - URN-GEN-GED-I342544887524|Evelyn Whalen]]'
-- '[[People/W/Whalen/Evelyn Whalen - URN-GEN-GED-I342544887524|Evelyn Whalen]]'
-- '[[People/W/Whalen/Marilyn Evelyn Whalen - URN-GEN-GED-I342544691586|Marilyn Evelyn
-  Whalen]]'
-- '[[People/W/Whalen/Marilyn Whalen - URN-GEN-GED-I342471130511|Marilyn Whalen]]'
-- '[[People/W/Whalen/Marilyn Whalen - URN-GEN-GED-I342471130511|Marilyn Whalen]]'
-- '[[People/W/Whalen/Thomas E. Whalen - URN-GEN-GED-I342470795720|Thomas E. Whalen]]'
-- '[[People/W/Whalen/Thomas E. Whalen - URN-GEN-GED-I342470795720|Thomas E. Whalen]]'
-- '[[People/W/Whalen/Whalen, Thomas - URN-GEN-TW|Thomas Whalen]]'
-- '[[People/W/Whalen/Whalen, Thomas - URN-GEN-TW|Thomas Whalen]]'
+- '[[Evelyn Whalen - URN-GEN-GED-I342544887524|Evelyn Whalen]]'
+- '[[Marilyn Evelyn Whalen - URN-GEN-GED-I342544691586|Marilyn Evelyn Whalen]]'
+- '[[Marilyn Whalen - URN-GEN-GED-I342471130511|Marilyn Whalen]]'
+- '[[Whalen, Thomas - URN-GEN-TW|Thomas Whalen]]'
+- '[[Whalen, Thomas E 1848|Thomas E. Whalen]]'
 location: North America
 repository: National Archives & Archival Registries
 author: Civil & Ecclesiastical Registrars
@@ -33,12 +28,12 @@ portfolio:
 quay: 3
 epistemic_tier: 'Tier 1: Primary Archival Facsimile'
 verification_status: verified_empirical
-media_file: '[[Sources/Military/1953Military-Thomas-MarilynEvelynWhalen and TerryLynn.png]]'
-master_asset: '[[Sources/Military/1953Military-Thomas-MarilynEvelynWhalen and TerryLynn.png]]'
-display_asset: '[[Sources/Military/1953Military-Thomas-MarilynEvelynWhalen and TerryLynn.png]]'
+media_file: '[[1953Military-Thomas-MarilynEvelynWhalen and TerryLynn.png]]'
+master_asset: '[[1953Military-Thomas-MarilynEvelynWhalen and TerryLynn.png]]'
+display_asset: '[[1953Military-Thomas-MarilynEvelynWhalen and TerryLynn.png]]'
 sha256: 0a72e5f81a8c9310183c5236f97d7050459f5949a2ab669271d89b9f7ddad5f1
 audit_tag: verified_empirical
-audit_date: '2026-08-30'
+audit_date: '2026-08-31'
 audit_status: passed
 ---
 
@@ -48,10 +43,10 @@ audit_status: passed
 ---
 
 ## 🏛️ Archival Asset Lineage & Multi-Format Facsimiles
-![[[Sources/Military/1953Military-Thomas-MarilynEvelynWhalen and TerryLynn.png]]|850]
+![[1953Military-Thomas-MarilynEvelynWhalen and TerryLynn.png|850]]
 
 * **Physical Asset Holdings:**
-  * 🗄️ **Master Scan (Pristine Bitstream):** [[Sources/Military/1953Military-Thomas-MarilynEvelynWhalen and TerryLynn.png]]
+  * 🗄️ **Master Scan (Pristine Bitstream):** [[1953Military-Thomas-MarilynEvelynWhalen and TerryLynn.png]]
 
 ---
 
@@ -59,11 +54,11 @@ audit_status: passed
 
 | Field / Item | Document Record Value | Corroborated Vault Profile | Evidentiary Significance |
 | :--- | :--- | :--- | :--- |
-| **Documented Person** | `Evelyn Whalen` | [[People/W/Whalen/Evelyn Whalen - URN-GEN-GED-I342544887524\|Evelyn Whalen]] | Verified primary subject/kinship anchor. |
-| **Documented Person** | `Marilyn Evelyn Whalen` | [[People/W/Whalen/Marilyn Evelyn Whalen - URN-GEN-GED-I342544691586\|Marilyn Evelyn Whalen]] | Verified primary subject/kinship anchor. |
-| **Documented Person** | `Marilyn Whalen` | [[People/W/Whalen/Marilyn Whalen - URN-GEN-GED-I342471130511\|Marilyn Whalen]] | Verified primary subject/kinship anchor. |
-| **Documented Person** | `Thomas E. Whalen` | [[People/W/Whalen/Thomas E. Whalen - URN-GEN-GED-I342470795720\|Thomas E. Whalen]] | Verified primary subject/kinship anchor. |
-| **Documented Person** | `Thomas Whalen` | [[People/W/Whalen/Whalen, Thomas - URN-GEN-TW\|Thomas Whalen]] | Verified primary subject/kinship anchor. |
+| **Documented Person** | `Evelyn Whalen` | [[Evelyn Whalen - URN-GEN-GED-I342544887524\|Evelyn Whalen]] | Verified primary subject/kinship anchor. |
+| **Documented Person** | `Marilyn Evelyn Whalen` | [[Marilyn Evelyn Whalen - URN-GEN-GED-I342544691586\|Marilyn Evelyn Whalen]] | Verified primary subject/kinship anchor. |
+| **Documented Person** | `Marilyn Whalen` | [[Marilyn Whalen - URN-GEN-GED-I342471130511\|Marilyn Whalen]] | Verified primary subject/kinship anchor. |
+| **Documented Person** | `Thomas Whalen` | [[Whalen, Thomas - URN-GEN-TW\|Thomas Whalen]] | Verified primary subject/kinship anchor. |
+| **Documented Person** | `Thomas E. Whalen` | [[Whalen, Thomas E 1848\|Thomas E. Whalen]] | Verified primary subject/kinship anchor. |
 | **Jurisdiction** | `North America` | — | Establishes physical and sovereign territorial locus. |
 | **Custodial Archive** | `National Archives & Archival Registries` | — | Certified archival custody chain. |
 
@@ -71,11 +66,11 @@ audit_status: passed
 
 ## 👥 Corroborated Entities & Kinship Network
 The following individuals are formally documented and substantiated within this record:
-* **Verified Profile:** [[People/W/Whalen/Evelyn Whalen - URN-GEN-GED-I342544887524\|Evelyn Whalen]]
-* **Verified Profile:** [[People/W/Whalen/Marilyn Evelyn Whalen - URN-GEN-GED-I342544691586\|Marilyn Evelyn Whalen]]
-* **Verified Profile:** [[People/W/Whalen/Marilyn Whalen - URN-GEN-GED-I342471130511\|Marilyn Whalen]]
-* **Verified Profile:** [[People/W/Whalen/Thomas E. Whalen - URN-GEN-GED-I342470795720\|Thomas E. Whalen]]
-* **Verified Profile:** [[People/W/Whalen/Whalen, Thomas - URN-GEN-TW\|Thomas Whalen]]
+* **Verified Profile:** [[Evelyn Whalen - URN-GEN-GED-I342544887524|Evelyn Whalen]]
+* **Verified Profile:** [[Marilyn Evelyn Whalen - URN-GEN-GED-I342544691586|Marilyn Evelyn Whalen]]
+* **Verified Profile:** [[Marilyn Whalen - URN-GEN-GED-I342471130511|Marilyn Whalen]]
+* **Verified Profile:** [[Whalen, Thomas - URN-GEN-TW|Thomas Whalen]]
+* **Verified Profile:** [[Whalen, Thomas E 1848|Thomas E. Whalen]]
 
 ---
 

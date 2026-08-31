@@ -9,7 +9,7 @@ tags:
 - topic/death_certificate
 - provenance/primary_facsimile
 created: '2026-08-30'
-updated: '2026-08-30'
+updated: '2026-08-31'
 status: verified
 version: '1.0'
 source_type: death_certificate
@@ -23,12 +23,12 @@ portfolio:
 quay: 3
 epistemic_tier: 'Tier 1: Primary Archival Facsimile'
 verification_status: verified_empirical
-media_file: '[[Sources/Vital_Statistics/1932Death-Whalen-JohnFrederick.jpg]]'
-master_asset: '[[Sources/Vital_Statistics/1932Death-Whalen-JohnFrederick.jpg]]'
-display_asset: '[[Sources/Vital_Statistics/1932Death-Whalen-JohnFrederick.jpg]]'
+media_file: '[[1932Death-Whalen-JohnFrederick.jpg]]'
+master_asset: '[[1932Death-Whalen-JohnFrederick.jpg]]'
+display_asset: '[[1932Death-Whalen-JohnFrederick.jpg]]'
 sha256: 412b0717bc6f09114e99fbb74a2639f254283dcf5d13093f80ecd01e7b767de4
 audit_tag: verified_empirical
-audit_date: '2026-08-30'
+audit_date: '2026-08-31'
 audit_status: passed
 ---
 
@@ -38,10 +38,10 @@ audit_status: passed
 ---
 
 ## 🏛️ Archival Asset Lineage & Multi-Format Facsimiles
-![[[Sources/Vital_Statistics/1932Death-Whalen-JohnFrederick.jpg]]|850]
+![[1932Death-Whalen-JohnFrederick.jpg|850]]
 
 * **Physical Asset Holdings:**
-  * 🗄️ **Master Scan (Pristine Bitstream):** [[Sources/Vital_Statistics/1932Death-Whalen-JohnFrederick.jpg]]
+  * 🗄️ **Master Scan (Pristine Bitstream):** [[1932Death-Whalen-JohnFrederick.jpg]]
 
 ---
 

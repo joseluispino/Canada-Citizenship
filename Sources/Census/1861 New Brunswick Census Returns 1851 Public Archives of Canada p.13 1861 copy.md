@@ -11,7 +11,7 @@ tags:
 - topic/census
 - provenance/primary_facsimile
 created: '2026-08-30'
-updated: '2026-08-30'
+updated: '2026-08-31'
 status: verified
 version: '1.0'
 source_type: census
@@ -27,15 +27,15 @@ portfolio:
 quay: 3
 epistemic_tier: 'Tier 1: Primary Archival Facsimile'
 verification_status: verified_empirical
-media_file: '[[Sources/Census/1861 New Brunswick Census Returns 1851 Public Archives
-  of Canada p.13 1861 copy.png]]'
-master_asset: '[[Sources/Census/1861 New Brunswick Census Returns 1851 Public Archives
-  of Canada p.13 1861 copy.png]]'
-display_asset: '[[Sources/Census/1861 New Brunswick Census Returns 1851 Public Archives
-  of Canada p.13 1861 copy.png]]'
+media_file: '[[1861 New Brunswick Census Returns 1851 Public Archives of Canada p.13
+  1861 copy.png]]'
+master_asset: '[[1861 New Brunswick Census Returns 1851 Public Archives of Canada
+  p.13 1861 copy.png]]'
+display_asset: '[[1861 New Brunswick Census Returns 1851 Public Archives of Canada
+  p.13 1861 copy.png]]'
 sha256: 4e138099e191249a4746056b68f2ac54345b8f9d12a4269c65f8af1715815e21
 audit_tag: verified_empirical
-audit_date: '2026-08-30'
+audit_date: '2026-08-31'
 audit_status: passed
 ---
 
@@ -45,10 +45,10 @@ audit_status: passed
 ---
 
 ## 🏛️ Archival Asset Lineage & Multi-Format Facsimiles
-![[[Sources/Census/1861 New Brunswick Census Returns 1851 Public Archives of Canada p.13 1861 copy.png]]|850]
+![[1861 New Brunswick Census Returns 1851 Public Archives of Canada p.13 1861 copy.png|850]]
 
 * **Physical Asset Holdings:**
-  * 🗄️ **Master Scan (Pristine Bitstream):** [[Sources/Census/1861 New Brunswick Census Returns 1851 Public Archives of Canada p.13 1861 copy.png]]
+  * 🗄️ **Master Scan (Pristine Bitstream):** [[1861 New Brunswick Census Returns 1851 Public Archives of Canada p.13 1861 copy.png]]
 
 ---
 

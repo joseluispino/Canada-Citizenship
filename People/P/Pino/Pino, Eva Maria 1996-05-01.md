@@ -31,25 +31,14 @@ proven_tier: primary_vital_records
 data_origin: certified_vital_records
 sex: F
 sources:
-- '[[Pino Phillips, Eva Maria.pdf]]'
-- '[[EvaMariaPino.cit0001e.4.12.2026.pdf]]'
-- '[[imm5476e-Eva.Maria.Pino.pdf]]'
-- '[[EvaMariaPino.cit0001e.4.13.2026.pdf]]'
-- '[[Eva birth certificate.pdf]]'
-- '[[Eva - Hoja declaratoria inscripcion nacimiento NY consulate.pdf]]'
-- '[[apostille Eva birth certificate.pdf]]'
-- '[[Eva - Anexo 1 Signed.pdf]]'
-- '[[PETICION DE CITA LEY DE MEMORIA DEMOCRATICA NYC.pdf]]'
-- '[[Eva Datos.pdf]]'
-- '[[Eva 5.5 Microsoft Word - Hoja datos nacimiento para imprimir.doc.pdf]]'
-- '[[Passport and license- Eva.pdf]]'
-- '[[Signed - Consultate Letter.pdf]]'
-- '[[Anexo 5- Eva.pdf]]'
-- '[[Authorization-registro-civil for Eva Maria Pino.pdf]]'
+- '[[Sources/Published_Histories/EvaMariaPino.cit0001e.4.13.2026]]'
 audit_tag: verified_empirical
 audit_date: 2026-08-30
 audit_status: passed
 ---
+
+
+
 
 
 

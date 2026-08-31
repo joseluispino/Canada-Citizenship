@@ -9,21 +9,16 @@ tags:
 - topic/source_record
 - provenance/primary_facsimile
 created: '2026-08-30'
-updated: '2026-08-30'
+updated: '2026-08-31'
 status: verified
 version: '1.0'
 source_type: source_record
 people:
-- '[[People/W/Whalen/Thomas Clinton Whalen - URN-GEN-GED-I342588675285|Thomas Clinton
-  Whalen]]'
-- '[[People/W/Whalen/Thomas E. Whalen - URN-GEN-GED-I342470795720|Thomas E. Whalen]]'
-- '[[People/W/Whalen/Thomas E. Whalen - URN-GEN-GED-I342470795720|Thomas E. Whalen]]'
-- '[[People/W/Whalen/Thomas R Whalen - URN-GEN-GED-I342588676285|Thomas R Whalen]]'
-- '[[People/W/Whalen/Thomas R Whalen - URN-GEN-GED-I342588676285|Thomas R Whalen]]'
-- '[[People/W/Whalen/Thomas Ronald Whalen - URN-GEN-GED-I342588677154|Thomas Ronald
-  Whalen]]'
-- '[[People/W/Whalen/Whalen, Thomas - URN-GEN-TW|Thomas Whalen]]'
-- '[[People/W/Whalen/Whalen, Thomas - URN-GEN-TW|Thomas Whalen]]'
+- '[[Thomas Clinton Whalen - URN-GEN-GED-I342588675285|Thomas Clinton Whalen]]'
+- '[[Thomas R Whalen - URN-GEN-GED-I342588676285|Thomas R Whalen]]'
+- '[[Thomas Ronald Whalen - URN-GEN-GED-I342588677154|Thomas Ronald Whalen]]'
+- '[[Whalen, Thomas - URN-GEN-TW|Thomas Whalen]]'
+- '[[Whalen, Thomas E 1848|Thomas E. Whalen]]'
 location: North America
 repository: National Archives & Archival Registries
 author: Civil & Ecclesiastical Registrars
@@ -33,12 +28,12 @@ portfolio:
 quay: 3
 epistemic_tier: 'Tier 1: Primary Archival Facsimile'
 verification_status: verified_empirical
-media_file: '[[Sources/Published_Histories/Thomas Whalen son of Patrick.png]]'
-master_asset: '[[Sources/Published_Histories/Thomas Whalen son of Patrick.png]]'
-display_asset: '[[Sources/Published_Histories/Thomas Whalen son of Patrick.png]]'
+media_file: '[[Thomas Whalen son of Patrick.png]]'
+master_asset: '[[Thomas Whalen son of Patrick.png]]'
+display_asset: '[[Thomas Whalen son of Patrick.png]]'
 sha256: 30776744adbb9331afdf5f7faaffec63ea9ef05beb55ba49eac3b3782017a6dc
 audit_tag: verified_empirical
-audit_date: '2026-08-30'
+audit_date: '2026-08-31'
 audit_status: passed
 ---
 
@@ -48,10 +43,10 @@ audit_status: passed
 ---
 
 ## 🏛️ Archival Asset Lineage & Multi-Format Facsimiles
-![[[Sources/Published_Histories/Thomas Whalen son of Patrick.png]]|850]
+![[Thomas Whalen son of Patrick.png|850]]
 
 * **Physical Asset Holdings:**
-  * 🗄️ **Master Scan (Pristine Bitstream):** [[Sources/Published_Histories/Thomas Whalen son of Patrick.png]]
+  * 🗄️ **Master Scan (Pristine Bitstream):** [[Thomas Whalen son of Patrick.png]]
 
 ---
 
@@ -59,11 +54,11 @@ audit_status: passed
 
 | Field / Item | Document Record Value | Corroborated Vault Profile | Evidentiary Significance |
 | :--- | :--- | :--- | :--- |
-| **Documented Person** | `Thomas Clinton Whalen` | [[People/W/Whalen/Thomas Clinton Whalen - URN-GEN-GED-I342588675285\|Thomas Clinton Whalen]] | Verified primary subject/kinship anchor. |
-| **Documented Person** | `Thomas E. Whalen` | [[People/W/Whalen/Thomas E. Whalen - URN-GEN-GED-I342470795720\|Thomas E. Whalen]] | Verified primary subject/kinship anchor. |
-| **Documented Person** | `Thomas R Whalen` | [[People/W/Whalen/Thomas R Whalen - URN-GEN-GED-I342588676285\|Thomas R Whalen]] | Verified primary subject/kinship anchor. |
-| **Documented Person** | `Thomas Ronald Whalen` | [[People/W/Whalen/Thomas Ronald Whalen - URN-GEN-GED-I342588677154\|Thomas Ronald Whalen]] | Verified primary subject/kinship anchor. |
-| **Documented Person** | `Thomas Whalen` | [[People/W/Whalen/Whalen, Thomas - URN-GEN-TW\|Thomas Whalen]] | Verified primary subject/kinship anchor. |
+| **Documented Person** | `Thomas Clinton Whalen` | [[Thomas Clinton Whalen - URN-GEN-GED-I342588675285\|Thomas Clinton Whalen]] | Verified primary subject/kinship anchor. |
+| **Documented Person** | `Thomas R Whalen` | [[Thomas R Whalen - URN-GEN-GED-I342588676285\|Thomas R Whalen]] | Verified primary subject/kinship anchor. |
+| **Documented Person** | `Thomas Ronald Whalen` | [[Thomas Ronald Whalen - URN-GEN-GED-I342588677154\|Thomas Ronald Whalen]] | Verified primary subject/kinship anchor. |
+| **Documented Person** | `Thomas Whalen` | [[Whalen, Thomas - URN-GEN-TW\|Thomas Whalen]] | Verified primary subject/kinship anchor. |
+| **Documented Person** | `Thomas E. Whalen` | [[Whalen, Thomas E 1848\|Thomas E. Whalen]] | Verified primary subject/kinship anchor. |
 | **Jurisdiction** | `North America` | — | Establishes physical and sovereign territorial locus. |
 | **Custodial Archive** | `National Archives & Archival Registries` | — | Certified archival custody chain. |
 
@@ -71,11 +66,11 @@ audit_status: passed
 
 ## 👥 Corroborated Entities & Kinship Network
 The following individuals are formally documented and substantiated within this record:
-* **Verified Profile:** [[People/W/Whalen/Thomas Clinton Whalen - URN-GEN-GED-I342588675285\|Thomas Clinton Whalen]]
-* **Verified Profile:** [[People/W/Whalen/Thomas E. Whalen - URN-GEN-GED-I342470795720\|Thomas E. Whalen]]
-* **Verified Profile:** [[People/W/Whalen/Thomas R Whalen - URN-GEN-GED-I342588676285\|Thomas R Whalen]]
-* **Verified Profile:** [[People/W/Whalen/Thomas Ronald Whalen - URN-GEN-GED-I342588677154\|Thomas Ronald Whalen]]
-* **Verified Profile:** [[People/W/Whalen/Whalen, Thomas - URN-GEN-TW\|Thomas Whalen]]
+* **Verified Profile:** [[Thomas Clinton Whalen - URN-GEN-GED-I342588675285|Thomas Clinton Whalen]]
+* **Verified Profile:** [[Thomas R Whalen - URN-GEN-GED-I342588676285|Thomas R Whalen]]
+* **Verified Profile:** [[Thomas Ronald Whalen - URN-GEN-GED-I342588677154|Thomas Ronald Whalen]]
+* **Verified Profile:** [[Whalen, Thomas - URN-GEN-TW|Thomas Whalen]]
+* **Verified Profile:** [[Whalen, Thomas E 1848|Thomas E. Whalen]]
 
 ---
 

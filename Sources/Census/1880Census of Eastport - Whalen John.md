@@ -9,7 +9,7 @@ tags:
 - topic/census
 - provenance/primary_facsimile
 created: '2026-08-30'
-updated: '2026-08-30'
+updated: '2026-08-31'
 status: verified
 version: '1.0'
 source_type: census
@@ -23,12 +23,12 @@ portfolio:
 quay: 3
 epistemic_tier: 'Tier 1: Primary Archival Facsimile'
 verification_status: verified_empirical
-media_file: '[[Sources/Census/1880Census of Eastport - Whalen John.png]]'
-master_asset: '[[Sources/Census/1880Census of Eastport - Whalen John.png]]'
-display_asset: '[[Sources/Census/1880Census of Eastport - Whalen John.png]]'
+media_file: '[[1880Census of Eastport - Whalen John.png]]'
+master_asset: '[[1880Census of Eastport - Whalen John.png]]'
+display_asset: '[[1880Census of Eastport - Whalen John.png]]'
 sha256: fbba81aa2e0afd2728b26dd7fe05e294474ec2edb8d1d17e20f432475fb3a185
 audit_tag: verified_empirical
-audit_date: '2026-08-30'
+audit_date: '2026-08-31'
 audit_status: passed
 ---
 
@@ -38,10 +38,10 @@ audit_status: passed
 ---
 
 ## 🏛️ Archival Asset Lineage & Multi-Format Facsimiles
-![[[Sources/Census/1880Census of Eastport - Whalen John.png]]|850]
+![[1880Census of Eastport - Whalen John.png|850]]
 
 * **Physical Asset Holdings:**
-  * 🗄️ **Master Scan (Pristine Bitstream):** [[Sources/Census/1880Census of Eastport - Whalen John.png]]
+  * 🗄️ **Master Scan (Pristine Bitstream):** [[1880Census of Eastport - Whalen John.png]]
 
 ---
 

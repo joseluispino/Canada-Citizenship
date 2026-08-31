@@ -9,7 +9,7 @@ tags:
 - topic/source_record
 - provenance/primary_facsimile
 created: '2026-08-30'
-updated: '2026-08-30'
+updated: '2026-08-31'
 status: verified
 version: '1.0'
 source_type: source_record
@@ -23,12 +23,12 @@ portfolio:
 quay: 3
 epistemic_tier: 'Tier 1: Primary Archival Facsimile'
 verification_status: verified_empirical
-media_file: '[[Sources/Published_Histories/Whalen Family.jpg]]'
-master_asset: '[[Sources/Published_Histories/Whalen Family.jpg]]'
-display_asset: '[[Sources/Published_Histories/Whalen Family.jpg]]'
+media_file: '[[Whalen Family.jpg]]'
+master_asset: '[[Whalen Family.jpg]]'
+display_asset: '[[Whalen Family.jpg]]'
 sha256: efd683e55180ef0131452279367ab209159e1fe7fa0f4821c62fdb717d795121
 audit_tag: verified_empirical
-audit_date: '2026-08-30'
+audit_date: '2026-08-31'
 audit_status: passed
 ---
 
@@ -38,10 +38,10 @@ audit_status: passed
 ---
 
 ## 🏛️ Archival Asset Lineage & Multi-Format Facsimiles
-![[[Sources/Published_Histories/Whalen Family.jpg]]|850]
+![[Whalen Family.jpg|850]]
 
 * **Physical Asset Holdings:**
-  * 🗄️ **Master Scan (Pristine Bitstream):** [[Sources/Published_Histories/Whalen Family.jpg]]
+  * 🗄️ **Master Scan (Pristine Bitstream):** [[Whalen Family.jpg]]
 
 ---
 

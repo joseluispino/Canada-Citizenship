@@ -9,7 +9,7 @@ tags:
 - topic/birth_certificate
 - provenance/primary_facsimile
 created: '2026-08-30'
-updated: '2026-08-30'
+updated: '2026-08-31'
 status: verified
 version: '1.0'
 source_type: birth_certificate
@@ -23,12 +23,12 @@ portfolio:
 quay: 3
 epistemic_tier: 'Tier 1: Primary Archival Facsimile'
 verification_status: verified_empirical
-media_file: '[[Sources/Vital_Statistics/1890Birth-Whalen-Leonard.png]]'
-master_asset: '[[Sources/Vital_Statistics/1890Birth-Whalen-Leonard.png]]'
-display_asset: '[[Sources/Vital_Statistics/1890Birth-Whalen-Leonard.png]]'
+media_file: '[[1890Birth-Whalen-Leonard.png]]'
+master_asset: '[[1890Birth-Whalen-Leonard.png]]'
+display_asset: '[[1890Birth-Whalen-Leonard.png]]'
 sha256: c37d4c9a990f532202f7fc56ce1cd042c7d0eda4b93e3372e05d037219c0a780
 audit_tag: verified_empirical
-audit_date: '2026-08-30'
+audit_date: '2026-08-31'
 audit_status: passed
 ---
 
@@ -38,10 +38,10 @@ audit_status: passed
 ---
 
 ## 🏛️ Archival Asset Lineage & Multi-Format Facsimiles
-![[[Sources/Vital_Statistics/1890Birth-Whalen-Leonard.png]]|850]
+![[1890Birth-Whalen-Leonard.png|850]]
 
 * **Physical Asset Holdings:**
-  * 🗄️ **Master Scan (Pristine Bitstream):** [[Sources/Vital_Statistics/1890Birth-Whalen-Leonard.png]]
+  * 🗄️ **Master Scan (Pristine Bitstream):** [[1890Birth-Whalen-Leonard.png]]
 
 ---
 

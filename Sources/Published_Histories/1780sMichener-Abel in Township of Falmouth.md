@@ -9,15 +9,14 @@ tags:
 - topic/source_record
 - provenance/primary_facsimile
 created: '2026-08-30'
-updated: '2026-08-30'
+updated: '2026-08-31'
 status: verified
 version: '1.0'
 source_type: source_record
 people:
-- '[[People/M/Michener/Abel C. Michener - URN-GEN-GED-I342469847684|Abel C. Michener]]'
-- '[[People/M/Michener/Abel Michener - URN-GEN-GED-I342552070359|Abel Michener]]'
-- '[[People/M/Mitchner/Mitchner, Abel - URN-GEN-AM|Abel Mitchener]]'
-- '[[People/M/Mitchner/Mitchner, Abel - URN-GEN-AM|Abel Mitchener]]'
+- '[[Abel C. Michener - URN-GEN-GED-I342469847684|Abel C. Michener]]'
+- '[[Abel Michener - URN-GEN-GED-I342552070359|Abel Michener]]'
+- '[[Mitchner, Abel - URN-GEN-AM|Abel Mitchener]]'
 location: North America
 repository: National Archives & Archival Registries
 author: Civil & Ecclesiastical Registrars
@@ -27,12 +26,12 @@ portfolio:
 quay: 3
 epistemic_tier: 'Tier 1: Primary Archival Facsimile'
 verification_status: verified_empirical
-media_file: '[[Sources/Published_Histories/1780sMichener-Abel in Township of Falmouth.png]]'
-master_asset: '[[Sources/Published_Histories/1780sMichener-Abel in Township of Falmouth.png]]'
-display_asset: '[[Sources/Published_Histories/1780sMichener-Abel in Township of Falmouth.png]]'
+media_file: '[[1780sMichener-Abel in Township of Falmouth.png]]'
+master_asset: '[[1780sMichener-Abel in Township of Falmouth.png]]'
+display_asset: '[[1780sMichener-Abel in Township of Falmouth.png]]'
 sha256: c80ea39f30ad3e3e6eb71f75b3f5a249b66886b47f2baefffd37ec60e83f2c9f
 audit_tag: verified_empirical
-audit_date: '2026-08-30'
+audit_date: '2026-08-31'
 audit_status: passed
 ---
 
@@ -42,10 +41,10 @@ audit_status: passed
 ---
 
 ## 🏛️ Archival Asset Lineage & Multi-Format Facsimiles
-![[[Sources/Published_Histories/1780sMichener-Abel in Township of Falmouth.png]]|850]
+![[1780sMichener-Abel in Township of Falmouth.png|850]]
 
 * **Physical Asset Holdings:**
-  * 🗄️ **Master Scan (Pristine Bitstream):** [[Sources/Published_Histories/1780sMichener-Abel in Township of Falmouth.png]]
+  * 🗄️ **Master Scan (Pristine Bitstream):** [[1780sMichener-Abel in Township of Falmouth.png]]
 
 ---
 
@@ -53,9 +52,9 @@ audit_status: passed
 
 | Field / Item | Document Record Value | Corroborated Vault Profile | Evidentiary Significance |
 | :--- | :--- | :--- | :--- |
-| **Documented Person** | `Abel C. Michener` | [[People/M/Michener/Abel C. Michener - URN-GEN-GED-I342469847684\|Abel C. Michener]] | Verified primary subject/kinship anchor. |
-| **Documented Person** | `Abel Michener` | [[People/M/Michener/Abel Michener - URN-GEN-GED-I342552070359\|Abel Michener]] | Verified primary subject/kinship anchor. |
-| **Documented Person** | `Abel Mitchener` | [[People/M/Mitchner/Mitchner, Abel - URN-GEN-AM\|Abel Mitchener]] | Verified primary subject/kinship anchor. |
+| **Documented Person** | `Abel C. Michener` | [[Abel C. Michener - URN-GEN-GED-I342469847684\|Abel C. Michener]] | Verified primary subject/kinship anchor. |
+| **Documented Person** | `Abel Michener` | [[Abel Michener - URN-GEN-GED-I342552070359\|Abel Michener]] | Verified primary subject/kinship anchor. |
+| **Documented Person** | `Abel Mitchener` | [[Mitchner, Abel - URN-GEN-AM\|Abel Mitchener]] | Verified primary subject/kinship anchor. |
 | **Jurisdiction** | `North America` | — | Establishes physical and sovereign territorial locus. |
 | **Custodial Archive** | `National Archives & Archival Registries` | — | Certified archival custody chain. |
 
@@ -63,9 +62,9 @@ audit_status: passed
 
 ## 👥 Corroborated Entities & Kinship Network
 The following individuals are formally documented and substantiated within this record:
-* **Verified Profile:** [[People/M/Michener/Abel C. Michener - URN-GEN-GED-I342469847684\|Abel C. Michener]]
-* **Verified Profile:** [[People/M/Michener/Abel Michener - URN-GEN-GED-I342552070359\|Abel Michener]]
-* **Verified Profile:** [[People/M/Mitchner/Mitchner, Abel - URN-GEN-AM\|Abel Mitchener]]
+* **Verified Profile:** [[Abel C. Michener - URN-GEN-GED-I342469847684|Abel C. Michener]]
+* **Verified Profile:** [[Abel Michener - URN-GEN-GED-I342552070359|Abel Michener]]
+* **Verified Profile:** [[Mitchner, Abel - URN-GEN-AM|Abel Mitchener]]
 
 ---
 

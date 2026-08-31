@@ -9,17 +9,14 @@ tags:
 - topic/death_certificate
 - provenance/primary_facsimile
 created: '2026-08-30'
-updated: '2026-08-30'
+updated: '2026-08-31'
 status: verified
 version: '1.0'
 source_type: death_certificate
 people:
-- '[[People/Archived/Lulu M Whalen - URN-GEN-GED-I342470795863|Lulu M Whalen]]'
-- '[[People/Archived/Lulu M Whalen - URN-GEN-GED-I342470795863|Lulu M Whalen]]'
-- '[[People/D/Dudley/Dudley, Samantha Leighton 1860 - URN-GEN-1860-SLD|Samantha Leighton
-  Dudley]]'
-- '[[People/W/Whalen/Whalen, Lulu M 1894-06-02 - URN-GEN-GED-I342470795863|Lulu M.
-  Whalen]]'
+- '[[Dudley, Samantha Leighton 1860|Samantha Leighton Dudley]]'
+- '[[Lulu M Whalen - URN-GEN-GED-I342470795863|Lulu M Whalen]]'
+- '[[Whalen, Lulu M 1894|Lulu M. Whalen]]'
 location: North America
 repository: National Archives & Archival Registries
 author: Civil & Ecclesiastical Registrars
@@ -29,12 +26,12 @@ portfolio:
 quay: 3
 epistemic_tier: 'Tier 1: Primary Archival Facsimile'
 verification_status: verified_empirical
-media_file: '[[Sources/Vital_Statistics/1894Death-Whalen-Lulu.jpg]]'
-master_asset: '[[Sources/Vital_Statistics/1894Death-Whalen-Lulu.jpg]]'
-display_asset: '[[Sources/Vital_Statistics/1894Death-Whalen-Lulu.jpg]]'
+media_file: '[[1894Death-Whalen-Lulu.jpg]]'
+master_asset: '[[1894Death-Whalen-Lulu.jpg]]'
+display_asset: '[[1894Death-Whalen-Lulu.jpg]]'
 sha256: 2f99bb3fe71ff37d74cf8221a5d4a59f21c97441812322b01655022449b9bf8e
 audit_tag: verified_empirical
-audit_date: '2026-08-30'
+audit_date: '2026-08-31'
 audit_status: passed
 ---
 
@@ -44,10 +41,10 @@ audit_status: passed
 ---
 
 ## 🏛️ Archival Asset Lineage & Multi-Format Facsimiles
-![[[Sources/Vital_Statistics/1894Death-Whalen-Lulu.jpg]]|850]
+![[1894Death-Whalen-Lulu.jpg|850]]
 
 * **Physical Asset Holdings:**
-  * 🗄️ **Master Scan (Pristine Bitstream):** [[Sources/Vital_Statistics/1894Death-Whalen-Lulu.jpg]]
+  * 🗄️ **Master Scan (Pristine Bitstream):** [[1894Death-Whalen-Lulu.jpg]]
 
 ---
 
@@ -55,9 +52,9 @@ audit_status: passed
 
 | Field / Item | Document Record Value | Corroborated Vault Profile | Evidentiary Significance |
 | :--- | :--- | :--- | :--- |
-| **Documented Person** | `Lulu M Whalen` | [[People/Archived/Lulu M Whalen - URN-GEN-GED-I342470795863\|Lulu M Whalen]] | Verified primary subject/kinship anchor. |
-| **Documented Person** | `Samantha Leighton Dudley` | [[People/D/Dudley/Dudley, Samantha Leighton 1860 - URN-GEN-1860-SLD\|Samantha Leighton Dudley]] | Verified primary subject/kinship anchor. |
-| **Documented Person** | `Lulu M. Whalen` | [[People/W/Whalen/Whalen, Lulu M 1894-06-02 - URN-GEN-GED-I342470795863\|Lulu M. Whalen]] | Verified primary subject/kinship anchor. |
+| **Documented Person** | `Samantha Leighton Dudley` | [[Dudley, Samantha Leighton 1860\|Samantha Leighton Dudley]] | Verified primary subject/kinship anchor. |
+| **Documented Person** | `Lulu M Whalen` | [[Lulu M Whalen - URN-GEN-GED-I342470795863\|Lulu M Whalen]] | Verified primary subject/kinship anchor. |
+| **Documented Person** | `Lulu M. Whalen` | [[Whalen, Lulu M 1894\|Lulu M. Whalen]] | Verified primary subject/kinship anchor. |
 | **Jurisdiction** | `North America` | — | Establishes physical and sovereign territorial locus. |
 | **Custodial Archive** | `National Archives & Archival Registries` | — | Certified archival custody chain. |
 
@@ -65,9 +62,9 @@ audit_status: passed
 
 ## 👥 Corroborated Entities & Kinship Network
 The following individuals are formally documented and substantiated within this record:
-* **Verified Profile:** [[People/Archived/Lulu M Whalen - URN-GEN-GED-I342470795863\|Lulu M Whalen]]
-* **Verified Profile:** [[People/D/Dudley/Dudley, Samantha Leighton 1860 - URN-GEN-1860-SLD\|Samantha Leighton Dudley]]
-* **Verified Profile:** [[People/W/Whalen/Whalen, Lulu M 1894-06-02 - URN-GEN-GED-I342470795863\|Lulu M. Whalen]]
+* **Verified Profile:** [[Dudley, Samantha Leighton 1860|Samantha Leighton Dudley]]
+* **Verified Profile:** [[Lulu M Whalen - URN-GEN-GED-I342470795863|Lulu M Whalen]]
+* **Verified Profile:** [[Whalen, Lulu M 1894|Lulu M. Whalen]]
 
 ---
 

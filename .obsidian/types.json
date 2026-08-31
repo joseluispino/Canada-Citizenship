@@ -83,6 +83,9 @@
     "audit_date": "date",
     "audit_status": "text",
     "cost": "number",
-    "labor": "number"
+    "labor": "number",
+    "exid": "text",
+    "negative_evidence": "multitext",
+    "associates": "multitext"
   }
 }

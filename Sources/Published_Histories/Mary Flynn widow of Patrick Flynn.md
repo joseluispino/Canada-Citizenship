@@ -9,14 +9,13 @@ tags:
 - topic/source_record
 - provenance/primary_facsimile
 created: '2026-08-30'
-updated: '2026-08-30'
+updated: '2026-08-31'
 status: verified
 version: '1.0'
 source_type: source_record
 people:
-- '[[People/F/Flynn/Mary Flynn - URN-GEN-GED-I342685205518|Mary Flynn]]'
-- '[[People/W/Whalen/Whalen, Patrick 1811-09-01 - URN-GEN-1811-09-PW|Patrick Whalen]]'
-- '[[People/W/Whalen/Whalen, Patrick 1811-09-01 - URN-GEN-1811-09-PW|Patrick Whalen]]'
+- '[[Mary Flynn - URN-GEN-GED-I342685205518|Mary Flynn]]'
+- '[[Whalen, Patrick 1811-09-01|Patrick Whalen]]'
 location: North America
 repository: National Archives & Archival Registries
 author: Civil & Ecclesiastical Registrars
@@ -26,12 +25,12 @@ portfolio:
 quay: 3
 epistemic_tier: 'Tier 1: Primary Archival Facsimile'
 verification_status: verified_empirical
-media_file: '[[Sources/Published_Histories/Mary Flynn widow of Patrick Flynn.jpg]]'
-master_asset: '[[Sources/Published_Histories/Mary Flynn widow of Patrick Flynn.jpg]]'
-display_asset: '[[Sources/Published_Histories/Mary Flynn widow of Patrick Flynn.jpg]]'
+media_file: '[[Mary Flynn widow of Patrick Flynn.jpg]]'
+master_asset: '[[Mary Flynn widow of Patrick Flynn.jpg]]'
+display_asset: '[[Mary Flynn widow of Patrick Flynn.jpg]]'
 sha256: ac3e0f2ace1d1a612b749fd6c23be8000eb957ea74254a43fe4132c57145b936
 audit_tag: verified_empirical
-audit_date: '2026-08-30'
+audit_date: '2026-08-31'
 audit_status: passed
 ---
 
@@ -41,10 +40,10 @@ audit_status: passed
 ---
 
 ## 🏛️ Archival Asset Lineage & Multi-Format Facsimiles
-![[[Sources/Published_Histories/Mary Flynn widow of Patrick Flynn.jpg]]|850]
+![[Mary Flynn widow of Patrick Flynn.jpg|850]]
 
 * **Physical Asset Holdings:**
-  * 🗄️ **Master Scan (Pristine Bitstream):** [[Sources/Published_Histories/Mary Flynn widow of Patrick Flynn.jpg]]
+  * 🗄️ **Master Scan (Pristine Bitstream):** [[Mary Flynn widow of Patrick Flynn.jpg]]
 
 ---
 
@@ -52,8 +51,8 @@ audit_status: passed
 
 | Field / Item | Document Record Value | Corroborated Vault Profile | Evidentiary Significance |
 | :--- | :--- | :--- | :--- |
-| **Documented Person** | `Mary Flynn` | [[People/F/Flynn/Mary Flynn - URN-GEN-GED-I342685205518\|Mary Flynn]] | Verified primary subject/kinship anchor. |
-| **Documented Person** | `Patrick Whalen` | [[People/W/Whalen/Whalen, Patrick 1811-09-01 - URN-GEN-1811-09-PW\|Patrick Whalen]] | Verified primary subject/kinship anchor. |
+| **Documented Person** | `Mary Flynn` | [[Mary Flynn - URN-GEN-GED-I342685205518\|Mary Flynn]] | Verified primary subject/kinship anchor. |
+| **Documented Person** | `Patrick Whalen` | [[Whalen, Patrick 1811-09-01\|Patrick Whalen]] | Verified primary subject/kinship anchor. |
 | **Jurisdiction** | `North America` | — | Establishes physical and sovereign territorial locus. |
 | **Custodial Archive** | `National Archives & Archival Registries` | — | Certified archival custody chain. |
 
@@ -61,8 +60,8 @@ audit_status: passed
 
 ## 👥 Corroborated Entities & Kinship Network
 The following individuals are formally documented and substantiated within this record:
-* **Verified Profile:** [[People/F/Flynn/Mary Flynn - URN-GEN-GED-I342685205518\|Mary Flynn]]
-* **Verified Profile:** [[People/W/Whalen/Whalen, Patrick 1811-09-01 - URN-GEN-1811-09-PW\|Patrick Whalen]]
+* **Verified Profile:** [[Mary Flynn - URN-GEN-GED-I342685205518|Mary Flynn]]
+* **Verified Profile:** [[Whalen, Patrick 1811-09-01|Patrick Whalen]]
 
 ---
 

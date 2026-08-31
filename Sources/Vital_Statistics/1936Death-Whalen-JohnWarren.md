@@ -9,13 +9,12 @@ tags:
 - topic/death_certificate
 - provenance/primary_facsimile
 created: '2026-08-30'
-updated: '2026-08-30'
+updated: '2026-08-31'
 status: verified
 version: '1.0'
 source_type: death_certificate
 people:
-- '[[People/W/Whalen/Whalen, John Warren 1860-08-12|John Warren Whalen]]'
-- '[[People/W/Whalen/Whalen, John Warren 1860-08-12|John Warren Whalen]]'
+- '[[Whalen, John Warren 1860-08-12|John Warren Whalen]]'
 location: North America
 repository: National Archives & Archival Registries
 author: Civil & Ecclesiastical Registrars
@@ -25,12 +24,12 @@ portfolio:
 quay: 3
 epistemic_tier: 'Tier 1: Primary Archival Facsimile'
 verification_status: verified_empirical
-media_file: '[[Sources/Vital_Statistics/1936Death-Whalen-JohnWarren.jpg]]'
-master_asset: '[[Sources/Vital_Statistics/1936Death-Whalen-JohnWarren.jpg]]'
-display_asset: '[[Sources/Vital_Statistics/1936Death-Whalen-JohnWarren.jpg]]'
+media_file: '[[1936Death-Whalen-JohnWarren.jpg]]'
+master_asset: '[[1936Death-Whalen-JohnWarren.jpg]]'
+display_asset: '[[1936Death-Whalen-JohnWarren.jpg]]'
 sha256: 2608d6ed0f9196a312bae9090ee321e206f5b3a64c0aae0bca5cf18af2823602
 audit_tag: verified_empirical
-audit_date: '2026-08-30'
+audit_date: '2026-08-31'
 audit_status: passed
 ---
 
@@ -40,10 +39,10 @@ audit_status: passed
 ---
 
 ## 🏛️ Archival Asset Lineage & Multi-Format Facsimiles
-![[[Sources/Vital_Statistics/1936Death-Whalen-JohnWarren.jpg]]|850]
+![[1936Death-Whalen-JohnWarren.jpg|850]]
 
 * **Physical Asset Holdings:**
-  * 🗄️ **Master Scan (Pristine Bitstream):** [[Sources/Vital_Statistics/1936Death-Whalen-JohnWarren.jpg]]
+  * 🗄️ **Master Scan (Pristine Bitstream):** [[1936Death-Whalen-JohnWarren.jpg]]
 
 ---
 
@@ -51,7 +50,7 @@ audit_status: passed
 
 | Field / Item | Document Record Value | Corroborated Vault Profile | Evidentiary Significance |
 | :--- | :--- | :--- | :--- |
-| **Documented Person** | `John Warren Whalen` | [[People/W/Whalen/Whalen, John Warren 1860-08-12\|John Warren Whalen]] | Verified primary subject/kinship anchor. |
+| **Documented Person** | `John Warren Whalen` | [[Whalen, John Warren 1860-08-12\|John Warren Whalen]] | Verified primary subject/kinship anchor. |
 | **Jurisdiction** | `North America` | — | Establishes physical and sovereign territorial locus. |
 | **Custodial Archive** | `National Archives & Archival Registries` | — | Certified archival custody chain. |
 
@@ -59,7 +58,7 @@ audit_status: passed
 
 ## 👥 Corroborated Entities & Kinship Network
 The following individuals are formally documented and substantiated within this record:
-* **Verified Profile:** [[People/W/Whalen/Whalen, John Warren 1860-08-12\|John Warren Whalen]]
+* **Verified Profile:** [[Whalen, John Warren 1860-08-12|John Warren Whalen]]
 
 ---
 

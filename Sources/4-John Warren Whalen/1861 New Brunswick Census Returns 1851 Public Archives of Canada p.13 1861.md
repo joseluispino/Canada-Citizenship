@@ -10,16 +10,13 @@ tags:
 - topic/census
 - provenance/primary_facsimile
 created: '2026-08-30'
-updated: '2026-08-30'
+updated: '2026-08-31'
 status: verified
 version: '1.0'
 source_type: census
 people:
-- '[[People/W/Whalen/Ada Whalen - URN-GEN-GED-I342588678534|Ada Whalen]]'
-- '[[People/W/Whalen/Whalen, John Warren 1860-08-12 - URN-GEN-1860-08-JWW|John Warren
-  Whalen]]'
-- '[[People/W/Whalen/Whalen, John Warren 1860-08-12|John Warren Whalen]]'
-- '[[People/W/Whalen/Whalen, John Warren 1860-08-12|John Warren Whalen]]'
+- '[[Ada Whalen - URN-GEN-GED-I342588678534|Ada Whalen]]'
+- '[[Whalen, John Warren 1860-08-12|John Warren Whalen]]'
 event_date: '1861'
 year: 1861
 location: Charlotte County, New Brunswick, Canada
@@ -31,15 +28,15 @@ portfolio:
 quay: 3
 epistemic_tier: 'Tier 1: Primary Archival Facsimile'
 verification_status: verified_empirical
-media_file: '[[Sources/4-John Warren Whalen/1861 New Brunswick Census Returns 1851
-  Public Archives of Canada p.13 1861.jpg]]'
-master_asset: '[[Sources/4-John Warren Whalen/1861 New Brunswick Census Returns 1851
-  Public Archives of Canada p.13 1861.jpg]]'
-display_asset: '[[Sources/4-John Warren Whalen/1861 New Brunswick Census Returns 1851
-  Public Archives of Canada p.13 1861.jpg]]'
+media_file: '[[1861 New Brunswick Census Returns 1851 Public Archives of Canada p.13
+  1861.jpg]]'
+master_asset: '[[1861 New Brunswick Census Returns 1851 Public Archives of Canada
+  p.13 1861.jpg]]'
+display_asset: '[[1861 New Brunswick Census Returns 1851 Public Archives of Canada
+  p.13 1861.jpg]]'
 sha256: 0d0f4d07fd19cf728d59ab22217be914db7036a41147635c8c2953ca7a73c303
 audit_tag: verified_empirical
-audit_date: '2026-08-30'
+audit_date: '2026-08-31'
 audit_status: passed
 ---
 
@@ -49,10 +46,10 @@ audit_status: passed
 ---
 
 ## 🏛️ Archival Asset Lineage & Multi-Format Facsimiles
-![[[Sources/4-John Warren Whalen/1861 New Brunswick Census Returns 1851 Public Archives of Canada p.13 1861.jpg]]|850]
+![[1861 New Brunswick Census Returns 1851 Public Archives of Canada p.13 1861.jpg|850]]
 
 * **Physical Asset Holdings:**
-  * 🗄️ **Master Scan (Pristine Bitstream):** [[Sources/4-John Warren Whalen/1861 New Brunswick Census Returns 1851 Public Archives of Canada p.13 1861.jpg]]
+  * 🗄️ **Master Scan (Pristine Bitstream):** [[1861 New Brunswick Census Returns 1851 Public Archives of Canada p.13 1861.jpg]]
 
 ---
 
@@ -60,9 +57,8 @@ audit_status: passed
 
 | Field / Item | Document Record Value | Corroborated Vault Profile | Evidentiary Significance |
 | :--- | :--- | :--- | :--- |
-| **Documented Person** | `Ada Whalen` | [[People/W/Whalen/Ada Whalen - URN-GEN-GED-I342588678534\|Ada Whalen]] | Verified primary subject/kinship anchor. |
-| **Documented Person** | `John Warren Whalen` | [[People/W/Whalen/Whalen, John Warren 1860-08-12 - URN-GEN-1860-08-JWW\|John Warren Whalen]] | Verified primary subject/kinship anchor. |
-| **Documented Person** | `John Warren Whalen` | [[People/W/Whalen/Whalen, John Warren 1860-08-12\|John Warren Whalen]] | Verified primary subject/kinship anchor. |
+| **Documented Person** | `Ada Whalen` | [[Ada Whalen - URN-GEN-GED-I342588678534\|Ada Whalen]] | Verified primary subject/kinship anchor. |
+| **Documented Person** | `John Warren Whalen` | [[Whalen, John Warren 1860-08-12\|John Warren Whalen]] | Verified primary subject/kinship anchor. |
 | **Event Date / Year** | `1861` | — | Establishes contemporaneous presence and vital milestone. |
 | **Jurisdiction** | `Charlotte County, New Brunswick, Canada` | — | Establishes physical and sovereign territorial locus. |
 | **Custodial Archive** | `National Archives and Records Administration (NARA)` | — | Certified archival custody chain. |
@@ -71,9 +67,8 @@ audit_status: passed
 
 ## 👥 Corroborated Entities & Kinship Network
 The following individuals are formally documented and substantiated within this record:
-* **Verified Profile:** [[People/W/Whalen/Ada Whalen - URN-GEN-GED-I342588678534\|Ada Whalen]]
-* **Verified Profile:** [[People/W/Whalen/Whalen, John Warren 1860-08-12 - URN-GEN-1860-08-JWW\|John Warren Whalen]]
-* **Verified Profile:** [[People/W/Whalen/Whalen, John Warren 1860-08-12\|John Warren Whalen]]
+* **Verified Profile:** [[Ada Whalen - URN-GEN-GED-I342588678534|Ada Whalen]]
+* **Verified Profile:** [[Whalen, John Warren 1860-08-12|John Warren Whalen]]
 
 ---
 

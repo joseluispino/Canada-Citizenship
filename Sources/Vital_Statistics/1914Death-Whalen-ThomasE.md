@@ -9,19 +9,15 @@ tags:
 - topic/death_certificate
 - provenance/primary_facsimile
 created: '2026-08-30'
-updated: '2026-08-30'
+updated: '2026-08-31'
 status: verified
 version: '1.0'
 source_type: death_certificate
 people:
-- '[[People/L/Leslie/Leslie, Eliza 1824|Eliza Leslie]]'
-- '[[People/L/Leslie/Leslie, Eliza 1824|Eliza Leslie]]'
-- '[[People/W/Whalen/Thomas E. Whalen - URN-GEN-GED-I342470795720|Thomas E. Whalen]]'
-- '[[People/W/Whalen/Thomas E. Whalen - URN-GEN-GED-I342470795720|Thomas E. Whalen]]'
-- '[[People/W/Whalen/Whalen, Patrick 1811-09-01|Patrick Whalen]]'
-- '[[People/W/Whalen/Whalen, Patrick 1811-09-01|Patrick Whalen]]'
-- '[[People/W/Whalen/Whalen, Thomas - URN-GEN-TW|Thomas Whalen]]'
-- '[[People/W/Whalen/Whalen, Thomas - URN-GEN-TW|Thomas Whalen]]'
+- '[[Leslie, Eliza 1824|Eliza Leslie]]'
+- '[[Whalen, Patrick 1811-09-01|Patrick Whalen]]'
+- '[[Whalen, Thomas - URN-GEN-TW|Thomas Whalen]]'
+- '[[Whalen, Thomas E 1848|Thomas E. Whalen]]'
 location: North America
 repository: National Archives & Archival Registries
 author: Civil & Ecclesiastical Registrars
@@ -31,12 +27,12 @@ portfolio:
 quay: 3
 epistemic_tier: 'Tier 1: Primary Archival Facsimile'
 verification_status: verified_empirical
-media_file: '[[Sources/Vital_Statistics/1914Death-Whalen-ThomasE.jpg]]'
-master_asset: '[[Sources/Vital_Statistics/1914Death-Whalen-ThomasE.jpg]]'
-display_asset: '[[Sources/Vital_Statistics/1914Death-Whalen-ThomasE.jpg]]'
+media_file: '[[1914Death-Whalen-ThomasE.jpg]]'
+master_asset: '[[1914Death-Whalen-ThomasE.jpg]]'
+display_asset: '[[1914Death-Whalen-ThomasE.jpg]]'
 sha256: 861fdf071ab27eeaa13825cf72a978513466fa3320f1766e80a2c0961b51917e
 audit_tag: verified_empirical
-audit_date: '2026-08-30'
+audit_date: '2026-08-31'
 audit_status: passed
 ---
 
@@ -46,10 +42,10 @@ audit_status: passed
 ---
 
 ## 🏛️ Archival Asset Lineage & Multi-Format Facsimiles
-![[[Sources/Vital_Statistics/1914Death-Whalen-ThomasE.jpg]]|850]
+![[1914Death-Whalen-ThomasE.jpg|850]]
 
 * **Physical Asset Holdings:**
-  * 🗄️ **Master Scan (Pristine Bitstream):** [[Sources/Vital_Statistics/1914Death-Whalen-ThomasE.jpg]]
+  * 🗄️ **Master Scan (Pristine Bitstream):** [[1914Death-Whalen-ThomasE.jpg]]
 
 ---
 
@@ -57,10 +53,10 @@ audit_status: passed
 
 | Field / Item | Document Record Value | Corroborated Vault Profile | Evidentiary Significance |
 | :--- | :--- | :--- | :--- |
-| **Documented Person** | `Eliza Leslie` | [[People/L/Leslie/Leslie, Eliza 1824\|Eliza Leslie]] | Verified primary subject/kinship anchor. |
-| **Documented Person** | `Thomas E. Whalen` | [[People/W/Whalen/Thomas E. Whalen - URN-GEN-GED-I342470795720\|Thomas E. Whalen]] | Verified primary subject/kinship anchor. |
-| **Documented Person** | `Patrick Whalen` | [[People/W/Whalen/Whalen, Patrick 1811-09-01\|Patrick Whalen]] | Verified primary subject/kinship anchor. |
-| **Documented Person** | `Thomas Whalen` | [[People/W/Whalen/Whalen, Thomas - URN-GEN-TW\|Thomas Whalen]] | Verified primary subject/kinship anchor. |
+| **Documented Person** | `Eliza Leslie` | [[Leslie, Eliza 1824\|Eliza Leslie]] | Verified primary subject/kinship anchor. |
+| **Documented Person** | `Patrick Whalen` | [[Whalen, Patrick 1811-09-01\|Patrick Whalen]] | Verified primary subject/kinship anchor. |
+| **Documented Person** | `Thomas Whalen` | [[Whalen, Thomas - URN-GEN-TW\|Thomas Whalen]] | Verified primary subject/kinship anchor. |
+| **Documented Person** | `Thomas E. Whalen` | [[Whalen, Thomas E 1848\|Thomas E. Whalen]] | Verified primary subject/kinship anchor. |
 | **Jurisdiction** | `North America` | — | Establishes physical and sovereign territorial locus. |
 | **Custodial Archive** | `National Archives & Archival Registries` | — | Certified archival custody chain. |
 
@@ -68,10 +64,10 @@ audit_status: passed
 
 ## 👥 Corroborated Entities & Kinship Network
 The following individuals are formally documented and substantiated within this record:
-* **Verified Profile:** [[People/L/Leslie/Leslie, Eliza 1824\|Eliza Leslie]]
-* **Verified Profile:** [[People/W/Whalen/Thomas E. Whalen - URN-GEN-GED-I342470795720\|Thomas E. Whalen]]
-* **Verified Profile:** [[People/W/Whalen/Whalen, Patrick 1811-09-01\|Patrick Whalen]]
-* **Verified Profile:** [[People/W/Whalen/Whalen, Thomas - URN-GEN-TW\|Thomas Whalen]]
+* **Verified Profile:** [[Leslie, Eliza 1824|Eliza Leslie]]
+* **Verified Profile:** [[Whalen, Patrick 1811-09-01|Patrick Whalen]]
+* **Verified Profile:** [[Whalen, Thomas - URN-GEN-TW|Thomas Whalen]]
+* **Verified Profile:** [[Whalen, Thomas E 1848|Thomas E. Whalen]]
 
 ---
 

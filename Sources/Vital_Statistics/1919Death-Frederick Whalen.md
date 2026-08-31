@@ -9,7 +9,7 @@ tags:
 - topic/death_certificate
 - provenance/primary_facsimile
 created: '2026-08-30'
-updated: '2026-08-30'
+updated: '2026-08-31'
 status: verified
 version: '1.0'
 source_type: death_certificate
@@ -23,12 +23,12 @@ portfolio:
 quay: 3
 epistemic_tier: 'Tier 1: Primary Archival Facsimile'
 verification_status: verified_empirical
-media_file: '[[Sources/Vital_Statistics/1919Death-Frederick Whalen.jpg]]'
-master_asset: '[[Sources/Vital_Statistics/1919Death-Frederick Whalen.jpg]]'
-display_asset: '[[Sources/Vital_Statistics/1919Death-Frederick Whalen.jpg]]'
+media_file: '[[1919Death-Frederick Whalen.jpg]]'
+master_asset: '[[1919Death-Frederick Whalen.jpg]]'
+display_asset: '[[1919Death-Frederick Whalen.jpg]]'
 sha256: b52b7824ec31495c78a76eda0421080308fc14abf5782e551443bc80de1973e1
 audit_tag: verified_empirical
-audit_date: '2026-08-30'
+audit_date: '2026-08-31'
 audit_status: passed
 ---
 
@@ -38,10 +38,10 @@ audit_status: passed
 ---
 
 ## 🏛️ Archival Asset Lineage & Multi-Format Facsimiles
-![[[Sources/Vital_Statistics/1919Death-Frederick Whalen.jpg]]|850]
+![[1919Death-Frederick Whalen.jpg|850]]
 
 * **Physical Asset Holdings:**
-  * 🗄️ **Master Scan (Pristine Bitstream):** [[Sources/Vital_Statistics/1919Death-Frederick Whalen.jpg]]
+  * 🗄️ **Master Scan (Pristine Bitstream):** [[1919Death-Frederick Whalen.jpg]]
 
 ---
 

@@ -9,17 +9,13 @@ tags:
 - topic/census
 - provenance/primary_facsimile
 created: '2026-08-30'
-updated: '2026-08-30'
+updated: '2026-08-31'
 status: verified
 version: '1.0'
 source_type: census
 people:
-- '[[People/W/Whalen/Ada Whalen - URN-GEN-GED-I342588678534|Ada Whalen]]'
-- '[[People/W/Whalen/Ada Whalen - URN-GEN-GED-I342588678534|Ada Whalen]]'
-- '[[People/W/Whalen/Whalen, Patrick 1811-09-01 - URN-GEN-1811-09-PW|Patrick Whalen]]'
-- '[[People/W/Whalen/Whalen, Patrick 1811-09-01 - URN-GEN-1811-09-PW|Patrick Whalen]]'
-- '[[People/W/Whalen/Whalen, Patrick 1811-09-01|Patrick Whalen]]'
-- '[[People/W/Whalen/Whalen, Patrick 1811-09-01|Patrick Whalen]]'
+- '[[Ada Whalen - URN-GEN-GED-I342588678534|Ada Whalen]]'
+- '[[Whalen, Patrick 1811-09-01|Patrick Whalen]]'
 event_date: '1861'
 year: 1861
 location: North America
@@ -31,12 +27,12 @@ portfolio:
 quay: 3
 epistemic_tier: 'Tier 1: Primary Archival Facsimile'
 verification_status: verified_empirical
-media_file: '[[Sources/Census/1861 Census of Canada - Patrick Whalen and family.jpg]]'
-master_asset: '[[Sources/Census/1861 Census of Canada - Patrick Whalen and family.jpg]]'
-display_asset: '[[Sources/Census/1861 Census of Canada - Patrick Whalen and family.jpg]]'
+media_file: '[[1861 Census of Canada - Patrick Whalen and family.jpg]]'
+master_asset: '[[1861 Census of Canada - Patrick Whalen and family.jpg]]'
+display_asset: '[[1861 Census of Canada - Patrick Whalen and family.jpg]]'
 sha256: 0d0f4d07fd19cf728d59ab22217be914db7036a41147635c8c2953ca7a73c303
 audit_tag: verified_empirical
-audit_date: '2026-08-30'
+audit_date: '2026-08-31'
 audit_status: passed
 ---
 
@@ -46,10 +42,10 @@ audit_status: passed
 ---
 
 ## 🏛️ Archival Asset Lineage & Multi-Format Facsimiles
-![[[Sources/Census/1861 Census of Canada - Patrick Whalen and family.jpg]]|850]
+![[1861 Census of Canada - Patrick Whalen and family.jpg|850]]
 
 * **Physical Asset Holdings:**
-  * 🗄️ **Master Scan (Pristine Bitstream):** [[Sources/Census/1861 Census of Canada - Patrick Whalen and family.jpg]]
+  * 🗄️ **Master Scan (Pristine Bitstream):** [[1861 Census of Canada - Patrick Whalen and family.jpg]]
 
 ---
 
@@ -57,9 +53,8 @@ audit_status: passed
 
 | Field / Item | Document Record Value | Corroborated Vault Profile | Evidentiary Significance |
 | :--- | :--- | :--- | :--- |
-| **Documented Person** | `Ada Whalen` | [[People/W/Whalen/Ada Whalen - URN-GEN-GED-I342588678534\|Ada Whalen]] | Verified primary subject/kinship anchor. |
-| **Documented Person** | `Patrick Whalen` | [[People/W/Whalen/Whalen, Patrick 1811-09-01 - URN-GEN-1811-09-PW\|Patrick Whalen]] | Verified primary subject/kinship anchor. |
-| **Documented Person** | `Patrick Whalen` | [[People/W/Whalen/Whalen, Patrick 1811-09-01\|Patrick Whalen]] | Verified primary subject/kinship anchor. |
+| **Documented Person** | `Ada Whalen` | [[Ada Whalen - URN-GEN-GED-I342588678534\|Ada Whalen]] | Verified primary subject/kinship anchor. |
+| **Documented Person** | `Patrick Whalen` | [[Whalen, Patrick 1811-09-01\|Patrick Whalen]] | Verified primary subject/kinship anchor. |
 | **Event Date / Year** | `1861` | — | Establishes contemporaneous presence and vital milestone. |
 | **Jurisdiction** | `North America` | — | Establishes physical and sovereign territorial locus. |
 | **Custodial Archive** | `National Archives and Records Administration (NARA)` | — | Certified archival custody chain. |
@@ -68,9 +63,8 @@ audit_status: passed
 
 ## 👥 Corroborated Entities & Kinship Network
 The following individuals are formally documented and substantiated within this record:
-* **Verified Profile:** [[People/W/Whalen/Ada Whalen - URN-GEN-GED-I342588678534\|Ada Whalen]]
-* **Verified Profile:** [[People/W/Whalen/Whalen, Patrick 1811-09-01 - URN-GEN-1811-09-PW\|Patrick Whalen]]
-* **Verified Profile:** [[People/W/Whalen/Whalen, Patrick 1811-09-01\|Patrick Whalen]]
+* **Verified Profile:** [[Ada Whalen - URN-GEN-GED-I342588678534|Ada Whalen]]
+* **Verified Profile:** [[Whalen, Patrick 1811-09-01|Patrick Whalen]]
 
 ---
 
