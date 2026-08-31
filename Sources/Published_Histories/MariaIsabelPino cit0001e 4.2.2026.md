@@ -21,7 +21,6 @@ location: North America
 repository: National Archives & Archival Registries
 author: Civil & Ecclesiastical Registrars
 portfolio:
-- pino_peru
 - canadian_citizenship_chain_a
 quay: 3
 epistemic_tier: 'Tier 1: Primary Archival Facsimile'
@@ -35,6 +34,8 @@ audit_tag: verified_empirical
 audit_date: '2026-08-31'
 audit_status: passed
 ---
+
+
 
 # 📄 MariaIsabelPino cit0001e 4.2.2026
 ### Archival Evidence Facsimile & Certified Transcription Dossier

@@ -26,7 +26,6 @@ call_number: PANB RS141B7, Microfilm Reel F-1574, Charlotte County Marriage Regi
 author: Civil & Ecclesiastical Registrars
 portfolio:
 - canadian_citizenship_chain_a
-- pino_peru
 quay: 3
 epistemic_tier: 'Tier 1: Primary Archival Facsimile'
 verification_status: verified_empirical
@@ -35,6 +34,7 @@ audit_tag: verified_empirical
 audit_date: '2026-08-31'
 audit_status: passed
 ---
+
 
 # 📄 PANB Microfilm Reel F-1574 — Charlotte County Marriage Register (1845)
 ### Archival Evidence Facsimile & Certified Transcription Dossier

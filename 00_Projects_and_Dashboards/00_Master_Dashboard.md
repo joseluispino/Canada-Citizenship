@@ -5,8 +5,8 @@ tags:
   - type/dashboard
   - topic/citizenship
   - status/verified
-lead_applicant: "[[People/P/Phillips/Phillips, Lisa Michelle 1967-10-12|Lisa Michelle Phillips]]"
-lineage_anchor: "[[People/W/Whalen/Whalen, John Warren 1860-08-12|Capt. John Warren Whalen (1860)]]"
+lead_applicant: "[[Phillips, Lisa Michelle 1967-10-12|Lisa Michelle Phillips]]"
+lineage_anchor: "[[Whalen, John Warren 1860-08-12|Capt. John Warren Whalen (1860)]]"
 governing_statute: "Bill C-3 / Senate Bill S-245 (Bjorkquist Remedy)"
 verification_tier: "Tier 1 — Primary Vital Records & Verified Microfilms"
 ---
@@ -28,11 +28,11 @@ verification_tier: "Tier 1 — Primary Vital Records & Verified Microfilms"
 
 | Key Parameter | Case Detail | Statutory Assessment |
 | :--- | :--- | :---: |
-| **Lead Applicant (G0)** | [[People/P/Phillips/Phillips, Lisa Michelle 1967-10-12\|Lisa Michelle Phillips]] | 🟢 **Primary Claimant** |
-| **Next Generation Claimants** | [[People/P/Pino/Pino, Ana Maria 1990-09-05\|Ana Maria Pino]], [[People/P/Pino/Pino, Elena Maria 1992-03-09\|Elena Maria Pino]], [[People/P/Pino/Pino, Maria Isabel 1994-10-27\|Maria Isabel Pino]], [[People/P/Pino/Pino, Eva Maria 1996-05-01\|Eva Maria Pino]], [[People/P/Pino/Pino, Alister Jude 1998-05-07\|Alister Jude Pino]] | 🟢 **Derivative Claimants** |
-| **G1 Parent** | [[People/W/Whalen/Whalen, Shirley Ann 1936-09-02\|Shirley Ann Whalen (1936–2014)]] | 🟢 **Primary Proof** |
-| **G2 Grandparent** | [[People/W/Whalen/Whalen, Hollis Vernon 1898-12-14\|Hollis Vernon Whalen (1898–1974)]] | 🟢 **Primary Proof** |
-| **G3 Soil Anchor** | [[People/W/Whalen/Whalen, John Warren 1860-08-12\|Capt. John Warren Whalen (1860–1937)]] | 🟢 **Canadian Soil Birth** |
+| **Lead Applicant (G0)** | [[Phillips, Lisa Michelle 1967-10-12\|Lisa Michelle Phillips]] | 🟢 **Primary Claimant** |
+| **Next Generation Claimants** | [[Pino, Ana Maria 1990-09-05\|Ana Maria Pino]], [[Pino, Elena Maria 1992-03-09\|Elena Maria Pino]], [[Pino, Maria Isabel 1994-10-27\|Maria Isabel Pino]], [[Pino, Eva Maria 1996-05-01\|Eva Maria Pino]], [[Pino, Alister Jude 1998-05-07\|Alister Jude Pino]] | 🟢 **Derivative Claimants** |
+| **G1 Parent** | [[Whalen, Shirley Ann 1936-09-02\|Shirley Ann Whalen (1936–2014)]] | 🟢 **Primary Proof** |
+| **G2 Grandparent** | [[Whalen, Hollis Vernon 1898-12-14\|Hollis Vernon Whalen (1898–1974)]] | 🟢 **Primary Proof** |
+| **G3 Soil Anchor** | [[Whalen, John Warren 1860-08-12\|Capt. John Warren Whalen (1860–1937)]] | 🟢 **Canadian Soil Birth** |
 | **Governing Law** | Bill C-3 / S-245 (*Bjorkquist v. AG of Canada* 2023 ONSC 7152) | 🟢 **FGL Abolished** |
 | **Foreign Naturalization** | Maintained unbroken **Alien (`Al`)** status on US Censuses (1900–1930) | 🟢 **Zero Tripwires** |
 
@@ -81,4 +81,4 @@ graph LR
 ---
 
 ## 🌳 Interactive Generational Tree
-See [[00_Projects_and_Dashboards/Family_Citizenship_Descent_Tree.canvas\|Family_Citizenship_Descent_Tree.canvas]] for the interactive visual graph linking each primary facsimile to its corresponding ancestor profile in `People/`.
+See [[00_Projects_and_Dashboards/Family_Citizenship_Descent_Tree.canvas|Family_Citizenship_Descent_Tree.canvas]] for the interactive visual graph linking each primary facsimile to its corresponding ancestor profile in `People/`.

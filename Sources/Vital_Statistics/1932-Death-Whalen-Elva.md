@@ -21,7 +21,6 @@ repository: National Archives & Archival Registries
 author: Civil & Ecclesiastical Registrars
 portfolio:
 - canadian_citizenship_chain_a
-- pino_peru
 quay: 3
 epistemic_tier: 'Tier 1: Primary Archival Facsimile'
 verification_status: verified_empirical
@@ -33,6 +32,7 @@ audit_tag: verified_empirical
 audit_date: '2026-08-31'
 audit_status: passed
 ---
+
 
 # 📄 1932 Death Whalen Elva
 ### Archival Evidence Facsimile & Certified Transcription Dossier

@@ -24,7 +24,6 @@ repository: National Archives and Records Administration (NARA)
 author: Civil & Ecclesiastical Registrars
 portfolio:
 - canadian_citizenship_chain_a
-- pino_peru
 quay: 3
 epistemic_tier: 'Tier 1: Primary Archival Facsimile'
 verification_status: verified_empirical
@@ -38,6 +37,7 @@ audit_tag: verified_empirical
 audit_date: '2026-08-31'
 audit_status: passed
 ---
+
 
 # 📄 Patrick Whalin 1851 Census of Canada East, Canada West, New Brunswick, and Nova Scotia
 ### Archival Evidence Facsimile & Certified Transcription Dossier

@@ -34,7 +34,6 @@ call_number: Library and Archives Canada (LAC) Microfilm Roll C-1001, Page 13, L
 author: Civil & Ecclesiastical Registrars
 portfolio:
 - canadian_citizenship_chain_a
-- pino_peru
 quay: 3
 epistemic_tier: 'Tier 1: Primary Archival Facsimile'
 verification_status: verified_empirical
@@ -48,6 +47,7 @@ audit_tag: verified_empirical
 audit_date: '2026-08-31'
 audit_status: passed
 ---
+
 
 # 📄 1861 Census of Canada — West Isles, Charlotte County, New Brunswick (Patrick Whalin Family)
 ### Archival Evidence Facsimile & Certified Transcription Dossier

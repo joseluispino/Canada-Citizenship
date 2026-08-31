@@ -24,7 +24,6 @@ call_number: PANS Microfilm Reel 13867, Falmouth Township Book, Vol. 1, Page 38
 author: Civil & Ecclesiastical Registrars
 portfolio:
 - canadian_citizenship_chain_a
-- pino_peru
 quay: 3
 epistemic_tier: 'Tier 1: Primary Archival Facsimile'
 verification_status: verified_empirical
@@ -33,6 +32,7 @@ audit_tag: verified_empirical
 audit_date: '2026-08-31'
 audit_status: passed
 ---
+
 
 # 📄 Nova Scotia Archives Reel 13867 — Falmouth Township Vital & Land Grants
 ### Archival Evidence Facsimile & Certified Transcription Dossier

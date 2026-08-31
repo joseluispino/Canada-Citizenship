@@ -26,7 +26,6 @@ call_number: RG 31, Microfilm Reel C-995, Charlotte County, Lepreau Parish, Page
 author: Civil & Ecclesiastical Registrars
 portfolio:
 - canadian_citizenship_chain_a
-- pino_peru
 quay: 3
 epistemic_tier: 'Tier 1: Primary Archival Facsimile'
 verification_status: verified_empirical
@@ -35,6 +34,7 @@ audit_tag: verified_empirical
 audit_date: '2026-08-31'
 audit_status: passed
 ---
+
 
 # 📄 LAC Microfilm Reel C-995 — 1851 Census of New Brunswick
 ### Archival Evidence Facsimile & Certified Transcription Dossier

@@ -22,7 +22,6 @@ repository: National Archives & Archival Registries
 author: Civil & Ecclesiastical Registrars
 portfolio:
 - canadian_citizenship_chain_a
-- pino_peru
 quay: 3
 epistemic_tier: 'Tier 1: Primary Archival Facsimile'
 verification_status: verified_empirical
@@ -34,6 +33,7 @@ audit_tag: verified_empirical
 audit_date: '2026-08-31'
 audit_status: passed
 ---
+
 
 # 📄 Death certificate John Warren Whalen 1860 1936
 ### Archival Evidence Facsimile & Certified Transcription Dossier

@@ -29,7 +29,6 @@ call_number: PANB Microfilm Reels F-1096 & F-1110, Anglican Parish of St. Andrew
 author: Civil & Ecclesiastical Registrars
 portfolio:
 - canadian_citizenship_chain_a
-- pino_peru
 quay: 3
 epistemic_tier: 'Tier 1: Primary Archival Facsimile'
 verification_status: verified_empirical
@@ -38,6 +37,7 @@ audit_tag: verified_empirical
 audit_date: '2026-08-31'
 audit_status: passed
 ---
+
 
 # 📄 PANB Microfilm Reels F-1096 / F-1110 — Charlotte County Church of England (Anglican) Baptismal Registers
 ### Archival Evidence Facsimile & Certified Transcription Dossier
