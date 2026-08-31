@@ -69,7 +69,7 @@ sources:
 audit_tag: verified_empirical
 audit_date: 2026-08-30
 audit_status: passed
-religion: Church of England (Anglican)
+religion: "Church of England (Anglican)"
 immigration_year: 1880
 ---
 
