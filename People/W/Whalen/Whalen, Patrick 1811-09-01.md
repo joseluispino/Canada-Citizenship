@@ -78,8 +78,8 @@ direction: TD
 ## 📜 Historical Records & Census Appearances
 | Year | Record / Census Holding | Jurisdiction | Line & Sheet | Age | Extracted Vital Facts | Evidentiary Role for IRCC |
 | :---: | :--- | :--- | :---: | :---: | :--- | :--- |
-| **1851** | **[[Sources/Microfilms/1851-Census-WestIsles-CharlotteNB-PatrickWhalinFamily-LAC-C995\|1851 Census of New Brunswick]]** | West Isles, Charlotte Co., NB | Page 28 | 35 | Head, Commercial Fisherman, Deer Island resident. | 🟢 Colonial Land & Fishery Anchor |
-| **1861** | **[[Sources/Microfilms/1861-Census-WestIsles-CharlotteNB-PatrickWhalinFamily-LAC-C1001\|1861 Census of New Brunswick]]** | West Isles, Charlotte Co., NB | Page 13, Line 26 | 45 | Head, **Church of England**, Fisherman. | 🟢 Establishes Anglican Parish Target |
+| **1851** | **[[1851-Census-WestIsles-CharlotteNB-PatrickWhalinFamily-LAC-C995\|1851 Census of New Brunswick]]** | West Isles, Charlotte Co., NB | Page 28 | 35 | Head, Commercial Fisherman, Deer Island resident. | 🟢 Colonial Land & Fishery Anchor |
+| **1861** | **[[1861-Census-WestIsles-CharlotteNB-PatrickWhalinFamily-LAC-C1001\|1861 Census of New Brunswick]]** | West Isles, Charlotte Co., NB | Page 13, Line 26 | 45 | Head, **Church of England**, Fisherman. | 🟢 Establishes Anglican Parish Target |
 
 ## 📄 Source Documents & Archival Evidence
 

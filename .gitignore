@@ -3,3 +3,6 @@
 .obsidian/cache
 *.sqlite
 __pycache__/
+
+.meta_cache/
+.blobs/

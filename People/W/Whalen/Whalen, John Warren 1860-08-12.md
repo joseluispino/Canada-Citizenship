@@ -107,11 +107,11 @@ direction: TD
 ## 📜 Longitudinal Evidentiary Matrix
 | Year | Record / Holding | Jurisdiction | Identifier | Age | Extracted Vital Facts | Evidentiary Role for IRCC |
 | :---: | :--- | :--- | :---: | :---: | :--- | :--- |
-| **1861** | **[[Sources/Microfilms/1861-Census-WestIsles-CharlotteNB-PatrickWhalinFamily-LAC-C1001\|1861 Census of New Brunswick]]** | West Isles, NB | LAC Reel C-1001 | 1 | Native NB, Church of England. Parents Patrick & Eliza. | 🟢 Primary Canadian Birth Grounding |
-| **1881** | **[[Sources/Vital_Statistics/1881-Marriage-JohnWWhalen-SamanthaDudley-Eastport\|City of Eastport Marriage Record]]** | Eastport, ME | City Clerk | 21 | Groom b. Deer Island, N.B. Bride b. Pembroke, ME. | 🟢 Certified Canadian Birth Declaration |
-| **1898** | **[[Sources/Vital_Statistics/1898Birth-HollisWhalen\|City of Eastport Birth Record]]** | Eastport, ME | City Clerk | 38 | Father John W. Whalen b. Deer Island, N.B. | 🟢 Direct Paternal Transmission Proof |
-| **1900** | **[[Sources/Census/1900-Census-CalaisME-JohnWWhalenFamily\|1900 US Federal Census]]** | Calais, ME | Sheet 6A, Line 97 | 39 | Immigration: 1876. Naturalization: **`Al` (Alien)**. | 🟢 Unbroken Status Safe Harbor |
-| **1936** | **[[Sources/Vital_Statistics/1937-Death-Certificate-JohnWarrenWhalen\|City of Eastport Death Record]]** | Eastport, ME | City Clerk | 75 | Died June 9, 1936. Birthplace: Deer Island, N.B. Deputy Sheriff. | 🟢 Official Vital Corroboration |
+| **1861** | **[[1861-Census-WestIsles-CharlotteNB-PatrickWhalinFamily-LAC-C1001\|1861 Census of New Brunswick]]** | West Isles, NB | LAC Reel C-1001 | 1 | Native NB, Church of England. Parents Patrick & Eliza. | 🟢 Primary Canadian Birth Grounding |
+| **1881** | **[[1881-Marriage-JohnWWhalen-SamanthaDudley-Eastport\|City of Eastport Marriage Record]]** | Eastport, ME | City Clerk | 21 | Groom b. Deer Island, N.B. Bride b. Pembroke, ME. | 🟢 Certified Canadian Birth Declaration |
+| **1898** | **[[1898Birth-HollisWhalen\|City of Eastport Birth Record]]** | Eastport, ME | City Clerk | 38 | Father John W. Whalen b. Deer Island, N.B. | 🟢 Direct Paternal Transmission Proof |
+| **1900** | **[[1900-Census-CalaisME-JohnWWhalenFamily\|1900 US Federal Census]]** | Calais, ME | Sheet 6A, Line 97 | 39 | Immigration: 1876. Naturalization: **`Al` (Alien)**. | 🟢 Unbroken Status Safe Harbor |
+| **1936** | **[[1937-Death-Certificate-JohnWarrenWhalen\|City of Eastport Death Record]]** | Eastport, ME | City Clerk | 75 | Died June 9, 1936. Birthplace: Deer Island, N.B. Deputy Sheriff. | 🟢 Official Vital Corroboration |
 
 ## 🍁 IRCC Critical Documents & Source Evidence
 
@@ -122,7 +122,7 @@ direction: TD
 
 * **1900 Census Page 1:** ![[1900-Census-CalaisME-JohnWWhalenFamily-Page1-Display.jpg\|800]]
 
-* **Census Holding:** [[Sources/Census/1900-Census-CalaisME-JohnWWhalenFamily.md\|1900 US Federal Census - Calais ME]]
+* **Census Holding:** [[1900-Census-CalaisME-JohnWWhalenFamily.md\|1900 US Federal Census - Calais ME]]
 
 ## 📄 Source Documents & Archival Evidence
 

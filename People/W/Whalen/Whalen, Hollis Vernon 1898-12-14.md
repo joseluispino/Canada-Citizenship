@@ -75,8 +75,8 @@ direction: TD
 ## 📜 Historical Records & Vital Appearances
 | Year | Record / Holding | Jurisdiction | Identifier | Age | Extracted Vital Facts | Evidentiary Role for IRCC |
 | :---: | :--- | :--- | :---: | :---: | :--- | :--- |
-| **1898** | **[[Sources/Vital_Statistics/1898Birth-HollisWhalen\|City of Eastport Birth Record]]** | Maine, USA | Eastport City Clerk | 0 | Born Dec 14, 1898. Father: John W. Whalen (b. Deer Island, NB). Mother: Mattie Dudley (b. Pembroke, ME). | 🟢 G2 $\rightarrow$ G3 Canadian Birth Link |
-| **1900** | **[[Sources/Census/1900-Census-CalaisME-JohnWWhalenFamily\|1900 US Federal Census]]** | Washington Co., ME | Sheet 6A, Line 99 | 1 | Son of John W. Whalen (Alien, b. NB) and Samantha Whalen. | 🟢 Unbroken Alien Status Proof |
+| **1898** | **[[1898Birth-HollisWhalen\|City of Eastport Birth Record]]** | Maine, USA | Eastport City Clerk | 0 | Born Dec 14, 1898. Father: John W. Whalen (b. Deer Island, NB). Mother: Mattie Dudley (b. Pembroke, ME). | 🟢 G2 $\rightarrow$ G3 Canadian Birth Link |
+| **1900** | **[[1900-Census-CalaisME-JohnWWhalenFamily\|1900 US Federal Census]]** | Washington Co., ME | Sheet 6A, Line 99 | 1 | Son of John W. Whalen (Alien, b. NB) and Samantha Whalen. | 🟢 Unbroken Alien Status Proof |
 
 ## 🍁 IRCC Critical Documents & Source Evidence
 
@@ -87,7 +87,7 @@ direction: TD
 
 * **1900 Census Page 2:** ![[1900-Census-CalaisME-JohnWWhalenFamily-Page2-Display.jpg\|800]]
 
-* **Census Holding:** [[Sources/Census/1900-Census-CalaisME-JohnWWhalenFamily.md\|1900 US Federal Census - Calais ME]]
+* **Census Holding:** [[1900-Census-CalaisME-JohnWWhalenFamily.md\|1900 US Federal Census - Calais ME]]
 
 ## 📄 Source Documents & Archival Evidence
 

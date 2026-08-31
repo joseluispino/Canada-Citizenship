@@ -65,7 +65,7 @@ direction: TD
 ## 📜 Historical Records & Vital Appearances
 | Year | Record / Holding | Jurisdiction | Identifier | Age | Extracted Vital Facts | Evidentiary Role for IRCC |
 | :---: | :--- | :--- | :---: | :---: | :--- | :--- |
-| **1936** | **[[Sources/Vital_Statistics/Whalen-Shirley-birth-certificate\|State of Maine Birth Record]]** | Maine, USA | City of Eastport Clerk | 0 | Born Sept 2, 1936. Father: Hollis V. Whalen (b. Eastport, ME). Mother: Alice Evelyn Dunklee (b. Malden, MA). | 🟢 G1 $\rightarrow$ G2 Maternal Transmission |
+| **1936** | **[[Whalen-Shirley-birth-certificate\|State of Maine Birth Record]]** | Maine, USA | City of Eastport Clerk | 0 | Born Sept 2, 1936. Father: Hollis V. Whalen (b. Eastport, ME). Mother: Alice Evelyn Dunklee (b. Malden, MA). | 🟢 G1 $\rightarrow$ G2 Maternal Transmission |
 
 ## 🍁 IRCC Critical Documents & Source Evidence
 

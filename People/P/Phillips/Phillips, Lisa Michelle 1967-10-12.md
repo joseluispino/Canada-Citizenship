@@ -81,7 +81,7 @@ direction: TD
 ## 📜 Historical Records & Vital Appearances
 | Year | Record / Holding | Jurisdiction | Identifier | Age | Extracted Vital Facts | Evidentiary Role for IRCC |
 | :---: | :--- | :--- | :---: | :---: | :--- | :--- |
-| **1967** | **[[Sources/Vital_Statistics/Lisa-birth-cert\|State of Mississippi Certificate of Live Birth]]** | Mississippi, USA | File 123-35471 | 0 | Born Oct 12, 1967 in Biloxi, MS. Mother: Shirley Ann Whalen (b. ME). Father: W.R. Phillips (b. SC, MSgt USAF). | 🟢 Lead Applicant G0 $\rightarrow$ G1 Proof |
+| **1967** | **[[Lisa-birth-cert\|State of Mississippi Certificate of Live Birth]]** | Mississippi, USA | File 123-35471 | 0 | Born Oct 12, 1967 in Biloxi, MS. Mother: Shirley Ann Whalen (b. ME). Father: W.R. Phillips (b. SC, MSgt USAF). | 🟢 Lead Applicant G0 $\rightarrow$ G1 Proof |
 | **1990** | **[[Lisa-Jose-marriage-record.pdf\|State of Florida Marriage Record]]** | Orange Co., FL | App 90E-231 | 22 | Married Jose Luis Pino on March 24, 1990 in Winter Park, FL. Bride residence: Atlanta, GA. | 🟢 Legal Transmission & Identification |
 
 ## 📄 Source Documents & Archival Evidence

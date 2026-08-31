@@ -42,12 +42,12 @@ verification_tier: "Tier 1 — Primary Vital Records & Verified Microfilms"
 
 | Deliverable | Description | File Link | Format |
 | :--- | :--- | :--- | :---: |
-| 📋 **Executive Evidence Summary** | Complete legal & evidentiary proof brief for IRCC / immigration counsel. | [[00_Projects_and_Dashboards/1_Canadian_Citizenship_Executive_Evidence_Summary\|1_Canadian_Citizenship_Executive_Evidence_Summary]] | `Legal Brief` |
-| 🔬 **Forensic Naturalization Audit** | Deep forensic evaluation of Anchor Capt. John Warren Whalen naturalization codes (1900–1930) & Dual-Citizen by Birth proof. | [[00_Projects_and_Dashboards/Forensic_Naturalization_Audit_John_Warren_Whalen\|Forensic_Naturalization_Audit_John_Warren_Whalen]] | `Evidentiary Brief` |
-| 📦 **Archival Request Packet** | Pre-formatted archival orders & letters to Provincial Archives of New Brunswick (PANB) & LAC with digital copy attachments. | [[00_Projects_and_Dashboards/2_Canadian_Citizenship_Archival_Request_Packet\|2_Canadian_Citizenship_Archival_Request_Packet]] | `Actionable Orders` |
-| 🔎 **Archival Research Strategy** | Specialized research guide for parish registers with pre-parameterized search URLs. | [[00_Projects_and_Dashboards/3_Archival_Research_Strategy\|3_Archival_Research_Strategy]] | `Research Guide` |
-| 📝 **IRCC Application Filing Guide** | Step-by-step Form CIT 0001 assembly walkthrough, photo specifications, fee payments, and formal transmittal cover letter. | [[00_Projects_and_Dashboards/4_IRCC_Application_Filing_Guide\|4_IRCC_Application_Filing_Guide]] | `Filing Guide` |
-| 🌳 **Interactive Lineage Canvas** | Visual generational tree with document embeds and status nodes. | [[00_Projects_and_Dashboards/Family_Citizenship_Descent_Tree.canvas\|Family_Citizenship_Descent_Tree.canvas]] | `Obsidian Canvas` |
+| 📋 **Executive Evidence Summary** | Complete legal & evidentiary proof brief for IRCC / immigration counsel. | [[1_Canadian_Citizenship_Executive_Evidence_Summary\|1_Canadian_Citizenship_Executive_Evidence_Summary]] | `Legal Brief` |
+| 🔬 **Forensic Naturalization Audit** | Deep forensic evaluation of Anchor Capt. John Warren Whalen naturalization codes (1900–1930) & Dual-Citizen by Birth proof. | [[Forensic_Naturalization_Audit_John_Warren_Whalen\|Forensic_Naturalization_Audit_John_Warren_Whalen]] | `Evidentiary Brief` |
+| 📦 **Archival Request Packet** | Pre-formatted archival orders & letters to Provincial Archives of New Brunswick (PANB) & LAC with digital copy attachments. | [[2_Canadian_Citizenship_Archival_Request_Packet\|2_Canadian_Citizenship_Archival_Request_Packet]] | `Actionable Orders` |
+| 🔎 **Archival Research Strategy** | Specialized research guide for parish registers with pre-parameterized search URLs. | [[3_Archival_Research_Strategy\|3_Archival_Research_Strategy]] | `Research Guide` |
+| 📝 **IRCC Application Filing Guide** | Step-by-step Form CIT 0001 assembly walkthrough, photo specifications, fee payments, and formal transmittal cover letter. | [[4_IRCC_Application_Filing_Guide\|4_IRCC_Application_Filing_Guide]] | `Filing Guide` |
+| 🌳 **Interactive Lineage Canvas** | Visual generational tree with document embeds and status nodes. | [[Family_Citizenship_Descent_Tree.canvas\|Family_Citizenship_Descent_Tree.canvas]] | `Obsidian Canvas` |
 
 ---
 
@@ -81,4 +81,4 @@ graph LR
 ---
 
 ## 🌳 Interactive Generational Tree
-See [[00_Projects_and_Dashboards/Family_Citizenship_Descent_Tree.canvas|Family_Citizenship_Descent_Tree.canvas]] for the interactive visual graph linking each primary facsimile to its corresponding ancestor profile in `People/`.
+See [[Family_Citizenship_Descent_Tree.canvas|Family_Citizenship_Descent_Tree.canvas]] for the interactive visual graph linking each primary facsimile to its corresponding ancestor profile in `People/`.

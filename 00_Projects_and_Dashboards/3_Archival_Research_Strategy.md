@@ -48,15 +48,15 @@ Click below to open live, pre-parameterized search queries directly in official 
 ### 1. Provincial Archives of New Brunswick (PANB) — Anglican Registers
 * **Email:** `ArchivesNB@gnb.ca`
 * **Phone Reference Desk:** +1 (506) 453-2122
-* **Target Holdings:** [[Sources/Archival_Search_Hypotheses/Target-1860-Microfilm-PANB-Anglican-WestIsles-JohnWarrenWhalen|PANB Microfilm Reels F-1096 & F-1110]] (Charlotte County / St. Andrews / West Isles Anglican Missions).
+* **Target Holdings:** [[Target-1860-Microfilm-PANB-Anglican-WestIsles-JohnWarrenWhalen|PANB Microfilm Reels F-1096 & F-1110]] (Charlotte County / St. Andrews / West Isles Anglican Missions).
 * **Search Objective:** August 1860 baptism of John Warren Whalen to Patrick Whalen (Fisherman) and Eliza Leslie (Church of England).
 
 ### 2. Provincial Archives of New Brunswick (PANB) — Catholic Mission Check
-* **Target Holding:** [[Sources/Archival_Search_Hypotheses/Target-1860-Microfilm-PANB-REEL-F1589-LepreauParish|PANB Microfilm Reel F-1589]] (Parish of St. George & Lepreau).
+* **Target Holding:** [[Target-1860-Microfilm-PANB-REEL-F1589-LepreauParish|PANB Microfilm Reel F-1589]] (Parish of St. George & Lepreau).
 * **Search Objective:** Secondary cross-denomination baptismal sweep.
 
 ### 3. Library and Archives Canada (LAC) — Census Schedules
 * **Target Holdings:**
-  * [[Sources/Microfilms/1861-Census-WestIsles-CharlotteNB-PatrickWhalinFamily-LAC-C1001|1861 Census Schedule (Reel C-1001, Page 13)]]
-  * [[Sources/Microfilms/1851-Census-WestIsles-CharlotteNB-PatrickWhalinFamily-LAC-C995|1851 Census Schedule (Reel C-995, Page 28)]]
-  * [[Sources/Archival_Search_Hypotheses/Target-1871-Microfilm-LAC-REEL-C10376-CharlotteCounty|1871 Census Schedule (Reel C-10376)]]
+  * [[1861-Census-WestIsles-CharlotteNB-PatrickWhalinFamily-LAC-C1001|1861 Census Schedule (Reel C-1001, Page 13)]]
+  * [[1851-Census-WestIsles-CharlotteNB-PatrickWhalinFamily-LAC-C995|1851 Census Schedule (Reel C-995, Page 28)]]
+  * [[Target-1871-Microfilm-LAC-REEL-C10376-CharlotteCounty|1871 Census Schedule (Reel C-10376)]]

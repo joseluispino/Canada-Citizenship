@@ -8,32 +8,32 @@ Welcome to the **Phillips-Whalen Family Canadian Citizenship Evidentiary Portfol
 ## 🧭 Repository Navigation Guide
 
 ### 📊 1. Master Evidence Dashboards (`00_Projects_and_Dashboards/`)
-* **[[00_Projects_and_Dashboards/00_Master_Dashboard\|00 Master Portfolio Dashboard]]**: Executive overview of all generations ($G-1 \r→ G4$), statutory compliance metrics, and document links.
-* **[[00_Projects_and_Dashboards/1_Canadian_Citizenship_Executive_Evidence_Summary\|1. Executive Evidence Summary]]**: Comprehensive evidentiary dossier prepared for legal submission to Immigration, Refugees and Citizenship Canada (IRCC).
-* **[[00_Projects_and_Dashboards/2_Canadian_Citizenship_Archival_Request_Packet\|2. Archival Request Packet]]**: Actionable pre-filled request forms for the Provincial Archives of New Brunswick (PANB) and Library & Archives Canada (LAC).
-* **[[00_Projects_and_Dashboards/3_Archival_Research_Strategy\|3. Archival Research Strategy]]**: Specialized research guide for parish registers in Charlotte County and Lepreau.
-* **[[00_Projects_and_Dashboards/Family_Citizenship_Descent_Tree.canvas\|4. Interactive Generational Canvas Tree]]**: Visual Obsidian Canvas diagram linking all family members to verified evidence.
+* **[[00_Master_Dashboard\|00 Master Portfolio Dashboard]]**: Executive overview of all generations ($G-1 \r→ G4$), statutory compliance metrics, and document links.
+* **[[1_Canadian_Citizenship_Executive_Evidence_Summary\|1. Executive Evidence Summary]]**: Comprehensive evidentiary dossier prepared for legal submission to Immigration, Refugees and Citizenship Canada (IRCC).
+* **[[2_Canadian_Citizenship_Archival_Request_Packet\|2. Archival Request Packet]]**: Actionable pre-filled request forms for the Provincial Archives of New Brunswick (PANB) and Library & Archives Canada (LAC).
+* **[[3_Archival_Research_Strategy\|3. Archival Research Strategy]]**: Specialized research guide for parish registers in Charlotte County and Lepreau.
+* **[[Family_Citizenship_Descent_Tree.canvas\|4. Interactive Generational Canvas Tree]]**: Visual Obsidian Canvas diagram linking all family members to verified evidence.
 
 ### 👤 2. Verified Ancestral Dossiers (`People/`)
 * **Generation G-1 (Derivative Beneficiaries)**:
-  * [[People/P/Pino/Pino, Ana Maria 1990-09-05\|Ana Maria Pino]]
-  * [[People/P/Pino/Pino, Elena Maria 1992-03-09\|Elena Maria Pino]]
-  * [[People/P/Pino/Pino, Maria Isabel 1994-10-27\|Maria Isabel Pino]]
-  * [[People/P/Pino/Pino, Eva Maria 1996-05-01\|Eva Maria Pino]]
-  * [[People/P/Pino/Pino, Alister Jude 1998-05-07\|Alister Jude Pino]]
+  * [[Pino, Ana Maria 1990-09-05\|Ana Maria Pino]]
+  * [[Pino, Elena Maria 1992-03-09\|Elena Maria Pino]]
+  * [[Pino, Maria Isabel 1994-10-27\|Maria Isabel Pino]]
+  * [[Pino, Eva Maria 1996-05-01\|Eva Maria Pino]]
+  * [[Pino, Alister Jude 1998-05-07\|Alister Jude Pino]]
 * **Generation G0 (Lead Applicant & Spouse)**:
-  * [[People/P/Phillips/Phillips, Lisa Michelle 1967-10-12\|Lisa Michelle Phillips (Lead Applicant)]]
-  * [[People/P/Pino/Pino, Jose Luis 1968-06-18\|Jose Luis Pino (Spouse)]]
+  * [[Phillips, Lisa Michelle 1967-10-12\|Lisa Michelle Phillips (Lead Applicant)]]
+  * [[Pino, Jose Luis 1968-06-18\|Jose Luis Pino (Spouse)]]
 * **Generation G1 (Parents)**:
-  * [[People/W/Whalen/Whalen, Shirley Ann 1936-09-02\|Shirley Ann Whalen (1936–2013)]]
-  * [[People/P/Phillips/Phillips, WR 1929-03-11\|WR Phillips (1929–2011)]]
+  * [[Whalen, Shirley Ann 1936-09-02\|Shirley Ann Whalen (1936–2013)]]
+  * [[Phillips, WR 1929-03-11\|WR Phillips (1929–2011)]]
 * **Generation G2 (Grandfather)**:
-  * [[People/W/Whalen/Whalen, Hollis Vernon 1898-12-14\|Hollis Vernon Whalen (1898–1983)]]
+  * [[Whalen, Hollis Vernon 1898-12-14\|Hollis Vernon Whalen (1898–1983)]]
 * **Generation G3 (Great-Grandfather / Canadian Soil Anchor)**:
-  * [[People/W/Whalen/Whalen, John Warren 1860-08-12\|John Warren Whalen (1860–1937)]] *(Born Lepreau, Charlotte County, New Brunswick)*
+  * [[Whalen, John Warren 1860-08-12\|John Warren Whalen (1860–1937)]] *(Born Lepreau, Charlotte County, New Brunswick)*
 * **Generation G4 (Great-Great-Grandparents / Canadian Soil Anchors)**:
-  * [[People/W/Whalen/Whalen, Patrick 1811-09-01\|Patrick Whalen (1811–1880)]] *(Born New Brunswick)*
-  * [[People/L/Leslie/Leslie, Eliza 1824\|Eliza Leslie (1824–1890)]] *(Born New Brunswick)*
+  * [[Whalen, Patrick 1811-09-01\|Patrick Whalen (1811–1880)]] *(Born New Brunswick)*
+  * [[Leslie, Eliza 1824\|Eliza Leslie (1824–1890)]] *(Born New Brunswick)*
 
 ### 📜 3. Archival Sources & Master Scans (`Sources/`)
 * **`Sources/Microfilms/`**: High-contrast archival microfilm facsimiles from Library & Archives Canada (1851 C-995 & 1861 C-1001/C-1038).
