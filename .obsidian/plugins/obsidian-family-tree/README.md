@@ -43,7 +43,7 @@ A dynamic, high-performance genealogy and lineage visualization plugin for **Obs
 
 ### 5. 🖨️ Archival Poster & Clean Print Engine
 - Presets for **`📄 Letter / A4`**, **`📜 Tabloid / A3`**, and **`🏛️ Poster / A2`**.
-- `@media print` rules automatically hide toolbars and format vector graphics for physical family reunion charts.
+- '@media print' rules automatically hide toolbars and format vector graphics for physical family reunion charts.
 - **1-Click SVG Export**: Downloads standalone, scalable vector graphics.
 
 ---
@@ -88,16 +88,16 @@ death_date: 1547-01-28
 birth_place: Palace of Placentia, Greenwich, England
 citizenship: british # Automatically maps to national flag badge 🇬🇧
 parents:
-  - "[[King Henry VII]]"
-  - "[[Elizabeth of York]]"
+  - 'King Henry VII'
+  - 'Elizabeth of York'
 spouse:
-  - "[[Catherine of Aragon]]"
-  - "[[Anne Boleyn]]"
-  - "[[Jane Seymour]]"
+  - 'Catherine of Aragon'
+  - 'Anne Boleyn'
+  - 'Jane Seymour'
 children:
-  - "[[Mary I of England]]"
-  - "[[Elizabeth I of England]]"
-  - "[[Edward VI of England]]"
+  - 'Mary I of England'
+  - 'Elizabeth I of England'
+  - 'Edward VI of England'
 ---
 ```
 

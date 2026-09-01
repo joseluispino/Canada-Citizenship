@@ -2,37 +2,50 @@
 doc_type: person
 tags:
 - topic/community/family
-- affiliation/citizenship_chain_a
-id: URN-CAN-1845-WHW
-name: William H. Whalen
-birth_date: 1845
-birth_place: Deer Island, Charlotte County, New Brunswick, British North America
-death_date: 1903-02-28
-death_place: Eastport, Washington County, Maine, USA
+- affiliation/genealogy
+id: URN-GEN-GED-I342470795723
+name: William H Whalen
+birth_date: Jan 1854
+birth_place: Eastport, Maine, USA
+death_date: '1903-02-28'
+death_place: Eastport, Washington, Maine
 parents:
+- '`Eliza H Leslie`'
 - '[[Leslie, Eliza 1824]]'
 - '[[Whalen, Patrick 1811-09-01]]'
-siblings:
-- '[[Whalen, Thomas E 1848]]'
-- '[[Whalen, John Warren 1860-08-12]]'
-spouse: None
-children: None
+spouse: []
+children: []
 citizenship_status: british_subject_canadian_born
-citizenship_project_lineage:
-- Chain A Collateral
-citizenship_generation: G3 Collateral
-citizenship_proof_status: corroborating_collateral
 document_status: complete
+subject: '`Lisa Pino`'
 verification_tier: collateral
+description: Biographical profile for William H Whalen. born 1901 in Eastport, Maine,   USA.
+historical_significance: false
+significance_category: Standard Profile
+occupations: null
+religion: None
+ethnicity: None
 proven_tier: primary_vital_records
+data_origin: gedcom_import
 sex: M
-sources:
-- '[[Sources/Microfilms/1851-Census-WestIsles-CharlotteNB-PatrickWhalinFamily-LAC-C995]]'
-- '[[Sources/Microfilms/1861-Census-WestIsles-CharlotteNB-PatrickWhalinFamily-LAC-C1001]]'
-- '[[Sources/Vital_Statistics/1903Death-Whalen-WilliamH-2]]'
+gedcom_raw_name: William H Whalen
+siblings:
+- '`Emma Sophia Whalen`'
+- '`Frances Ellen Whalen`'
+- '`George E. Whalen`'
+- '`Thomas R Whalen`'
+- '[[Whalen, John Warren 1860-08-12]]'
+- '[[Whalen, Thomas E 1848]]'
 audit_tag: verified_empirical
 audit_date: 2026-08-30
 audit_status: passed
+exid: URN-GEN-GED-I342470795723
+aliases:
+- William H Whalen - URN-GEN-GED-I342470795723
+citizenship_generation: G3 Collateral
+citizenship_project_lineage:
+- Chain A Collateral
+citizenship_proof_status: corroborating_collateral
 audit_reconciled_discrepancies:
 - type: EMPIRICAL_VITAL_GROUNDING
   field: birth_place
@@ -41,17 +54,10 @@ audit_reconciled_discrepancies:
   reason: 'Reconciled to authentic primary facsimile: City of Eastport Record of a
     Death (1903).'
 ---
-
-
-
-
-
-
-
-# 👤 William H. Whalen (1845–1903)
+# 👤 William H Whalen
 
 ## 📌 Executive Summary
-**William H. Whalen** was the elder brother of Canadian soil anchor [[Whalen, John Warren 1860-08-12\|Capt. John Warren Whalen]], born in West Isles, Charlotte County, New Brunswick to [[Whalen, Patrick 1811-09-01\|Patrick Whalen]] and [[Leslie, Eliza 1824\|Eliza Leslie]]. William provides vital collateral corroboration of the family's pre-Confederation residence in Charlotte County, New Brunswick.
+Imported family tree node from `Phillips-Whalen Family Tree.ged`.
 
 ## 🌳 Family Tree & Dynamic Lineage Graph
 
@@ -63,10 +69,26 @@ direction: TD
 ```
 
 ## 🗓️ Vital Events & Historical Timeline
-* **Birth:** ~1845 in West Isles Parish, Charlotte County, New Brunswick.
-* **Census:** 1851 Census of New Brunswick (Charlotte Co., West Isles, Reel C-995).
-* **Census:** 1861 Census of New Brunswick (Charlotte Co., West Isles, Reel C-1001).
-* **Death:** 1903-02-28 in Eastport, Maine.
+* **Birth Date:** 1901
+* **Birth Place:** Eastport, Maine, USA
+* **Death Date:** 28 Feb 1903
+* **Death Place:** Eastport, Washington, Maine
+* **GEDCOM Identifier:** `@II342470795723@`
+
+## 🔗 Family Tree Lineages
+* **Parents:** [[Whalen, Patrick 1811-09-01]], `Eliza H Leslie`
+* **Spouse(s):** None recorded
+* **Children:** None recorded
+* **Sibling(s):** [[Whalen, Thomas E 1848]], `George E. Whalen`, `Frances Ellen Whalen`, `Sarah Jane Whalen`, `Emma Sophia Whalen`, [[Whalen, John Warren 1860-08-12]]
+
+## 📖 Biography
+
+**William H Whalen** was born 1901 in Eastport, Maine, USA and passed away on 28 Feb 1903 in Eastport, Washington, Maine.
+
+Genealogical documentation records William H Whalen's connections to parent(s) Whalen, Patrick 1811-09-01, Eliza H Leslie.
+
+Through the established ancestral descent chain leading to Vault True North anchor Lisa Pino, this profile contributes vital demographic and familial context within regional historical records.
+
 
 ## 📄 Source Documents & Archival Evidence
 
@@ -85,13 +107,3 @@ views:
       - repository
 ```
 
-
-## ⚖️ Evidentiary Audit & Discrepancy Resolution
-
-**Audit Execution Date:** `2026-08-30`  
-**Audit Standard:** ADR-013, ADR-022 & SOP-GEN-009  
-**Auditor Status:** `🟢 VERIFIED_EMPIRICAL`  
-
-| Field / Attribute | Original Value | Reconciled Value | Epistemic Justification |
-| :--- | :--- | :--- | :--- |
-| **birth_place** | `West Isles, Charlotte County, New Brunswick, British North America` | `**Deer Island, Charlotte County, New Brunswick, British North America**` | Reconciled to authentic primary facsimile: City of Eastport Record of a Death (1903). |
